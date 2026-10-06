@@ -1,0 +1,14 @@
+(section-meta
+    (title Force Based Gamemastering)
+    (subtitle A guide to help you run reactive non-linear campaigns)
+    (include
+        (Subsection ./forces-and-opening.md)
+    )
+)
+
+(content 
+    (toc
+        (label Table of Contents)
+        (style numbered)
+    )
+)
