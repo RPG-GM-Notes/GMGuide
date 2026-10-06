@@ -10,9 +10,10 @@
 
 ## Table of Contents ##
 
-1. [Campaigns as a Physics Engine Rough](#campaigns-as-a-physics-engine-rough)
+1. [Introduction: Why This Guide Exists](#introduction-why-this-guide-exists)
+2. [Campaigns as a Physics Engine Rough](#campaigns-as-a-physics-engine-rough)
 
-### Introduction: Why This Guide Exists ###
+## Introduction: Why This Guide Exists ##
 
 ### Why I'm Writing This ###
 
@@ -22,8 +23,7 @@ This guide is my attempt to capture how I do that. I build a small number of for
 
 At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
-### What This Guide Will—and Won't—Teac ###
-h
+### What This Guide Will—and Won't—Teach ###
 
 This is a style of play built around a substantial initial investment and low-maintenance preparation afterward. It is meant to help a GM follow the joy of the table and improvise freely, while giving them enough understanding to keep the campaign feeling cohesive.
 

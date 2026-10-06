@@ -1,4 +1,4 @@
-<!-- (dl (# Introduction: Why This Guide Exists)) -->
+<!-- (dl (section-meta Introduction: Why This Guide Exists)) -->
 
 <!-- (dl (# Why I'm Writing This)) -->
 
@@ -8,7 +8,7 @@ This guide is my attempt to capture how I do that. I build a small number of for
 
 At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
-<!-- (dl (# What This Guide Will—and Won't—Teac)) -->h
+<!-- (dl (# What This Guide Will—and Won't—Teach)) -->
 
 This is a style of play built around a substantial initial investment and low-maintenance preparation afterward. It is meant to help a GM follow the joy of the table and improvise freely, while giving them enough understanding to keep the campaign feeling cohesive.
 
