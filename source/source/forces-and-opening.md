@@ -1,4 +1,4 @@
-# Campaigns as a Physics Engine
+<!-- (dl (section-meta Campaigns as a Physics Engine Rough)) -->
 
 I treat campaign creation as building a physics engine: I define a small number of forces and set their actions in motion. A force adds energy to a system that cannot be ignored; it can move the world around the characters. Power alone is not enough to make someone a force. A force must meet all four criteria:
 
@@ -11,7 +11,7 @@ A force might be a tribe of were-gators or a single Nephondi High Mage. A group 
 
 If members stop pursuing the shared goal or disagree about it, I decide whether the force changes, splits, or its members act individually based on what the story calls for.
 
-## Preparing Forces and Theme
+<!-- (dl (# Preparing Forces and Theme)) -->
 
 Defining good forces is difficult and takes time. I usually spend 80% or more of my initial preparation working on the forces. I brainstorm and spitball until I find something I like, often starting with a character idea but not always. There is no fixed sequence for developing a force’s goal, fingerprint, limits, or character.
 
@@ -21,7 +21,7 @@ Supporting characters help tell the story I want: a thematic or emotional throug
 
 I map force relationships up front, including alliances, rivalries, obligations, history, and dependencies. I also consider how local groups view each force: who hates it, who would hate it if they knew its identity, and who loves it. I distinguish what people know from what they believe, including what forces know or believe about one another, but keep those notes light—usually a sentence or three. The more I know about a force, the easier it is to make something up on the fly.
 
-## Play Through Force Reactions
+<!-- (dl (# Play Through Force Reactions)) -->
 
 This is an improvisational system that relies on substantial initial preparation. The preparation builds a model for making decisions on the fly; much of what is prepared may never be used. Nothing has to be predetermined. I may occasionally decide on something in advance if I have an idea, but I hold it loosely and do so rarely.
 
@@ -39,7 +39,7 @@ I mostly track active forces through session notes. I annotate the force notes w
 
 Whether a changed force still feels like the same force depends on context. If the characters know the person or organization, continuity is easier to recognize. If they do not know it, the changed force may not feel like the same one.
 
-## The Opening Collision
+<!-- (dl (# The Opening Collision)) -->
 
 I find an intersection where the actions of two or more forces come into contact. That intersection becomes the opening scene, and I always start the game with combat. The combat is a result of colliding forces, but the characters do not have to be fighting the forces directly: they may be caught in the fallout of those forces’ actions.
 
@@ -49,15 +49,15 @@ The collision must tie meaningfully into something the characters would be invol
 
 In one campaign, every character had a police officer as a contact. That connection existed before the fight, but I explained after combat that it happened because the contact had asked them to look into something. Revealing the reason afterward makes the exposition easier to stomach. For that opening, I gave everyone a free advantage because I knew what I wanted the scene to be.
 
-## Examples
+<!-- (dl (# Examples)) -->
 
-### Gang Fight and the Cartel Daughter
+<!-- (dl (## Gang Fight and the Cartel Daughter)) -->
 
 In one mage game, the opening combat was a gang fight, fallout from a Cartel Daughter trying to take over the city and its street gangs. Her fingerprint came from desperate paranoia: everything she did was over-planned, with contingencies layered on contingencies.
 
 The opening involved earlier, local forces. The were-gator tribe and Nephondi High Mage did not appear until those earlier forces were dealt with. The conflict with the gangs unfolded over eight sessions. The players did not realize they were taking out the gang leaders until it was over; this was an effect of what happened, not their main goal. The first leader was killed for revenge, the second by accident, and the third in self-defense. I do not remember what happened with the fourth or fifth. By the end of the eighth session, I had decided the Cartel Daughter would gain control of the city. The players had not known about her or her attempt to take over. When they discovered the new situation, they had to decide how to handle her.
 
-### The Nephondi High Mage
+<!-- (dl (## The Nephondi High Mage)) -->
 
 The Nephondi High Mage had the opposite kind of fingerprint: a lack of one. Things happened without any way to trace them back to him. The players found several untraceable things, such as documents they were looking for that were delivered by people paid $200 to take them to “that house.” Some of the information in these deliveries was based on things only the High Mage knew, but the players never figured out that he was behind them. They still talk about the unsolved puzzle fondly.
 
@@ -67,6 +67,6 @@ He would not use magic near another mage, because a mage sensitive to corruption
 
 The campaign’s theme was “Institutional Harm lives for generations.” The Nephondi killed a young mage he was corrupting. That death affected another character, who fell into drug abuse and, twenty years later, was contemplating suicide. The murdered mage had become a wraith and was trying to save his friend through the player characters. The wraith was weak, so he was a supporting character rather than a force. The Nephondi lost his plan and his life.
 
-### The Mayor
+<!-- (dl (## The Mayor)) -->
 
 In a street-level superhero campaign, the mayor was a force whose fingerprint was that everything was documented and traceable through paper. The mayor gained national recognition.
