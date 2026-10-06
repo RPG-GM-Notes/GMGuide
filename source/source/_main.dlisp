@@ -2,6 +2,7 @@
     (title Force Based Gamemastering)
     (subtitle A guide to help you run reactive non-linear campaigns)
     (include
+        (Subsection ./introduction.md)
         (Subsection ./forces-and-opening.md)
     )
 )
