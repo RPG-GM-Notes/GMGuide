@@ -1,11 +1,11 @@
 (documents
     (document
         (guide
-            (source ./source/_main.dlisp)
+            (source ./guide/_main.dlisp)
             (output ../GM_Guide.md)
         )
         (readme
-            (source ./source/_main.dlisp)
+            (source ./guide/_main.dlisp)
             (output ../readme.md)
         )
     )
