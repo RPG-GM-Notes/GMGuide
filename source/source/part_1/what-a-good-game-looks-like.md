@@ -1,4 +1,4 @@
-<!-- (dl (section-meta 1. What a Good Game Looks Like to Me)) -->
+<!-- (dl (section-meta What a Good Game Looks Like to Me)) -->
 
 <!-- (dl (# What I Want Players to Experience)) -->
 
