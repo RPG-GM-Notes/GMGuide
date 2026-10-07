@@ -1,0 +1,10 @@
+(section-meta
+    (title Part I: What I’m Trying to Create)
+    (include
+        (Subsection ./what-a-good-game-looks-like.md)
+    )
+)
+
+(content
+    (toc bulleted)
+)
