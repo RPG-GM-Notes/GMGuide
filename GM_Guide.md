@@ -44,11 +44,11 @@ The examples show what these ideas have looked like in my games, not what every 
 
 ## Part I: What I’m Trying to Create ##
 
-* [What a Good Game Looks Like to Me](#what-a-good-game-looks-like-to-me)
-* [The GM's Job—and Its Limits](#the-gms-joband-its-limits)
-* [The Principles Behind My Decisions](#the-principles-behind-my-decisions)
+* [1. What a Good Game Looks Like to Me](#1-what-a-good-game-looks-like-to-me)
+* [2. The GM's Job—and Its Limits](#2-the-gms-joband-its-limits)
+* [3. The Principles Behind My Decisions](#3-the-principles-behind-my-decisions)
 
-### What a Good Game Looks Like to Me ###
+### 1. What a Good Game Looks Like to Me ###
 
 #### What I Want Players to Experience ####
 
@@ -74,7 +74,7 @@ I'm comfortable leaving out or changing anything that gets in the way of the tab
 
 This doesn't mean I don't care about continuity, characters, or the story. I use preparation and the campaign's forces to help keep events coherent while improvising. But those are ways to support the experience, not obligations that outrank it.
 
-### The GM's Job—and Its Limits ###
+### 2. The GM's Job—and Its Limits ###
 
 #### What I Take Responsibility For ####
 
@@ -106,7 +106,7 @@ For ordinary rules questions, I use this loose framework:
 
 If the dice are getting in the way of the table's fun, I set them aside and play make-believe instead. Rules and systems are tools; they don't outrank the people playing.
 
-### The Principles Behind My Decisions ###
+### 3. The Principles Behind My Decisions ###
 
 #### My Core Principles ####
 
@@ -158,9 +158,9 @@ More broadly, I prepare enough to improvise rather than enough to predict. The c
 
 ## Part II: Setting Up the Game ##
 
-* [Finding the Right Fit](#finding-the-right-fit)
+* [4. Finding the Right Fit](#4-finding-the-right-fit)
 
-### Finding the Right Fit ###
+### 4. Finding the Right Fit ###
 
 #### Choosing a System for the Experience I Want ####
 

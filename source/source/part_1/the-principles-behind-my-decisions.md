@@ -1,4 +1,4 @@
-<!-- (dl (section-meta The Principles Behind My Decisions)) -->
+<!-- (dl (section-meta 3. The Principles Behind My Decisions)) -->
 
 <!-- (dl (# My Core Principles)) -->
 

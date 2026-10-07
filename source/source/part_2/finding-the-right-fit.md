@@ -1,4 +1,4 @@
-<!-- (dl (section-meta Finding the Right Fit)) -->
+<!-- (dl (section-meta 4. Finding the Right Fit)) -->
 
 <!-- (dl (# Choosing a System for the Experience I Want)) -->
 

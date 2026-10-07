@@ -1,4 +1,4 @@
-<!-- (dl (section-meta The GM's Job—and Its Limits)) -->
+<!-- (dl (section-meta 2. The GM's Job—and Its Limits)) -->
 
 <!-- (dl (# What I Take Responsibility For)) -->
 
