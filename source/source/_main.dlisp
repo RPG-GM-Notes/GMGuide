@@ -4,7 +4,7 @@
     (include
         (Subsection ./introduction.md)
         (Subsection ./part_1/_main.dlisp)
-        (Subsection ./forces-and-opening.md)
+        (*Subsection ./forces-and-opening.md)
     )
 )
 
