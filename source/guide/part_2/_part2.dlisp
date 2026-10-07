@@ -2,6 +2,7 @@
     (title Part II: Setting Up the Game)
     (include
         (Subsection ./finding-the-right-fit.md)
+        (Subsection ./creating-a-starting-point.md)
     )
 )
 
