@@ -13,7 +13,7 @@ If members stop pursuing the shared goal or disagree about it, I decide whether 
 
 <!-- (dl (# Preparing Forces and Theme)) -->
 
-Defining good forces is difficult and takes time. I usually spend 80% or more of my initial preparation working on the forces. I brainstorm and spitball until I find something I like, often starting with a character idea but not always. There is no fixed sequence for developing a force’s goal, fingerprint, limits, or character.
+Defining good forces is difficult and takes time. I usually spend about 70% of my initial preparation building the Stage and about 20% building the forces. I brainstorm and spitball until I find ideas I like, often starting with a character idea but not always. There is no fixed sequence for developing a force’s goal, fingerprint, limits, or character.
 
 A good force needs to play into the campaign’s theme and give me many options for play. I also consider what kind of character it is. There is no fixed order for developing forces and theme: I may start with either and loop back and forth until I have something I like. What matters is having both. I also build a few supporting characters.
 
