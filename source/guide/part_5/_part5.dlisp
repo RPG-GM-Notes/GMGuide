@@ -3,6 +3,7 @@
     (include
         (Subsection ./when-it-isnt-working.md)
         (Subsection ./my-approach-in-practice.md)
+        (Subsection ./making-this-style-your-own.md)
     )
 )
 
