@@ -126,7 +126,7 @@ I always start the game with combat arising from a collision of forces. The char
 
 Most games have their most developed rules in combat. Starting there lets the players try their new characters using the part of the game the rules support most heavily. It also focuses the table immediately. I have never had an opening combat fail to engage the players; it was the way I found to begin a campaign with everyone interested.
 
-But the opening combat is the dreaded railroad. The characters must already have made some decision to be in a place where the combat can happen. I am making that starting decision for them, so I do not want to build too much around it.
+But the opening combat is the dreaded railroad. The characters must already have made some decision to be in a place where the combat can happen. I am making that starting decision for them, so I do not want to build too much around it. This prepared frame is useful only for the first few moments of the first session; once play is underway, I follow the players' choices rather than treating the opening as a route the campaign must continue to follow.
 
 My rule is: **The decision must be something the players can accept that their characters did before the game started.**
 

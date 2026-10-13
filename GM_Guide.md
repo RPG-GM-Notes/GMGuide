@@ -128,9 +128,9 @@ I put substantial effort into the initial campaign concepts, especially the forc
 
 The characters' actions matter. Forces pursue their goals, react to interference, and may change as the campaign develops. I follow what the table finds engaging rather than insisting that players pursue every prepared thread.
 
-##### Improvise with enough continuity to earn trust #####
+##### Preserve the Appearance of Continuity #####
 
-Continuity is not valuable for its own sake. It is how players learn to trust the world and the game, and that trust supports suspension of disbelief. I don't hold continuity so tightly that it prevents change, but I do try to preserve it—even by engineering it backward when necessary—so the world continues to feel coherent.
+Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world, so that changes do not break that understanding. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
 
 ##### Treat the GM as a steward #####
 
@@ -148,7 +148,7 @@ At the table, I make rules calls with momentum and the character in mind. If I d
 
 Safety is the hard boundary. Within it, the table's fun comes first. Rules, plot, prepared encounters, characters, and continuity serve the experience; they do not outrank it.
 
-I still try to preserve continuity because it helps the players trust the world. But if maintaining it would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not perfect consistency at any cost; it is enough consistency for the world to feel believable and responsive.
+I aim for the appearance of continuity because it helps the players trust the world. But if preserving literal consistency would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not a perfect record of facts; it is a world that still makes sense from the players' point of view.
 
 #### Where My Approach Differs from Familiar Advice ####
 
@@ -314,7 +314,7 @@ I always start the game with combat arising from a collision of forces. The char
 
 Most games have their most developed rules in combat. Starting there lets the players try their new characters using the part of the game the rules support most heavily. It also focuses the table immediately. I have never had an opening combat fail to engage the players; it was the way I found to begin a campaign with everyone interested.
 
-But the opening combat is the dreaded railroad. The characters must already have made some decision to be in a place where the combat can happen. I am making that starting decision for them, so I do not want to build too much around it.
+But the opening combat is the dreaded railroad. The characters must already have made some decision to be in a place where the combat can happen. I am making that starting decision for them, so I do not want to build too much around it. This prepared frame is useful only for the first few moments of the first session; once play is underway, I follow the players' choices rather than treating the opening as a route the campaign must continue to follow.
 
 My rule is: **The decision must be something the players can accept that their characters did before the game started.**
 
@@ -445,7 +445,7 @@ If there is a conflict about a rule or ruling, I bring it to a table vote and mo
 
 #### Consistency Without Being Trapped by Precedent ####
 
-I want the world to feel consistent because that helps players trust it. But consistency does not mean that every improvised ruling becomes a permanent rule. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
+I want events to fit the players' view of the world because that helps them trust it. Literal consistency is less important than that appearance: a new explanation or detail can be worked in afterward if it does not break what the players understand to be true. Players often help make those connections themselves. This is separate from rules precedent. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
 
 I explain the correction and apply the rules or ruling consistently going forward. I do not take back a past success just to make the record match the rulebook. This lets me correct course without making the players feel that their earlier choices or accomplishments can be retroactively invalidated.
 
@@ -459,9 +459,9 @@ There is one exception to leaving past events in place. If an action causes some
 
 #### Recognizing What Deserves Attention ####
 
-I pay attention to what the players respond to. What they ask about, pursue, and keep engaging with tells me what is interesting to them. I do not give every prepared idea equal time just because I prepared it. If a thread is no longer engaging the players, I can let it rest or decide what becomes of it based on what seems most interesting.
+I pay attention to what the players respond to. What they ask about, pursue, and keep engaging with tells me what is interesting to them. I do not give every prepared idea equal time just because I prepared it. If the players chase other Arcs, I let a less-attended Arc languish, even while its events continue in the background and its consequences remain visible. I do not treat that as a reason to force the Arc forward or resolve it for them.
 
-Disengagement is usually visible: the players stop reacting, responding, or engaging with what a force is doing. If someone says directly that they do not like a thread, I take that seriously. Preparation gives me possibilities, not an obligation to keep presenting material the players do not want.
+An Arc losing the players' attention is different from a player losing interest in the game. If I am concerned about a player's engagement—for example, if they start spending time on their phone—I talk with them privately after the session rather than treating it as a story problem. If someone says directly that they do not like a thread, I take that seriously. Preparation gives me possibilities, not an obligation to keep presenting material the players do not want.
 
 #### Giving Players Room Without Losing Momentum ####
 
@@ -515,7 +515,7 @@ In combat, I make sure at least one NPC has a name and is called by it. A name g
 
 The characters' significant actions change the situation. I do not decide in advance what those actions must lead to; I look at what follows from what the characters actually did and from the people, forces, and relationships already in the game.
 
-I expect every significant act to have at least two consequences, and sometimes more. One is usually fairly immediate. Another may follow from the way the wider situation adjusts. The consequences can point in different directions: an action can help some people while creating trouble elsewhere. They are not a way to take back a success or punish the characters for acting. They are how the world responds.
+I expect every significant act to have at least two consequences, and sometimes more. I do this to help the players feel that their characters matter: their actions can keep changing the world beyond the moment in which they happened. One consequence is usually fairly immediate; another may surface several sessions later as the wider situation adjusts. These consequences do not have to balance each other or make every success costly. They can point in different directions, or they can all be beneficial or harmful. They are not a way to take back a success or punish the characters for acting. They let the world respond to what the characters have done.
 
 If the characters kill the head of a local gang, the people that person hurt may thank them. At the same time, removing that leader can destabilize the underground power structure and increase gang violence. Both results follow from the same act. The characters accomplished something real, and the situation has changed in ways they may now have to deal with.
 
@@ -525,7 +525,7 @@ I want the players to encounter the effects of their choices, even when those ef
 
 In one game, the characters were trying to find the cause of a massacre that had happened twenty years earlier. In doing so, they accidentally started a real-estate war. Land prices soared and housing costs rose so sharply that the news began reporting on apartments where large numbers of people were sharing rooms.
 
-That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain.
+That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain. The realization that an action from two games ago helped drive up housing costs can give the players a sense of awe at their characters' reach. In another game, stopping an evil corporation meant that its factory site eventually became a park. A consequence can be a lasting improvement, not just a new problem.
 
 #### Keeping the World Coherent as It Changes ####
 
@@ -534,6 +534,8 @@ The world can change in ways I did not plan, but I want those changes to grow ou
 Sometimes a consequence will be indirect or take time to appear. I do not need to reveal the whole chain at once. I can let the players see a new effect first, then discover its connection as they ask questions or investigate. The characters may never learn every connection, and the wider world may never recognize their part in what changed.
 
 The point is not to make the world react to every choice in a way that announces, “This was because of you.” It is to let the characters' choices matter. The world can respond, adapt, and keep moving around them, whether or not anyone understands why.
+
+I rarely need to plan a surprise. Logical fallout can surprise the players because I know more about the Stage, forces, and relationships than they do. A consequence that seems obvious to me may be unexpected to them; the difference in what we know lets ordinary cause and effect produce surprising revelations without a planned twist.
 
 ## Part IV: Beyond a Single Session ##
 

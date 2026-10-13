@@ -24,7 +24,7 @@ In combat, I make sure at least one NPC has a name and is called by it. A name g
 
 The characters' significant actions change the situation. I do not decide in advance what those actions must lead to; I look at what follows from what the characters actually did and from the people, forces, and relationships already in the game.
 
-I expect every significant act to have at least two consequences, and sometimes more. One is usually fairly immediate. Another may follow from the way the wider situation adjusts. The consequences can point in different directions: an action can help some people while creating trouble elsewhere. They are not a way to take back a success or punish the characters for acting. They are how the world responds.
+I expect every significant act to have at least two consequences, and sometimes more. I do this to help the players feel that their characters matter: their actions can keep changing the world beyond the moment in which they happened. One consequence is usually fairly immediate; another may surface several sessions later as the wider situation adjusts. These consequences do not have to balance each other or make every success costly. They can point in different directions, or they can all be beneficial or harmful. They are not a way to take back a success or punish the characters for acting. They let the world respond to what the characters have done.
 
 If the characters kill the head of a local gang, the people that person hurt may thank them. At the same time, removing that leader can destabilize the underground power structure and increase gang violence. Both results follow from the same act. The characters accomplished something real, and the situation has changed in ways they may now have to deal with.
 
@@ -34,7 +34,7 @@ I want the players to encounter the effects of their choices, even when those ef
 
 In one game, the characters were trying to find the cause of a massacre that had happened twenty years earlier. In doing so, they accidentally started a real-estate war. Land prices soared and housing costs rose so sharply that the news began reporting on apartments where large numbers of people were sharing rooms.
 
-That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain.
+That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain. The realization that an action from two games ago helped drive up housing costs can give the players a sense of awe at their characters' reach. In another game, stopping an evil corporation meant that its factory site eventually became a park. A consequence can be a lasting improvement, not just a new problem.
 
 <!-- (dl (# Keeping the World Coherent as It Changes)) -->
 
@@ -43,3 +43,5 @@ The world can change in ways I did not plan, but I want those changes to grow ou
 Sometimes a consequence will be indirect or take time to appear. I do not need to reveal the whole chain at once. I can let the players see a new effect first, then discover its connection as they ask questions or investigate. The characters may never learn every connection, and the wider world may never recognize their part in what changed.
 
 The point is not to make the world react to every choice in a way that announces, “This was because of you.” It is to let the characters' choices matter. The world can respond, adapt, and keep moving around them, whether or not anyone understands why.
+
+I rarely need to plan a surprise. Logical fallout can surprise the players because I know more about the Stage, forces, and relationships than they do. A consequence that seems obvious to me may be unexpected to them; the difference in what we know lets ordinary cause and effect produce surprising revelations without a planned twist.

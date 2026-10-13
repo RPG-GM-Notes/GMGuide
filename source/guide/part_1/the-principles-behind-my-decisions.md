@@ -18,9 +18,9 @@ I put substantial effort into the initial campaign concepts, especially the forc
 
 The characters' actions matter. Forces pursue their goals, react to interference, and may change as the campaign develops. I follow what the table finds engaging rather than insisting that players pursue every prepared thread.
 
-<!-- (dl (## Improvise with enough continuity to earn trust)) -->
+<!-- (dl (## Preserve the Appearance of Continuity)) -->
 
-Continuity is not valuable for its own sake. It is how players learn to trust the world and the game, and that trust supports suspension of disbelief. I don't hold continuity so tightly that it prevents change, but I do try to preserve it—even by engineering it backward when necessary—so the world continues to feel coherent.
+Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world, so that changes do not break that understanding. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
 
 <!-- (dl (## Treat the GM as a steward)) -->
 
@@ -38,7 +38,7 @@ At the table, I make rules calls with momentum and the character in mind. If I d
 
 Safety is the hard boundary. Within it, the table's fun comes first. Rules, plot, prepared encounters, characters, and continuity serve the experience; they do not outrank it.
 
-I still try to preserve continuity because it helps the players trust the world. But if maintaining it would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not perfect consistency at any cost; it is enough consistency for the world to feel believable and responsive.
+I aim for the appearance of continuity because it helps the players trust the world. But if preserving literal consistency would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not a perfect record of facts; it is a world that still makes sense from the players' point of view.
 
 <!-- (dl (# Where My Approach Differs from Familiar Advice)) -->
 

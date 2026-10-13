@@ -2,9 +2,9 @@
 
 <!-- (dl (# Recognizing What Deserves Attention)) -->
 
-I pay attention to what the players respond to. What they ask about, pursue, and keep engaging with tells me what is interesting to them. I do not give every prepared idea equal time just because I prepared it. If a thread is no longer engaging the players, I can let it rest or decide what becomes of it based on what seems most interesting.
+I pay attention to what the players respond to. What they ask about, pursue, and keep engaging with tells me what is interesting to them. I do not give every prepared idea equal time just because I prepared it. If the players chase other Arcs, I let a less-attended Arc languish, even while its events continue in the background and its consequences remain visible. I do not treat that as a reason to force the Arc forward or resolve it for them.
 
-Disengagement is usually visible: the players stop reacting, responding, or engaging with what a force is doing. If someone says directly that they do not like a thread, I take that seriously. Preparation gives me possibilities, not an obligation to keep presenting material the players do not want.
+An Arc losing the players' attention is different from a player losing interest in the game. If I am concerned about a player's engagement—for example, if they start spending time on their phone—I talk with them privately after the session rather than treating it as a story problem. If someone says directly that they do not like a thread, I take that seriously. Preparation gives me possibilities, not an obligation to keep presenting material the players do not want.
 
 <!-- (dl (# Giving Players Room Without Losing Momentum)) -->
 

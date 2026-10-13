@@ -24,7 +24,7 @@ If there is a conflict about a rule or ruling, I bring it to a table vote and mo
 
 <!-- (dl (# Consistency Without Being Trapped by Precedent)) -->
 
-I want the world to feel consistent because that helps players trust it. But consistency does not mean that every improvised ruling becomes a permanent rule. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
+I want events to fit the players' view of the world because that helps them trust it. Literal consistency is less important than that appearance: a new explanation or detail can be worked in afterward if it does not break what the players understand to be true. Players often help make those connections themselves. This is separate from rules precedent. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
 
 I explain the correction and apply the rules or ruling consistently going forward. I do not take back a past success just to make the record match the rulebook. This lets me correct course without making the players feel that their earlier choices or accomplishments can be retroactively invalidated.
 
