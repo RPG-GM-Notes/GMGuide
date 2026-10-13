@@ -10,6 +10,8 @@ The **Stage** gives events context and depth: places, people, history, relations
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 
+Forces drive events, but Arcs—the situations and developing stories their actions create—are the main unit players engage with. Prepare Forces to generate Arcs the players want to pursue.
+
 <!-- (dl (## Let Play Create the Story)) -->
 
 At the table, repeat this loop:

@@ -66,6 +66,8 @@ Most of what I create for the Stage never appears directly in play. That is usef
 
 I use "Arc" and "Story" interchangeably. A collision starts an Arc: the events that fall out of that collision belong to the same narrative device. That device can end, even while the campaign continues.
 
+Players may talk about the Forces, but when choosing what to pursue, they engage with Arcs: the situations and developing stories that grow from the Forces' actions. Forces are the engine that creates those situations; the Arc is the main unit of player engagement. I prepare Forces so they can produce Arcs the players want to engage with.
+
 An Arc ends in one of two ways:
 
 - The players stop engaging with it.

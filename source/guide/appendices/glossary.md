@@ -1,6 +1,6 @@
 <!-- (dl (section-meta Terms I Use in a Particular Way)) -->
 
-**Arc:** A narrative thread that begins with a collision between forces. Its events develop through play. It can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
+**Arc:** A narrative thread that begins with a collision between forces and develops through play. Arcs are the main unit players engage with: the situations and stories they choose to pursue. An Arc can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
 
 **Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
 

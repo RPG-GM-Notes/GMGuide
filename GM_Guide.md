@@ -248,6 +248,8 @@ Most of what I create for the Stage never appears directly in play. That is usef
 
 I use "Arc" and "Story" interchangeably. A collision starts an Arc: the events that fall out of that collision belong to the same narrative device. That device can end, even while the campaign continues.
 
+Players may talk about the Forces, but when choosing what to pursue, they engage with Arcs: the situations and developing stories that grow from the Forces' actions. Forces are the engine that creates those situations; the Arc is the main unit of player engagement. I prepare Forces so they can produce Arcs the players want to engage with.
+
 An Arc ends in one of two ways:
 
 - The players stop engaging with it.
@@ -840,6 +842,8 @@ The **Stage** gives events context and depth: places, people, history, relations
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 
+Forces drive events, but Arcs—the situations and developing stories their actions create—are the main unit players engage with. Prepare Forces to generate Arcs the players want to pursue.
+
 ##### Let Play Create the Story #####
 
 At the table, repeat this loop:
@@ -925,7 +929,7 @@ After the session
 
 ### Terms I Use in a Particular Way ###
 
-**Arc:** A narrative thread that begins with a collision between forces. Its events develop through play. It can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
+**Arc:** A narrative thread that begins with a collision between forces and develops through play. Arcs are the main unit players engage with: the situations and stories they choose to pursue. An Arc can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
 
 **Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
 
