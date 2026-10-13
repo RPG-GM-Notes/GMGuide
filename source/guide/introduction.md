@@ -6,7 +6,9 @@ Much of the campaign-creation advice I've encountered seems to lead to campaigns
 
 This guide is my attempt to capture how I do that. I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, limits, and recognizable fingerprints. I consider how the forces relate to one another and to the characters. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
 
-At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
+In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. The forces are its active agents: they want something, they have limits, and they can move the world. The characters are another set of agents entering that system and changing its behavior. The campaign is not a machine I power by telling the players what happens next. It is a network of relationships and pressures that produces consequences when the players act on it.
+
+At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. A campaign works best when its parts have enough internal logic that the resulting behavior feels understandable even when it is surprising. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
 <!-- (dl (# What This Guide Will—and Won't—Teach)) -->
 

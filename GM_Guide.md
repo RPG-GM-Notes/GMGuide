@@ -24,7 +24,9 @@ Much of the campaign-creation advice I've encountered seems to lead to campaigns
 
 This guide is my attempt to capture how I do that. I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, limits, and recognizable fingerprints. I consider how the forces relate to one another and to the characters. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
 
-At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
+In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. The forces are its active agents: they want something, they have limits, and they can move the world. The characters are another set of agents entering that system and changing its behavior. The campaign is not a machine I power by telling the players what happens next. It is a network of relationships and pressures that produces consequences when the players act on it.
+
+At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. A campaign works best when its parts have enough internal logic that the resulting behavior feels understandable even when it is surprising. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
 ### What This Guide Will—and Won't—Teach ###
 
@@ -375,6 +377,42 @@ I do not prepare a required sequence of events, the characters' decisions, or an
 I also do not try to prepare every possible clue, encounter, or interaction. I prepare the ones that matter to the situation and that call for effort from the characters. The rest can emerge during play, informed by the Stage, the forces, and what has already happened.
 
 #### An Annotated Example of My Session Prep ####
+
+Here is the sort of thing I prepare before a session. The exact format changes from game to game, but the pattern stays the same: I note the fallout from the last session, identify the questions that matter, and prepare the things the characters are likely to spend effort on. I do not write a script. I write a situation.
+
+##### Example: After the warehouse attack #####
+
+The last session ended with the characters exposing a forged permit at the River Market and forcing a confrontation with the guild's private enforcers. The market is furious, frightened, and eager to find someone to blame. The characters are now the obvious target.
+
+```text
+Session Prep: River Market
+
+Fallout
+- The warehouse fire is still smoldering; people are scared, angry, and looking for a scapegoat.
+- The guild is suppressing rumors, but a few workers are willing to talk if the characters can promise safety.
+- The spirit beneath the city is stirring and leaving traces in the old drains beneath the market.
+
+Things that require effort
+- Clue: a ledger page showing payment to a councilor tied to the guild.
+- Clue: a half-burned note reading "salt the shrine before sunrise."
+- Combatants: four masked enforcers, two dock thugs, one guild fixer.
+- Key NPC: Ilya Moss, a broker who wants the characters to keep the market quiet while she figures out what the guild is hiding.
+
+Open questions
+- Does the councilor know what the guild is doing, or is the guild using him?
+- Is the spirit reacting to the characters, or just to the disturbances above it?
+- What happens if the characters expose the ledger before they can verify it?
+```
+
+The value of this prep is not that the notes are complete. They are not. The point is that I have identified the pressure points. The market is unstable. People are willing to talk. There are clues worth following. There are enemies the characters might fight. There is a person with leverage and a reason to talk to them. Those are the ingredients I need to improvise from.
+
+##### Why This Works #####
+
+I write down the fallout that matters, not a timeline of events. The market is angry because of what happened last session, and that anger creates a reason for the next session to begin with tension. I prepare a small set of material things the characters might investigate, take interest in, or use. I prepare the enforcers and the broker because those are the things the characters may need to fight or negotiate with. I leave the details fluid because the players are the ones who decide which questions they ask and what they do with the answers.
+
+The open questions are the real structure. They tell me what is uncertain and what need not be decided yet. If the players ignore the ledger and pursue the shrine, the market still matters because the market itself is full of suspicion and fallout. If they talk to Ilya, she can steer them, threaten them, or offer them a bargain. If they attack the enforcers, the guild responds, and the tension in the city becomes a new problem rather than a pre-written plot beat.
+
+This is the point of prepared session notes for me: they help me understand the pressure in the room, the questions the players might ask, and the likely consequences of their choices. They do not make the session a script. They keep the campaign moving without deciding in advance what the characters will do.
 
 ## Part III: Running the Game ##
 
