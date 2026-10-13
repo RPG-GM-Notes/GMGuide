@@ -581,6 +581,10 @@ Those notes feed into preparation for the next session: I ask what interesting f
 
 The first four sessions are an exception. At that point, the characters may have done too little to propel the campaign and create much fallout of their own. I pay close attention to what has engaged the players and use those apparent interests to create inciting incidents that may appeal to them. As the characters' actions begin to change the situation, those actions and their effects become the main material feeding into the next session.
 
+In my experience, the second session is almost always the least exciting session of a campaign. The first session has the momentum of its opening combat and the players' discovery of what the campaign is. By the second, that initial energy has faded, but the characters' actions may not yet have created enough fallout to move the campaign on its own. The GM is supplying more of the fuel, while the players are still getting familiar with the characters they created and learning what those characters might do in different situations. By the third session, player choices often begin to build momentum, and the players have a better feel for their characters.
+
+I have not found a reliable way to make the second session exciting. Knowing this pattern helps me avoid treating a flat session as proof that I have failed or that the campaign is already failing. I keep responding to what has interested the players, and give their choices time to start shaping what comes next. This is not a reason to ignore genuine disinterest or a mismatch; it is a reminder that the campaign may still be finding its momentum.
+
 ### 12. Letting a Campaign Develop ###
 
 #### What Persists Between Sessions ####
@@ -618,6 +622,8 @@ I had not waited for every thread or force to be resolved. The wizard's defeat c
 I want the game to leave people energized, engaged, and still thinking about what happened. A session does not have to follow my plans to succeed, but I pay attention when the players and I are not enjoying the game, or when the play at the table is not producing the experience we agreed to pursue.
 
 One quiet session is not enough to diagnose a problem. A player may be thinking, tired, or simply less interested in a particular thread. A thread losing the players' attention is not the same as a player losing interest in the game. I look for patterns in how people respond, and I ask the players how the game could be better. Their feedback helps me notice a problem, but I still need to understand what is behind it before choosing a change.
+
+This is especially worth remembering in the second session. In my experience, it is often the least exciting session: the opening energy has faded, the characters may not yet have generated much momentum, and the players are still learning them (see Chapter 11). One flat second session does not, by itself, mean that the GM has failed or that the campaign is not working.
 
 Sometimes the problem is local. A ruling, encounter, or scene may be slowing play down or making a character feel ineffective. Sometimes the players are engaged with the campaign, but not with the material I expected them to care about. And sometimes the group wants a different kind of game from the one I want to run. Those are different problems; they need different responses.
 
