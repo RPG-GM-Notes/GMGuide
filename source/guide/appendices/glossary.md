@@ -1,0 +1,15 @@
+<!-- (dl (section-meta Terms I Use in a Particular Way)) -->
+
+**Arc:** A narrative thread that begins with a collision between forces. Its events develop through play. It can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
+
+**Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
+
+**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
+
+**Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
+
+**Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
+
+**Stage:** The developed background of a campaign: its places, people, stories, relationships, and pressures. It gives forces a world to act in and gives the characters' choices context and consequences.
+
+**Supporting character:** A character who helps tell a thematic or emotional thread, connects the characters to forces, or shows the effects of events. A supporting character does not need to meet the criteria for a force.

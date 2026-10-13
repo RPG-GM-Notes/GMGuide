@@ -16,6 +16,7 @@
 4. [Part III: Running the Game](#part-iii-running-the-game)
 5. [Part IV: Beyond a Single Session](#part-iv-beyond-a-single-session)
 6. [Part V: Learning the Approach](#part-v-learning-the-approach)
+7. [Appendices](#appendices)
 
 ## Introduction: Why This Guide Exists ##
 
@@ -820,6 +821,151 @@ As you try an adaptation, pay attention to what happens at the table. Do the pla
 If the area feels empty, add depth to the Stage: relationships, history, people, or pressures that make the place feel inhabited and give actions consequences. If the players are interested in something you did not expect, follow that interest and see how it changes the situation. If the approach is not producing a game your group enjoys, talk about what is missing and adjust—or decide that a different style is a better fit.
 
 You do not need to copy my campaign structure, preparation ratios, opening combat, or number of forces to use the underlying idea. Start with a complete but bounded system, observe what play brings out, and adapt from there. The point is not to reproduce my habits; it is to build a way of preparing and improvising that helps your table create a game worth remembering.
+
+## Appendices ##
+
+* [A One-Page Summary](#a-one-page-summary)
+* [Preparation and Session-Note Examples](#preparation-and-session-note-examples)
+* [Quick Reference for Play](#quick-reference-for-play)
+* [Exercises](#exercises)
+* [Terms I Use in a Particular Way](#terms-i-use-in-a-particular-way)
+
+### A One-Page Summary ###
+
+#### The Approach ####
+
+Prepare a living situation, not a story the players must follow. Understand enough about the world and the forces acting in it to respond when the characters do something unexpected.
+
+##### Build a Small, Connected World #####
+
+The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and move the world within that Stage. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
+
+Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
+
+##### Let Play Create the Story #####
+
+At the table, repeat this loop:
+
+1. Present what is happening.
+2. Find out what the players want their characters to do.
+3. Decide what, if anything, needs resolution.
+4. Establish what changes.
+5. Give the situation back to the players.
+
+Use the Stage, forces, goals, limits, and established events to decide what follows. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread. Consequences should grow from the situation and give the players something meaningful to respond to, not secretly cancel their success.
+
+##### Keep the Table's Priorities Clear #####
+
+- **Safety is the hard boundary.** A player's veto is not debated or put to a vote.
+- **The table's fun comes first.** Change or discard a plan, character, rule, or system that gets in the way.
+- **Player choices matter.** Preparation provides possibilities, not a route they must take.
+- **Continuity serves the experience.** Keep the world understandable, but do not protect literal consistency at the cost of safety or agency.
+- **Adapt rules of thumb.** The number of forces, preparation habits, and opening techniques are tools, not universal requirements.
+
+##### Prepare to Improvise #####
+
+Before play, build enough of the Stage and forces to understand why events make sense. Between sessions, note what changed and prepare the fallout and material the characters may need to engage with. Leave their choices and outcomes open.
+
+This preparation helps improvisation feel coherent. Players may experience the world as complete and connected even when you make a connection in the moment. The goal is not to fool them; it is to create a shared moment of wonder.
+
+### Preparation and Session-Note Examples ###
+
+TBD
+
+### Quick Reference for Play ###
+
+#### The Loop ####
+
+1. **Present:** What is happening that the characters can perceive and act on?
+2. **Ask:** What do the players want their characters to do? Clarify their intention if needed.
+3. **Resolve:** Is the outcome clear, or is it uncertain and important? Use a rule, make a ruling, or talk it through.
+4. **Change:** What plausibly changes because of the action? Consider the Stage, force goals and limits, relationships, and what has already happened.
+5. **Return:** Make the change visible and give the players the situation back.
+
+#### When Deciding What Happens ####
+
+- Start from what is established; do not invent danger just to make things harder.
+- Consider the worst plausible consequences, then discard those that undermine interest, momentum, safety, agency, or fun.
+- Let success stand. A consequence can add a cost, reveal a problem, change a relationship, or draw attention without negating the achievement.
+- If you do not know a rule, let the player try for now and check it for later.
+- If the action is a plausible stretch, consider allowing it with a small increase in difficulty.
+- If it is too outlandish, say no to that action and help find another way to pursue the character's goal.
+- If a ruling or technique is not working, acknowledge it and correct course.
+- A safety veto is immediate and unconditional; remove the offending context and its direct consequences.
+
+#### Keep the Situation Alive ####
+
+- Notice what the players ask about, pursue, and return to.
+- Follow their interest; do not protect unused preparation.
+- Forces and the Stage can change in response to play.
+- Preserve what matters, let go of what no longer serves the game, and start the loop again.
+
+### Exercises ###
+
+These exercises are ways to practice the approach. They are not tests with one correct answer. Keep each exercise small in scope, but include enough connected parts for a functioning situation.
+
+#### Build a Small Stage ####
+
+Choose a bounded place, such as one neighborhood or one part of a city. Develop a small Stage that includes:
+
+- A few places the characters could visit.
+- People or groups with relationships to one another.
+- A piece of local history that affects the present.
+- A current pressure or change people can notice.
+- Details that could surface through ordinary conversation or rumor.
+
+Ask how the pieces affect one another. If the Stage feels like a list of unrelated ideas, add or change connections until it feels like a place where events can have consequences.
+
+#### Find Forces in the Stage ####
+
+Look at the Stage you made and identify people or groups who want something. For each possible force, write:
+
+- What it wants.
+- What it will and will not do.
+- What makes it more powerful than the characters in this situation.
+- What evidence could let the players recognize its actions.
+
+Consider how the forces' actions might intersect without requiring them to have opposite goals. Remember that a group can be one force while its members remain distinct individuals.
+
+#### Make a Collision, Leave the Outcome Open ####
+
+Choose two forces and identify a goal or action that brings them into contact. Write down what caused the conflict and what the characters might perceive if they encounter its fallout.
+
+Do not decide what the characters will do or how the conflict must end. Instead, list a few plausible responses the forces might make to different kinds of interference, guided by their goals and limits.
+
+#### Practice an Unexpected Choice ####
+
+Imagine the players ignoring the lead you expected them to follow and taking an action you did not prepare for. Use the Stage, force goals, relationships, and established events to answer:
+
+- What changes immediately?
+- Who notices or is affected?
+- What might happen later as fallout?
+- What information can the players perceive now?
+- What should remain undecided until they act again?
+
+Then present the changed situation and invite the players to choose what happens next.
+
+#### Follow the Players' Interest ####
+
+During a session or a practice scene, notice what the players ask about, pursue, or find emotionally engaging. Choose one of those details and develop a plausible connection to the Stage or a force. Add to what the players made important without taking their choices away or requiring them to pursue your new idea.
+
+Afterward, ask whether the new connection made the situation richer and more coherent, or whether it felt imposed. Use that response to decide what to adjust.
+
+### Terms I Use in a Particular Way ###
+
+**Arc:** A narrative thread that begins with a collision between forces. Its events develop through play. It can end when the players disengage or when its fallout reaches a natural conclusion; those are different kinds of ending.
+
+**Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
+
+**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
+
+**Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
+
+**Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
+
+**Stage:** The developed background of a campaign: its places, people, stories, relationships, and pressures. It gives forces a world to act in and gives the characters' choices context and consequences.
+
+**Supporting character:** A character who helps tell a thematic or emotional thread, connects the characters to forces, or shows the effects of events. A supporting character does not need to meet the criteria for a force.
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

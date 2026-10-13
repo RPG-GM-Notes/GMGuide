@@ -1,0 +1,14 @@
+(section-meta
+    (title Appendices)
+    (include
+        (Subsection ./one-page-summary.md)
+        (Subsection ./preparation-and-session-notes.md)
+        (Subsection ./quick-reference.md)
+        (Subsection ./exercises.md)
+        (Subsection ./glossary.md)
+    )
+)
+
+(content
+    (toc bulleted)
+)

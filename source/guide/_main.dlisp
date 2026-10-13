@@ -8,6 +8,7 @@
         (Subsection ./part_3/_part3.dlisp)
         (Subsection ./part_4/_part4.dlisp)
         (Subsection ./part_5/_part5.dlisp)
+        (Subsection ./appendices/_appendices.dlisp)
     )
 )
 
