@@ -6,7 +6,7 @@ Prepare a living situation, not a story the players must follow. Understand enou
 
 <!-- (dl (## Build a Small, Connected World)) -->
 
-The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and move the world within that Stage. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
+The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and have more power than the characters in the relevant arena, letting them move the world within that Stage. This power may come from authority, resources, trust, knowledge, or other means; it need not apply in every arena. A Force is not necessarily an antagonist: a church working to end hunger or a mayor seeking reelection can shape events just as much as an obvious enemy. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 

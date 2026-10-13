@@ -46,10 +46,10 @@ Look at the Stage you made and identify people or groups who want something. For
 
 - What it wants.
 - What it will and will not do.
-- What makes it more powerful than the characters in this situation.
+- What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
 - What evidence could let the players recognize its actions.
 
-Consider how the forces' actions might intersect without requiring them to have opposite goals. Remember that a group can be one force while its members remain distinct individuals.
+Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
 <!-- (dl (## Make a Collision, Leave the Outcome Open)) -->
 

@@ -4,7 +4,7 @@
 
 **Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
 
-**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A force may be publicly known and pursue its goals openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
+**Force:** A person or group with a goal and more power than the characters in the arena where it pursues that goal. This power lets it affect the world, and need not apply in every arena or mean combat power. In this approach, a useful Force also has lines it will and will not cross and a fingerprint that can help players recognize its actions. Its influence may be political, social, economic, supernatural, or physical. A Force is not necessarily an antagonist: it may aid the characters, oppose them, or pursue its own concerns. It may be publicly known and act openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
 
 **Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
 

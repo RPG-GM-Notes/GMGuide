@@ -24,7 +24,7 @@
 
 Much of the campaign-creation advice I've encountered seems to lead to campaigns that feel dead to me: either the game is pushed along a predetermined track, or the GM is left stranded when the characters do something nobody could have predicted. I don't want to predict what the characters will do. I want enough understanding of the situation to make decisions in real time that feel like they belong in the same world and story.
 
-This guide is my attempt to capture how I do that. I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, limits, and recognizable fingerprints. I consider how the forces relate to one another and to the characters. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
+This guide is my attempt to capture how I do that. I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, power greater than the characters in the relevant arena, limits, and recognizable fingerprints. A Force is not necessarily an antagonist; it may help the characters, work at cross-purposes with them, or pursue its own concerns without regard for them. I consider how the forces relate to one another and to the characters. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
 
 In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. Forces are its active agents, pursuing goals within their limits. The characters enter that system and change its behavior. I do not craft a sequence of events for them to follow; I build an environment in which their choices and the world's pressures produce stories.
 
@@ -190,22 +190,26 @@ Three constructs help me do this: forces, the Stage, and Arcs. Forces pursue goa
 
 ##### Forces #####
 
-Power alone does not make someone a force. A force must have all four of these qualities:
+At its core, a Force is a person or group with a goal and more power than the characters in the arena where it pursues that goal, giving it the ability to move the world. A Force is not the same thing as an antagonist: "Force" describes an actor's capacity to affect the situation, while "antagonist" describes its relationship to the characters or their aims. A Force might help the characters, oppose them, or pursue goals that have little to do with them. That relationship can also change over the course of a campaign.
 
-- It is more powerful than the characters.
+For my purposes, a useful Force has all four of these qualities:
+
+- It is more powerful than the characters in the arena relevant to its goal, and can affect the situation in ways they cannot easily ignore.
 - It has a goal it is trying to achieve.
 - It has lines it will and will not cross.
 - It has a fingerprint: findable evidence that lets the players recognize separate actions as the work of the same person or group.
 
-What counts as more powerful depends on the campaign and what I want to emphasize. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
+The comparison is specific to the arena where the Force pursues its goal; it does not have to be more powerful than the characters in every way. A mayor may have far greater influence over city policy while being no match for the characters in a fight. A church may have a food network and community trust the characters lack, while depending on them in another arena. A Force's power might come from political authority, money, public trust, specialized knowledge, social reach, supernatural influence, or control of something people need. What matters is that it can make things happen in pursuit of its goal at the scale relevant to the campaign. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
 Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. The fingerprint helps players connect actions to a force; it does not require the force itself to be concealed.
 
+Forces do not have to be villains or even obvious sources of conflict. A church might organize kitchens and food deliveries because it wants to end hunger. A mayor might court voters and redirect city resources because they want to be reelected. A police chief, haunted by the violence of the streets, might want people to feel safe and use the department's authority to pursue that goal. Each can change the situation through the work it does, the people it brings together, and the choices it makes. Their goals may align with the characters', conflict with them, or simply intersect; good intentions do not guarantee agreement, but neither do they make opposition inevitable.
+
 I also create supporting characters. They do not need to meet the criteria for a force. They can connect the characters to forces, show the effects of those forces, or carry a thematic or emotional thread of their own.
 
-As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their ways of pursuing those goals can bring them into conflict, but their purposes do not need to be opposite sides of the same struggle.
+As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their actions may bring them into conflict, but they may also support or complicate one another, or remain unrelated. Their purposes do not need to be opposite sides of the same struggle.
 
-For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for the conflicts they generate.
+For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for how their actions might intersect, whether that produces conflict, cooperation, or no immediate connection.
 
 ##### The Stage #####
 
@@ -772,10 +776,10 @@ Look at the Stage you made and identify people or groups who want something. For
 
 - What it wants.
 - What it will and will not do.
-- What makes it more powerful than the characters in this situation.
+- What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
 - What evidence could let the players recognize its actions.
 
-Consider how the forces' actions might intersect without requiring them to have opposite goals. Remember that a group can be one force while its members remain distinct individuals.
+Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
 ##### Make a Collision, Leave the Outcome Open #####
 
@@ -820,7 +824,7 @@ Prepare a living situation, not a story the players must follow. Understand enou
 
 ##### Build a Small, Connected World #####
 
-The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and move the world within that Stage. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
+The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and have more power than the characters in the relevant arena, letting them move the world within that Stage. This power may come from authority, resources, trust, knowledge, or other means; it need not apply in every arena. A Force is not necessarily an antagonist: a church working to end hunger or a mayor seeking reelection can shape events just as much as an obvious enemy. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 
@@ -913,7 +917,7 @@ After the session
 
 **Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
 
-**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A force may be publicly known and pursue its goals openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
+**Force:** A person or group with a goal and more power than the characters in the arena where it pursues that goal. This power lets it affect the world, and need not apply in every arena or mean combat power. In this approach, a useful Force also has lines it will and will not cross and a fingerprint that can help players recognize its actions. Its influence may be political, social, economic, supernatural, or physical. A Force is not necessarily an antagonist: it may aid the characters, oppose them, or pursue its own concerns. It may be publicly known and act openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
 
 **Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
 

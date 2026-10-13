@@ -8,22 +8,26 @@ Three constructs help me do this: forces, the Stage, and Arcs. Forces pursue goa
 
 <!-- (dl (## Forces)) -->
 
-Power alone does not make someone a force. A force must have all four of these qualities:
+At its core, a Force is a person or group with a goal and more power than the characters in the arena where it pursues that goal, giving it the ability to move the world. A Force is not the same thing as an antagonist: "Force" describes an actor's capacity to affect the situation, while "antagonist" describes its relationship to the characters or their aims. A Force might help the characters, oppose them, or pursue goals that have little to do with them. That relationship can also change over the course of a campaign.
 
-- It is more powerful than the characters.
+For my purposes, a useful Force has all four of these qualities:
+
+- It is more powerful than the characters in the arena relevant to its goal, and can affect the situation in ways they cannot easily ignore.
 - It has a goal it is trying to achieve.
 - It has lines it will and will not cross.
 - It has a fingerprint: findable evidence that lets the players recognize separate actions as the work of the same person or group.
 
-What counts as more powerful depends on the campaign and what I want to emphasize. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
+The comparison is specific to the arena where the Force pursues its goal; it does not have to be more powerful than the characters in every way. A mayor may have far greater influence over city policy while being no match for the characters in a fight. A church may have a food network and community trust the characters lack, while depending on them in another arena. A Force's power might come from political authority, money, public trust, specialized knowledge, social reach, supernatural influence, or control of something people need. What matters is that it can make things happen in pursuit of its goal at the scale relevant to the campaign. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
 Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. The fingerprint helps players connect actions to a force; it does not require the force itself to be concealed.
 
+Forces do not have to be villains or even obvious sources of conflict. A church might organize kitchens and food deliveries because it wants to end hunger. A mayor might court voters and redirect city resources because they want to be reelected. A police chief, haunted by the violence of the streets, might want people to feel safe and use the department's authority to pursue that goal. Each can change the situation through the work it does, the people it brings together, and the choices it makes. Their goals may align with the characters', conflict with them, or simply intersect; good intentions do not guarantee agreement, but neither do they make opposition inevitable.
+
 I also create supporting characters. They do not need to meet the criteria for a force. They can connect the characters to forces, show the effects of those forces, or carry a thematic or emotional thread of their own.
 
-As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their ways of pursuing those goals can bring them into conflict, but their purposes do not need to be opposite sides of the same struggle.
+As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their actions may bring them into conflict, but they may also support or complicate one another, or remain unrelated. Their purposes do not need to be opposite sides of the same struggle.
 
-For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for the conflicts they generate.
+For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for how their actions might intersect, whether that produces conflict, cooperation, or no immediate connection.
 
 <!-- (dl (## The Stage)) -->
 
