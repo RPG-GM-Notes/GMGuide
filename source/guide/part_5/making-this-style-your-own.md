@@ -47,9 +47,9 @@ Look at the Stage you made and identify people or groups who want something. For
 - What it wants.
 - What it will and will not do.
 - What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
-- What evidence could let the players recognize its actions.
+- What recognizable signature shapes the way it acts: its methods, habits, priorities, or way of treating people.
 
-Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
+Use that signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
 <!-- (dl (## Make a Collision, Leave the Outcome Open)) -->
 

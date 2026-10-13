@@ -6,7 +6,7 @@
 
 **Force:** A person or group with a goal and more power than the characters in the arena where it pursues that goal. This power lets it affect the world, and need not apply in every arena or mean combat power. In this approach, a useful Force also has lines it will and will not cross and a fingerprint that can help players recognize its actions. Its influence may be political, social, economic, supernatural, or physical. A Force is not necessarily an antagonist: it may aid the characters, oppose them, or pursue its own concerns. It may be publicly known and act openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
 
-**Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
+**Fingerprint:** A Force's recognizable signature in how it acts: its methods, habits, priorities, or way of treating people. The GM uses it to make the Force's behavior feel distinctive and coherent, not merely to leave a clue. Players may use that signature to connect events, recognize a disguised Force, and learn which patterns they trust or fear.
 
 **Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
 

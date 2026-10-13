@@ -197,11 +197,13 @@ For my purposes, a useful Force has all four of these qualities:
 - It is more powerful than the characters in the arena relevant to its goal, and can affect the situation in ways they cannot easily ignore.
 - It has a goal it is trying to achieve.
 - It has lines it will and will not cross.
-- It has a fingerprint: findable evidence that lets the players recognize separate actions as the work of the same person or group.
+- It has a fingerprint: a recognizable signature in how it acts.
 
-The comparison is specific to the arena where the Force pursues its goal; it does not have to be more powerful than the characters in every way. A mayor may have far greater influence over city policy while being no match for the characters in a fight. A church may have a food network and community trust the characters lack, while depending on them in another arena. A Force's power might come from political authority, money, public trust, specialized knowledge, social reach, supernatural influence, or control of something people need. What matters is that it can make things happen in pursuit of its goal at the scale relevant to the campaign. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
+The comparison is specific to the arena where the Force pursues its goal; it does not have to be more powerful than the characters in every way. A mayor may have far greater influence over city policy while being no match for the characters in a fight. A church may have a food network and community trust the characters lack, while depending on them in another arena. A Force's power might come from political authority, money, public trust, specialized knowledge, social reach, supernatural influence, or control of something people need. What matters is that it can make things happen in pursuit of its goal at the scale relevant to the campaign.
 
-Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. The fingerprint helps players connect actions to a force; it does not require the force itself to be concealed.
+A fingerprint is the Force's signature in the way it acts: its characteristic methods, habits, priorities, or way of treating people. I borrow the idea from children's cartoons, where a hero or villain has a signature way of doing things that makes them recognizable—even in disguise. I use a Force's fingerprint to make its actions feel as if they come from that particular actor and belong in the same world. When I decide what the Force does, I let its signature shape the action, rather than merely adding a clue or calling card afterward. The players may then connect separate events, recognize a disguised Force, or learn which fingerprints they trust or fear. Those are valuable effects, but the fingerprint's first job is to make the Force's behavior feel coherent and distinctive. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
+
+Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. A fingerprint can make a known Force's behavior distinctive, or give the players a way to recognize it when its identity is concealed.
 
 Forces do not have to be villains or even obvious sources of conflict. A church might organize kitchens and food deliveries because it wants to end hunger. A mayor might court voters and redirect city resources because they want to be reelected. A police chief, haunted by the violence of the streets, might want people to feel safe and use the department's authority to pursue that goal. Each can change the situation through the work it does, the people it brings together, and the choices it makes. Their goals may align with the characters', conflict with them, or simply intersect; good intentions do not guarantee agreement, but neither do they make opposition inevitable.
 
@@ -777,9 +779,9 @@ Look at the Stage you made and identify people or groups who want something. For
 - What it wants.
 - What it will and will not do.
 - What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
-- What evidence could let the players recognize its actions.
+- What recognizable signature shapes the way it acts: its methods, habits, priorities, or way of treating people.
 
-Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
+Use that signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
 ##### Make a Collision, Leave the Outcome Open #####
 
@@ -824,7 +826,7 @@ Prepare a living situation, not a story the players must follow. Understand enou
 
 ##### Build a Small, Connected World #####
 
-The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and have more power than the characters in the relevant arena, letting them move the world within that Stage. This power may come from authority, resources, trust, knowledge, or other means; it need not apply in every arena. A Force is not necessarily an antagonist: a church working to end hunger or a mayor seeking reelection can shape events just as much as an obvious enemy. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
+The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and have more power than the characters in the relevant arena, letting them move the world within that Stage. This power may come from authority, resources, trust, knowledge, or other means; it need not apply in every arena. A Force is not necessarily an antagonist: a church working to end hunger or a mayor seeking reelection can shape events just as much as an obvious enemy. Give each Force a recognizable signature in how it acts—its methods, habits, priorities, or way of treating people. Let that fingerprint shape its actions so the Force feels distinctive and consistent; players may then recognize it, even in disguise, and learn which patterns they trust or fear. A fingerprint does not mean the Force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 
@@ -919,7 +921,7 @@ After the session
 
 **Force:** A person or group with a goal and more power than the characters in the arena where it pursues that goal. This power lets it affect the world, and need not apply in every arena or mean combat power. In this approach, a useful Force also has lines it will and will not cross and a fingerprint that can help players recognize its actions. Its influence may be political, social, economic, supernatural, or physical. A Force is not necessarily an antagonist: it may aid the characters, oppose them, or pursue its own concerns. It may be publicly known and act openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
 
-**Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
+**Fingerprint:** A Force's recognizable signature in how it acts: its methods, habits, priorities, or way of treating people. The GM uses it to make the Force's behavior feel distinctive and coherent, not merely to leave a clue. Players may use that signature to connect events, recognize a disguised Force, and learn which patterns they trust or fear.
 
 **Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
 
