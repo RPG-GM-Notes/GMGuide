@@ -48,6 +48,8 @@ The hit man's fingerprint was a method rather than a calling card. He, she, or i
 
 This is where fast thinking and improvisation paid off. In one scene, the characters worked with a security guard who gave them information. Later, I put the same person in the background as a janitor cowering in the corner. I used that moment to let the characters recognize him and to establish a second fingerprint for the hit man: he was always present. It was a sudden way to introduce the new force, and the players began looking for him in later scenes. Eventually, he offered them his services. Later, the characters captured him. By then, they were powerful enough that he was no longer a force.
 
+The janitor reveal made the new force feel as if he had been woven through the campaign all along, even though I had only just decided what the pattern meant. That is the kind of moment I want this style of preparation and improvisation to make possible: the players experience a solid, connected world, and the connection arrives as a surprise we can enjoy together.
+
 <!-- (dl (# Letting New Forces Emerge)) -->
 
 The hit man had been hired by a force I had not created at the campaign's start: a cartel daughter who wanted to destabilize the gangs so she could take over their members and build one super gang. The players discovered her under the moniker “Chekhov's Gun.” The name amused me because of how she had come to exist: I had introduced the hit man to explain a pattern created by the players' choices, and that in turn led to the person who had hired him.

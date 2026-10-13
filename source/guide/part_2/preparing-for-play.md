@@ -14,6 +14,12 @@ People need to find the level of detail and format that work best for them. I ke
 
 The point is not to fit a particular amount of information into a file. The notes should be short enough that I can use them, and detailed enough to help me make decisions. I do not need to write down every possibility. My notes are there to help me understand what is happening and respond when the players take the game somewhere I did not expect.
 
+<!-- (dl (## Improvising Without Looking Unprepared)) -->
+
+Many GMs, especially new ones, worry that improvising will make them look disorganized or unprepared. I understand that fear. The answer is not to plan every scene or plot turn in advance. It is to prepare the parts that let you make sense of what happens: the Stage, the forces and their goals, their relationships, and the consequences already in motion.
+
+That understanding gives you something solid to work from when the players do something unexpected. You can make a new detail fit what is already true, or notice a pattern and decide what in the world could explain it. The players may experience the result as a world that was fully planned, even when you are creating the connection in the moment. That is not a trick to fool them; it is a way to create a shared sense of wonder. Preparation supports the improvisation that makes the moment feel magical and memorable.
+
 <!-- (dl (# When Preparation Is Sufficient)) -->
 
 A session is ready to play when I know what interesting fallout will follow from what happened last session. I also prepare the things that will require effort from the characters, such as clues, combatants, and key NPCs.

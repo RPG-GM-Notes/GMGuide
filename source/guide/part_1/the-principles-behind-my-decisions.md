@@ -22,6 +22,8 @@ The characters' actions matter. Forces pursue their goals, react to interference
 
 Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world, so that changes do not break that understanding. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
 
+There is a kind of magic in this. Players can experience the world as solid and complete, and the GM as an extraordinary planner, even when the GM is improvising. The goal is not to fool the players about what was prepared in advance. Like a magician creating a moment of wonder, I want us to share an experience that feels magical and memorable. The preparation gives me enough understanding to respond coherently; play supplies the unexpected connections.
+
 <!-- (dl (## Treat the GM as a steward)) -->
 
 I technically decide how forces and the world react, but I think of myself as the table's steward, not as an authority standing outside it. My decisions should help the group have a good experience, not protect my plans from the players.

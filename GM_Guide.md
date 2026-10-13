@@ -143,6 +143,8 @@ The characters' actions matter. Forces pursue their goals, react to interference
 
 Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world, so that changes do not break that understanding. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
 
+There is a kind of magic in this. Players can experience the world as solid and complete, and the GM as an extraordinary planner, even when the GM is improvising. The goal is not to fool the players about what was prepared in advance. Like a magician creating a moment of wonder, I want us to share an experience that feels magical and memorable. The preparation gives me enough understanding to respond coherently; play supplies the unexpected connections.
+
 ##### Treat the GM as a steward #####
 
 I technically decide how forces and the world react, but I think of myself as the table's steward, not as an authority standing outside it. My decisions should help the group have a good experience, not protect my plans from the players.
@@ -372,6 +374,12 @@ I prepare the things the characters will need to spend effort on. If there is a 
 People need to find the level of detail and format that work best for them. I keep my notes brief, and I use Markdown for everything. I usually give each important thing its own short file. I try to keep a force to no more than two screens of information, and hope to use less.
 
 The point is not to fit a particular amount of information into a file. The notes should be short enough that I can use them, and detailed enough to help me make decisions. I do not need to write down every possibility. My notes are there to help me understand what is happening and respond when the players take the game somewhere I did not expect.
+
+##### Improvising Without Looking Unprepared #####
+
+Many GMs, especially new ones, worry that improvising will make them look disorganized or unprepared. I understand that fear. The answer is not to plan every scene or plot turn in advance. It is to prepare the parts that let you make sense of what happens: the Stage, the forces and their goals, their relationships, and the consequences already in motion.
+
+That understanding gives you something solid to work from when the players do something unexpected. You can make a new detail fit what is already true, or notice a pattern and decide what in the world could explain it. The players may experience the result as a world that was fully planned, even when you are creating the connection in the moment. That is not a trick to fool them; it is a way to create a shared sense of wonder. Preparation supports the improvisation that makes the moment feel magical and memorable.
 
 #### When Preparation Is Sufficient ####
 
@@ -755,6 +763,8 @@ Those deaths were not planned by me. They were consequences of what the players 
 The hit man's fingerprint was a method rather than a calling card. He, she, or it arranged situations so that someone else had a reason to kill the intended target. The gang leaders' deaths remained the players' actions; the new force gave the repeated pattern a cause inside the world without taking those choices away from them.
 
 This is where fast thinking and improvisation paid off. In one scene, the characters worked with a security guard who gave them information. Later, I put the same person in the background as a janitor cowering in the corner. I used that moment to let the characters recognize him and to establish a second fingerprint for the hit man: he was always present. It was a sudden way to introduce the new force, and the players began looking for him in later scenes. Eventually, he offered them his services. Later, the characters captured him. By then, they were powerful enough that he was no longer a force.
+
+The janitor reveal made the new force feel as if he had been woven through the campaign all along, even though I had only just decided what the pattern meant. That is the kind of moment I want this style of preparation and improvisation to make possible: the players experience a solid, connected world, and the connection arrives as a surprise we can enjoy together.
 
 #### Letting New Forces Emerge ####
 
