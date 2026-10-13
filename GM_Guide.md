@@ -14,7 +14,7 @@
 2. [Part I: What I’m Trying to Create](#part-i-what-im-trying-to-create)
 3. [Part II: Setting Up the Game](#part-ii-setting-up-the-game)
 4. [Part III: Running the Game](#part-iii-running-the-game)
-5. [Part IV: Beyond a Single Session](#part-iv-beyond-a-single-session)
+5. [Part IV: Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns)
 6. [Part V: Learning the Approach](#part-v-learning-the-approach)
 7. [Appendices](#appendices)
 
@@ -45,6 +45,8 @@ This approach may suit a GM who enjoys responding to players more than steering 
 ### How to Use This Guide ###
 
 Skim the guide first to get a sense of the whole approach, then read more deeply wherever a chapter is useful to you. You don't need to adopt every rule of thumb. As you read, consider why I use each one, what it is meant to accomplish, and what might need to change for your group.
+
+If you are new to the approach, the parts follow a progression: Part I explains the experience and principles I aim for; Part II develops the Stage, forces, and starting situation; Part III covers play at the table; Part IV covers ending sessions, developing a campaign, and responding when something is not working; and Part V offers a campaign example and ways to adapt the approach. The core is a connected situation that supports safety, meaningful player choices, and responsive play. Details such as starting with three forces, my preparation ratios, and opening with combat are my preferences and rules of thumb, not requirements.
 
 The examples show what these ideas have looked like in my games, not what every campaign should look like. I always begin with combat created by the collision of forces' actions. The characters may be caught in the fallout rather than fighting those forces directly. That is one way I put the campaign in motion; the larger principle is to create a situation with energy and connections, then let play determine what happens next.
 
@@ -539,10 +541,11 @@ That kind of ripple makes the characters important even if the world does not kn
 
 Let consequences grow from the Stage, force goals, relationships, and actions already in play. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.
 
-## Part IV: Beyond a Single Session ##
+## Part IV: Managing Sessions and Campaigns ##
 
 * [11. Ending a Session and Starting the Next](#11-ending-a-session-and-starting-the-next)
 * [12. Letting a Campaign Develop](#12-letting-a-campaign-develop)
+* [13. When It Isn't Working](#13-when-it-isnt-working)
 
 ### 11. Ending a Session and Starting the Next ###
 
@@ -596,12 +599,6 @@ In one game, the players discovered that a wizard they had thought was their fri
 
 I had not waited for every thread or force to be resolved. The wizard's defeat connected to what the players had experienced, gave them a major accomplishment, and felt like a place to stop. The campaign ended with loose ends because the moment already felt complete.
 
-## Part V: Learning the Approach ##
-
-* [13. When It Isn't Working](#13-when-it-isnt-working)
-* [14. My Approach in Practice](#14-my-approach-in-practice)
-* [15. Making This Style Your Own](#15-making-this-style-your-own)
-
 ### 13. When It Isn't Working ###
 
 #### Signs the Game Isn't Producing the Intended Experience ####
@@ -649,6 +646,11 @@ If the players and I want different kinds of games, we can talk about whether th
 Ending a campaign is not proof that the GM failed. Sometimes it is the clearest way to respect what the people at the table want, as my first Fate Core campaign taught me.
 
 The key is to identify which kind of problem you have: follow an interest the group shares, repair a decision that is not working, or acknowledge a mismatch rather than force the campaign to continue.
+
+## Part V: Learning the Approach ##
+
+* [14. My Approach in Practice](#14-my-approach-in-practice)
+* [15. Making This Style Your Own](#15-making-this-style-your-own)
 
 ### 14. My Approach in Practice ###
 

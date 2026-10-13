@@ -1,8 +1,9 @@
 (section-meta
-    (title Part IV: Beyond a Single Session)
+    (title Part IV: Managing Sessions and Campaigns)
     (include
         (Subsection ./ending-a-session-and-starting-the-next.md)
         (Subsection ./letting-a-campaign-develop.md)
+        (Subsection ./when-it-isnt-working.md)
     )
 )
 
