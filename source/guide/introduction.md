@@ -8,6 +8,8 @@ This guide is my attempt to capture how I do that. I prepare heavily at the begi
 
 In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. The forces are its active agents: they want something, they have limits, and they can move the world. The characters are another set of agents entering that system and changing its behavior. The campaign is not a machine I power by telling the players what happens next. It is a network of relationships and pressures that produces consequences when the players act on it.
 
+I do not craft stories so much as craft an environment that creates stories. My goal is not to write a sequence of events that the players must follow. My goal is to make a world in which the players' choices, the forces' goals, and the Stage's tensions produce stories worth telling. The story is the emergent behavior of the system, not a script I impose on it.
+
 At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. A campaign works best when its parts have enough internal logic that the resulting behavior feels understandable even when it is surprising. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
 <!-- (dl (# What This Guide Will—and Won't—Teach)) -->

@@ -6,6 +6,12 @@ I want the game to feel like a good carnival ride: adrenaline, exhaustion, excit
 
 My biggest sign that a game has worked is what the players do when it ends. Either they don't want to leave, or they leave rehashing what happened. That energy—the desire to stay in the experience or to keep talking about it afterward—is what I look for.
 
+<!-- (dl (## I Design Systems, Not Stories)) -->
+
+I do not craft stories so much as craft an environment that creates stories. My goal is not to write a sequence of events the players must follow. My goal is to build a world with enough pressure, conflict, and meaning that the players' choices, the forces' actions, and the Stage's tensions produce stories worth telling.
+
+The story is not a script imposed on the campaign. It is the emergent result of the system in motion.
+
 <!-- (dl (# What Makes a Session Feel Successful)) -->
 
 A session is successful when the players are engaged enough that they want more, or when the events keep mattering to them after the session is over. It doesn't have to follow the plan or advance a predetermined plot. The characters can surprise me, the situation can change, and the session can still feel cohesive.
