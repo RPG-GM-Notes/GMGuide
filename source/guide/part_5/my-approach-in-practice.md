@@ -6,6 +6,8 @@ This example follows a Mage: The Ascension 20th Anniversary Edition campaign wit
 
 Before this campaign, I had developed another game around a hidden Nephandi, a spirit beneath the city, and the idea of Time becoming a force. That campaign fell through for reasons unrelated to the game. I liked much of what had happened in the preparation and play, though, so I used it as inspiration rather than abandoning the material.
 
+The earlier campaign was a separate game, and its starting forces were different. The Mokolé were one of those forces, openly pursuing their goal of buying land. The Vampires had competing interests, and the players' investigation into a massacre helped set off a real-estate war between them. That is the war I refer to in Chapter 10. The Baton Rouge campaign in this example borrows ideas from that game, but it is not the same campaign.
+
 I did not carry over a finished plot. I took pieces that interested me and built a new Stage around them. Some details came from Baton Rouge itself. The city is known as Red Stick because, according to local history, settlers found the area marked by sticks with red tops, placed there by Native people. No one knows what the sticks meant or why they were there.
 
 In my Stage, the Mokolé had placed the sticks to mark the resting place of a minor reptile Incarna. That gave the real-world mystery a supernatural history and connected the land to a group whose present-day interests could grow from it.
@@ -26,9 +28,9 @@ Adding these consequences gave the Stage more than supernatural mysteries. It cr
 
 <!-- (dl (# Choosing the Starting Forces)) -->
 
-I consolidated the gangs into one force. They were not a single organization, but together they were trying to control Baton Rouge. Their fingerprint was disorganization and internal conflict: their actions showed the instability of several groups acting toward a shared goal without being unified.
+I consolidated the gangs into one openly active force. They were not a single organization, but together they were trying to control Baton Rouge. Their goal was visible in the gang war; their fingerprint was disorganization and internal conflict, the instability of several groups acting toward a shared goal without being unified.
 
-The Nephandi was another starting force. He was likable and charismatic, and obsessively careful not to be discovered. His fingerprint was the lack of a fingerprint: when he acted, there was a strange void around who or what had caused it. His goal was to corrupt the Incarna and then kill it, creating a Nexus of corruption in the heart of Baton Rouge.
+The Nephandi was another starting force, but unlike the gangs, he was secretive. He was likable and charismatic, and obsessively careful not to be discovered. His fingerprint was the lack of a fingerprint: when he acted, there was a strange void around who or what had caused it. His goal was to corrupt the Incarna and then kill it, creating a Nexus of corruption in the heart of Baton Rouge.
 
 My third starting force was Time, carried forward from the earlier game's ideas. Time wanted to free Jester from survivor's guilt. The Mokolé and the mayor remained part of the Stage, but I did not make them part of the starting trio. I had a populated situation with more possible actors than I needed to make active forces at once.
 

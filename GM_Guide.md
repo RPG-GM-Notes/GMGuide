@@ -199,6 +199,8 @@ Power alone does not make someone a force. A force must have all four of these q
 
 What counts as more powerful depends on the campaign and what I want to emphasize. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
+Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. The fingerprint helps players connect actions to a force; it does not require the force itself to be concealed.
+
 I also create supporting characters. They do not need to meet the criteria for a force. They can connect the characters to forces, show the effects of those forces, or carry a thematic or emotional thread of their own.
 
 As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their ways of pursuing those goals can bring them into conflict, but their purposes do not need to be opposite sides of the same struggle.
@@ -533,7 +535,7 @@ If the characters kill the head of a local gang, the people that person hurt may
 
 I want the players to encounter the effects of their choices, even when those effects are not immediately obvious. Consequences do not have to arrive as an NPC explaining what the characters caused. They can show up in changed circumstances, other people's behavior, or details of ordinary life.
 
-In one game, the characters were trying to find the cause of a massacre that had happened twenty years earlier. In doing so, they accidentally started a real-estate war. Land prices soared and housing costs rose so sharply that the news began reporting on apartments where large numbers of people were sharing rooms.
+In the earlier campaign that inspired the example in Chapter 14, the characters were trying to find the cause of a massacre that had happened twenty years earlier. The Mokolé were openly buying land, and their goals collided with the Vampires' interests, setting off a real-estate war. Land prices soared and housing costs rose so sharply that the news began reporting on apartments where large numbers of people were sharing rooms.
 
 That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain. The realization that an action from two games ago helped drive up housing costs can give the players a sense of awe at their characters' reach. In another game, stopping an evil corporation meant that its factory site eventually became a park. A consequence can be a lasting improvement, not just a new problem.
 
@@ -660,6 +662,8 @@ This example follows a Mage: The Ascension 20th Anniversary Edition campaign wit
 
 Before this campaign, I had developed another game around a hidden Nephandi, a spirit beneath the city, and the idea of Time becoming a force. That campaign fell through for reasons unrelated to the game. I liked much of what had happened in the preparation and play, though, so I used it as inspiration rather than abandoning the material.
 
+The earlier campaign was a separate game, and its starting forces were different. The Mokolé were one of those forces, openly pursuing their goal of buying land. The Vampires had competing interests, and the players' investigation into a massacre helped set off a real-estate war between them. That is the war I refer to in Chapter 10. The Baton Rouge campaign in this example borrows ideas from that game, but it is not the same campaign.
+
 I did not carry over a finished plot. I took pieces that interested me and built a new Stage around them. Some details came from Baton Rouge itself. The city is known as Red Stick because, according to local history, settlers found the area marked by sticks with red tops, placed there by Native people. No one knows what the sticks meant or why they were there.
 
 In my Stage, the Mokolé had placed the sticks to mark the resting place of a minor reptile Incarna. That gave the real-world mystery a supernatural history and connected the land to a group whose present-day interests could grow from it.
@@ -680,9 +684,9 @@ Adding these consequences gave the Stage more than supernatural mysteries. It cr
 
 #### Choosing the Starting Forces ####
 
-I consolidated the gangs into one force. They were not a single organization, but together they were trying to control Baton Rouge. Their fingerprint was disorganization and internal conflict: their actions showed the instability of several groups acting toward a shared goal without being unified.
+I consolidated the gangs into one openly active force. They were not a single organization, but together they were trying to control Baton Rouge. Their goal was visible in the gang war; their fingerprint was disorganization and internal conflict, the instability of several groups acting toward a shared goal without being unified.
 
-The Nephandi was another starting force. He was likable and charismatic, and obsessively careful not to be discovered. His fingerprint was the lack of a fingerprint: when he acted, there was a strange void around who or what had caused it. His goal was to corrupt the Incarna and then kill it, creating a Nexus of corruption in the heart of Baton Rouge.
+The Nephandi was another starting force, but unlike the gangs, he was secretive. He was likable and charismatic, and obsessively careful not to be discovered. His fingerprint was the lack of a fingerprint: when he acted, there was a strange void around who or what had caused it. His goal was to corrupt the Incarna and then kill it, creating a Nexus of corruption in the heart of Baton Rouge.
 
 My third starting force was Time, carried forward from the earlier game's ideas. Time wanted to free Jester from survivor's guilt. The Mokolé and the mayor remained part of the Stage, but I did not make them part of the starting trio. I had a populated situation with more possible actors than I needed to make active forces at once.
 
@@ -816,7 +820,7 @@ Prepare a living situation, not a story the players must follow. Understand enou
 
 ##### Build a Small, Connected World #####
 
-The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and move the world within that Stage. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
+The **Stage** gives events context and depth: places, people, history, relationships, and pressures. **Forces** pursue goals and move the world within that Stage. They may act openly or secretly; a recognizable fingerprint does not mean a force must be hidden. Their actions and the characters' choices change the situation. The parts matter through their connections; a force without a Stage has little to give its actions meaning.
 
 Develop the Stage and forces together. A force may suggest what the Stage needs, while a detail in the Stage may reveal a new force. Prepare enough to understand the situation, not every possible event.
 
@@ -909,7 +913,7 @@ After the session
 
 **Collision:** The point where the actions or goals of two or more forces come into contact. A collision can start an Arc. The characters may encounter its fallout without directly fighting the forces.
 
-**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
+**Force:** A person or group more powerful than the characters, with a goal, lines it will and will not cross, and a fingerprint that can help players recognize its actions. A force may be publicly known and pursue its goals openly; secrecy is not part of the definition. A group can count as one force when its members act toward a shared goal, while its members remain distinct individuals.
 
 **Fingerprint:** Findable evidence that lets players recognize separate actions as the work of the same person or force. It can be a method, a trace, a way of treating people, or even a deliberate lack of identifiable evidence.
 

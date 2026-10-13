@@ -17,6 +17,8 @@ Power alone does not make someone a force. A force must have all four of these q
 
 What counts as more powerful depends on the campaign and what I want to emphasize. A fingerprint might be a method, a trace left behind, or a way of treating people. It can be deliberate or incidental. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
+Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. The fingerprint helps players connect actions to a force; it does not require the force itself to be concealed.
+
 I also create supporting characters. They do not need to meet the criteria for a force. They can connect the characters to forces, show the effects of those forces, or carry a thematic or emotional thread of their own.
 
 As a rule of thumb, I start with three forces. I give them goals that do not directly oppose one another. Their ways of pursuing those goals can bring them into conflict, but their purposes do not need to be opposite sides of the same struggle.
