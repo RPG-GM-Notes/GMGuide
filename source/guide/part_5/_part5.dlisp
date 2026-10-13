@@ -2,6 +2,7 @@
     (title Part V: Learning the Approach)
     (include
         (Subsection ./when-it-isnt-working.md)
+        (Subsection ./my-approach-in-practice.md)
     )
 )
 
