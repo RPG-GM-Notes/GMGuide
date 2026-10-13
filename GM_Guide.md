@@ -746,6 +746,57 @@ For a Short Shot, I have found it useful to provide the players with starting ch
 
 That is a rule of thumb, not a rule. Your players may enjoy making characters, or may already have a cohesive group concept that fits the game. Choose the approach that serves the people at your table.
 
+#### Practice the Approach ####
+
+These exercises are ways to practice the approach. They are not tests with one correct answer. Keep each exercise small in scope, but include enough connected parts for a functioning situation.
+
+##### Build a Small Stage #####
+
+Choose a bounded place, such as one neighborhood or one part of a city. Develop a small Stage that includes:
+
+- A few places the characters could visit.
+- People or groups with relationships to one another.
+- A piece of local history that affects the present.
+- A current pressure or change people can notice.
+- Details that could surface through ordinary conversation or rumor.
+
+Ask how the pieces affect one another. If the Stage feels like a list of unrelated ideas, add or change connections until it feels like a place where events can have consequences.
+
+##### Find Forces in the Stage #####
+
+Look at the Stage you made and identify people or groups who want something. For each possible force, write:
+
+- What it wants.
+- What it will and will not do.
+- What makes it more powerful than the characters in this situation.
+- What evidence could let the players recognize its actions.
+
+Consider how the forces' actions might intersect without requiring them to have opposite goals. Remember that a group can be one force while its members remain distinct individuals.
+
+##### Make a Collision, Leave the Outcome Open #####
+
+Choose two forces and identify a goal or action that brings them into contact. Write down what caused the conflict and what the characters might perceive if they encounter its fallout.
+
+Do not decide what the characters will do or how the conflict must end. Instead, list a few plausible responses the forces might make to different kinds of interference, guided by their goals and limits.
+
+##### Practice an Unexpected Choice #####
+
+Imagine the players ignoring the lead you expected them to follow and taking an action you did not prepare for. Use the Stage, force goals, relationships, and established events to answer:
+
+- What changes immediately?
+- Who notices or is affected?
+- What might happen later as fallout?
+- What information can the players perceive now?
+- What should remain undecided until they act again?
+
+Then present the changed situation and invite the players to choose what happens next.
+
+##### Follow the Players' Interest #####
+
+During a session or a practice scene, notice what the players ask about, pursue, or find emotionally engaging. Choose one of those details and develop a plausible connection to the Stage or a force. Add to what the players made important without taking their choices away or requiring them to pursue your new idea.
+
+Afterward, ask whether the new connection made the situation richer and more coherent, or whether it felt imposed. Use that response to decide what to adjust.
+
 #### How to Tell Whether It Is Working ####
 
 After a few sessions, ask whether the players have found something to explore, whether their actions change the situation, and whether the group enjoys the play. If the Stage feels empty, add relationships, history, or pressures; if an unexpected interest emerges, develop it. You need not copy my preparation ratios, opening combat, or number of forces. Keep what helps your table and adjust the rest.
@@ -753,9 +804,8 @@ After a few sessions, ask whether the players have found something to explore, w
 ## Appendices ##
 
 * [A One-Page Summary](#a-one-page-summary)
-* [Preparation and Session-Note Examples](#preparation-and-session-note-examples)
 * [Quick Reference for Play](#quick-reference-for-play)
-* [Exercises](#exercises)
+* [Session Preparation Template](#session-preparation-template)
 * [Terms I Use in a Particular Way](#terms-i-use-in-a-particular-way)
 
 ### A One-Page Summary ###
@@ -796,10 +846,6 @@ Before play, build enough of the Stage and forces to understand why events make 
 
 This preparation helps improvisation feel coherent. Players may experience the world as complete and connected even when you make a connection in the moment. The goal is not to fool them; it is to create a shared moment of wonder.
 
-### Preparation and Session-Note Examples ###
-
-TBD
-
 ### Quick Reference for Play ###
 
 #### The Loop ####
@@ -828,56 +874,34 @@ TBD
 - Forces and the Stage can change in response to play.
 - Preserve what matters, let go of what no longer serves the game, and start the loop again.
 
-### Exercises ###
+### Session Preparation Template ###
 
-These exercises are ways to practice the approach. They are not tests with one correct answer. Keep each exercise small in scope, but include enough connected parts for a functioning situation.
+Copy this into your own notes and adapt it. Keep it short: the goal is to understand the changed situation and prepare what the characters may need to spend effort on, not to plan what they will do. For a filled-in example, see Chapter 6.
 
-#### Build a Small Stage ####
+```text
+Session Prep: [Place or situation]
 
-Choose a bounded place, such as one neighborhood or one part of a city. Develop a small Stage that includes:
+Fallout
+- What changed because of the characters' last actions?
+- What did each force do in response, within its goals and limits?
+- Who noticed, and what do they believe or know?
 
-- A few places the characters could visit.
-- People or groups with relationships to one another.
-- A piece of local history that affects the present.
-- A current pressure or change people can notice.
-- Details that could surface through ordinary conversation or rumor.
+Things that require effort
+- Clues:
+- Combatants:
+- Key NPCs:
 
-Ask how the pieces affect one another. If the Stage feels like a list of unrelated ideas, add or change connections until it feels like a place where events can have consequences.
+Open questions
+- What is uncertain that I can leave undecided?
+- What might the forces do if the characters interfere in different ways?
+- What would I need to decide if the characters ignore all of the above?
 
-#### Find Forces in the Stage ####
-
-Look at the Stage you made and identify people or groups who want something. For each possible force, write:
-
-- What it wants.
-- What it will and will not do.
-- What makes it more powerful than the characters in this situation.
-- What evidence could let the players recognize its actions.
-
-Consider how the forces' actions might intersect without requiring them to have opposite goals. Remember that a group can be one force while its members remain distinct individuals.
-
-#### Make a Collision, Leave the Outcome Open ####
-
-Choose two forces and identify a goal or action that brings them into contact. Write down what caused the conflict and what the characters might perceive if they encounter its fallout.
-
-Do not decide what the characters will do or how the conflict must end. Instead, list a few plausible responses the forces might make to different kinds of interference, guided by their goals and limits.
-
-#### Practice an Unexpected Choice ####
-
-Imagine the players ignoring the lead you expected them to follow and taking an action you did not prepare for. Use the Stage, force goals, relationships, and established events to answer:
-
-- What changes immediately?
-- Who notices or is affected?
-- What might happen later as fallout?
-- What information can the players perceive now?
-- What should remain undecided until they act again?
-
-Then present the changed situation and invite the players to choose what happens next.
-
-#### Follow the Players' Interest ####
-
-During a session or a practice scene, notice what the players ask about, pursue, or find emotionally engaging. Choose one of those details and develop a plausible connection to the Stage or a force. Add to what the players made important without taking their choices away or requiring them to pursue your new idea.
-
-Afterward, ask whether the new connection made the situation richer and more coherent, or whether it felt imposed. Use that response to decide what to adjust.
+After the session
+- What the players and characters did:
+- What changed for each force and the Stage:
+- Rewards:
+- Player feedback:
+```
 
 ### Terms I Use in a Particular Way ###
 

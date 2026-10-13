@@ -2,9 +2,8 @@
     (title Appendices)
     (include
         (Subsection ./one-page-summary.md)
-        (Subsection ./preparation-and-session-notes.md)
         (Subsection ./quick-reference.md)
-        (Subsection ./exercises.md)
+        (Subsection ./session-prep-template.md)
         (Subsection ./glossary.md)
     )
 )
