@@ -7,6 +7,7 @@
         (Subsection ./part_2/_part2.dlisp)
         (Subsection ./part_3/_part3.dlisp)
         (Subsection ./part_4/_part4.dlisp)
+        (Subsection ./part_5/_part5.dlisp)
     )
 )
 
