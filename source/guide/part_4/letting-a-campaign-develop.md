@@ -4,6 +4,8 @@
 
 Between sessions, the campaign's current state is the record of what has changed (see Chapter 11). Forces continue pursuing their goals within their limits, and their goals, resources, and relationships can change. The Stage changes too; character actions may affect people or places far beyond their immediate targets.
 
+I also update a Force's notes when play reveals a fingerprint different from the one I prepared. Its behavior may have settled into an unplanned signature, while the intended one never appeared. I record the pattern that actually emerged and use it going forward, rather than forcing the original signature into later scenes.
+
 <!-- (dl (# Following Player Interests)) -->
 
 Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it.
