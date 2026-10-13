@@ -38,10 +38,4 @@ That kind of ripple makes the characters important even if the world does not kn
 
 <!-- (dl (# Keeping the World Coherent as It Changes)) -->
 
-The world can change in ways I did not plan, but I want those changes to grow out of what is already happening. I use the Stage, the forces' goals and limits, their relationships, and the actions people have taken to work out what might follow. That gives me a basis for improvising without having to predict the characters' choices.
-
-Sometimes a consequence will be indirect or take time to appear. I do not need to reveal the whole chain at once. I can let the players see a new effect first, then discover its connection as they ask questions or investigate. The characters may never learn every connection, and the wider world may never recognize their part in what changed.
-
-The point is not to make the world react to every choice in a way that announces, “This was because of you.” It is to let the characters' choices matter. The world can respond, adapt, and keep moving around them, whether or not anyone understands why.
-
-I rarely need to plan a surprise. Logical fallout can surprise the players because I know more about the Stage, forces, and relationships than they do. A consequence that seems obvious to me may be unexpected to them; the difference in what we know lets ordinary cause and effect produce surprising revelations without a planned twist.
+Let consequences grow from the Stage, force goals, relationships, and actions already in play. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.

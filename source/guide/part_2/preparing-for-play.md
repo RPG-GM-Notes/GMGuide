@@ -4,7 +4,7 @@
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did and ask what interesting fallout follows from it. I use that fallout as my starting point for the next session. I am not trying to predict what the characters will do next; I am getting ready to respond to what they have already changed.
+Between sessions, I prepare much less. I look at what the characters did, consider the interesting fallout, and use that changed situation as my starting point.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -12,29 +12,23 @@ I prepare the things the characters will need to spend effort on. If there is a 
 
 People need to find the level of detail and format that work best for them. I keep my notes brief, and I use Markdown for everything. I usually give each important thing its own short file. I try to keep a force to no more than two screens of information, and hope to use less.
 
-The point is not to fit a particular amount of information into a file. The notes should be short enough that I can use them, and detailed enough to help me make decisions. I do not need to write down every possibility. My notes are there to help me understand what is happening and respond when the players take the game somewhere I did not expect.
+The notes should be short enough to use and detailed enough to help me make decisions. I do not need to write down every possibility.
 
 <!-- (dl (## Improvising Without Looking Unprepared)) -->
 
-Many GMs, especially new ones, worry that improvising will make them look disorganized or unprepared. I understand that fear. The answer is not to plan every scene or plot turn in advance. It is to prepare the parts that let you make sense of what happens: the Stage, the forces and their goals, their relationships, and the consequences already in motion.
-
-That understanding gives you something solid to work from when the players do something unexpected. You can make a new detail fit what is already true, or notice a pattern and decide what in the world could explain it. The players may experience the result as a world that was fully planned, even when you are creating the connection in the moment. That is not a trick to fool them; it is a way to create a shared sense of wonder. Preparation supports the improvisation that makes the moment feel magical and memorable.
+Many GMs, especially new ones, worry that improvising will make them look unprepared. Knowing the Stage, forces, and their relationships gives you something solid to work from: you can connect a new detail to what is already true or make sense of a pattern as it emerges. Those connections can create a shared sense of wonder without requiring you to have planned them in advance.
 
 <!-- (dl (# When Preparation Is Sufficient)) -->
 
-A session is ready to play when I know what interesting fallout will follow from what happened last session. I also prepare the things that will require effort from the characters, such as clues, combatants, and key NPCs.
-
-This is a practical stopping point, not a promise that I know what the session will contain. The characters may ignore a clue, avoid a fight, or connect with an NPC in a way I did not anticipate. I prepare what they might engage with; I do not prepare the choices they will make or decide in advance how those choices turn out.
+A session is ready when I understand the relevant fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
 
 <!-- (dl (# What I Don't Prepare)) -->
 
-I do not prepare a required sequence of events, the characters' decisions, or an ending they have to reach. I do not need to decide exactly how the characters will encounter later conflicts. I prepare enough to understand the situation and what may follow from their actions, then leave room for the players to change it.
-
-I also do not try to prepare every possible clue, encounter, or interaction. I prepare the ones that matter to the situation and that call for effort from the characters. The rest can emerge during play, informed by the Stage, the forces, and what has already happened.
+I do not prepare a required sequence, the characters' decisions, or an ending they have to reach. I prepare only the material that matters to the current situation; other details can emerge during play.
 
 <!-- (dl (# An Annotated Example of My Session Prep)) -->
 
-Here is the sort of thing I prepare before a session. The exact format changes from game to game, but the pattern stays the same: I note the fallout from the last session, identify the questions that matter, and prepare the things the characters are likely to spend effort on. I do not write a script. I write a situation.
+Here is one way I might prepare a session: note the fallout, identify useful open questions, and prepare material the characters may spend effort on.
 
 <!-- (dl (## Example: After the warehouse attack)) -->
 
@@ -60,12 +54,8 @@ Open questions
 - What happens if the characters expose the ledger before they can verify it?
 ```
 
-The value of this prep is not that the notes are complete. They are not. The point is that I have identified the pressure points. The market is unstable. People are willing to talk. There are clues worth following. There are enemies the characters might fight. There is a person with leverage and a reason to talk to them. Those are the ingredients I need to improvise from.
+The notes identify pressure points: an unstable market, people willing to talk, clues to follow, enemies to face, and a broker with leverage and a reason to negotiate.
 
 <!-- (dl (## Why This Works)) -->
 
-I write down the fallout that matters, not a timeline of events. The market is angry because of what happened last session, and that anger creates a reason for the next session to begin with tension. I prepare a small set of material things the characters might investigate, take interest in, or use. I prepare the enforcers and the broker because those are the things the characters may need to fight or negotiate with. I leave the details fluid because the players are the ones who decide which questions they ask and what they do with the answers.
-
-The open questions are the real structure. They tell me what is uncertain and what need not be decided yet. If the players ignore the ledger and pursue the shrine, the market still matters because the market itself is full of suspicion and fallout. If they talk to Ilya, she can steer them, threaten them, or offer them a bargain. If they attack the enforcers, the guild responds, and the tension in the city becomes a new problem rather than a pre-written plot beat.
-
-This is the point of prepared session notes for me: they help me understand the pressure in the room, the questions the players might ask, and the likely consequences of their choices. They do not make the session a script. They keep the campaign moving without deciding in advance what the characters will do.
+The open questions show what is uncertain and what can wait. The players might pursue the shrine, negotiate with Ilya, or attack the enforcers; each choice changes the situation differently. These notes help me respond without deciding which path they take.

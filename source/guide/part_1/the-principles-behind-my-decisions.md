@@ -30,22 +30,14 @@ I technically decide how forces and the world react, but I think of myself as th
 
 <!-- (dl (# How These Principles Affect Play)) -->
 
-I begin with a strong initial understanding of the campaign, then use it to make decisions in the moment. I let the characters surprise me and allow their actions to redirect events. The forces give me something to react with; they are not a script for what happens next.
-
-I also prefer for encounters to arise naturally from the fallout of character actions instead of being created separately and inserted into the game. Encounters still matter, but they feel more connected when they emerge from what the characters have done. This can be harder in tactical games such as D&D, but it is still possible. For those games, I prepare spreads of enemies for different encounter types and reskin them to fit the situation that actually arises.
-
-At the table, I make rules calls with momentum and the character in mind. If I don't know a rule, I allow the action for now and look up the rule for future sessions. If an action is a plausible stretch for the character, I may allow it with a little extra difficulty. If it is too outlandish, I use “No, but” and help find another way to pursue the character's goal. If the dice or system get in the way of the table's fun, I can set them aside.
+I prefer encounters to arise from the fallout of character actions rather than being inserted as separate events. In tactical games, I prepare spreads of enemies for different encounter types and reskin them to fit the situation that actually arises.
 
 <!-- (dl (# When Principles Conflict)) -->
 
-Safety is the hard boundary. Within it, the table's fun comes first. Rules, plot, prepared encounters, characters, and continuity serve the experience; they do not outrank it.
-
-I aim for the appearance of continuity because it helps the players trust the world. But if preserving literal consistency would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not a perfect record of facts; it is a world that still makes sense from the players' point of view.
+Safety is the hard boundary; within it, the table's fun comes first. Continuity helps players trust the world, but I will revise details rather than let literal consistency undermine player choice or enjoyment.
 
 <!-- (dl (# Where My Approach Differs from Familiar Advice)) -->
 
 The advice I have the biggest problem with is advice that starts by having the GM create encounters as separate units. Encounters are important, but I find they work better when they flow naturally from the fallout of character actions. That way, the encounter belongs to the developing situation instead of interrupting it.
 
-This is more difficult in tactical games such as D&D, where encounters may need carefully composed enemy groups. I handle that by preparing enemy spreads for different kinds of encounters, then reskinning them to fit what is happening in the game. This lets me keep the tactical structure without deciding in advance exactly when or why a particular encounter will occur.
-
-More broadly, I prepare enough to improvise rather than enough to predict. The campaign can change direction, and the tools I prepare are there to help me respond while keeping the world recognizable.
+This is more difficult in tactical games such as D&D, where encounters may need carefully composed enemy groups. Preparing adaptable enemy spreads lets me keep that tactical structure without deciding in advance when or why an encounter will occur.

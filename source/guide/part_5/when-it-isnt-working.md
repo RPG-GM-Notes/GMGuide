@@ -28,7 +28,7 @@ In one campaign, I had prepared an evil wizard who had been corrupting the city 
 
 I followed that interest. The campaign became more of a “True Crime” story, and I developed Time as a force: the past appeared through reflections, and Time's goal was retribution for a single sin the wizard had committed. I had not planned for the past to become so important, and Time was not a force I had imagined before play. The players' interest showed me what in the Stage was worth developing.
 
-That was not a case of rescuing a failing campaign by making the players return to the weregators. The game was giving us a direction that interested the players, and my preparation let me build on it. I could let an unused part recede and turn a detail the players cared about into something with agency and consequences.
+The game was giving us a direction that interested the players. I let an unused part recede and developed a detail they cared about into something with agency and consequences.
 
 <!-- (dl (# Repairing Mistakes with the Group)) -->
 
@@ -42,6 +42,6 @@ Safety is different from ordinary game problems. A player can veto content witho
 
 If the players and I want different kinds of games, we can talk about whether there is an experience we would all enjoy. I can change what I run, the group can choose a different game, or we can decide not to continue together. But if the only way to make the campaign work is to invalidate player choices or make someone at the table keep playing a game they do not enjoy, it may be time to stop.
 
-Ending a campaign is not proof that the GM failed. Sometimes it is the clearest way to respect what the people at the table want. In my first Fate Core campaign, I ended the game when I could not see a way to bring my preferred elements in without taking away the players' choices. The next time, I explained the kind of game I wanted up front and built a Stage that could help everyone find a place in it.
+Ending a campaign is not proof that the GM failed. Sometimes it is the clearest way to respect what the people at the table want, as my first Fate Core campaign taught me.
 
-When something is not working, I try to find out what the experience is telling me. If the players are showing me what interests them, I follow that interest. If I have made a mistake, I own it and repair what I can. If our expectations do not fit, I say so rather than forcing the game to continue. The aim is not to save every campaign or every idea; it is to make a game the people at the table can enjoy together.
+The key is to identify which kind of problem you have: follow an interest the group shares, repair a decision that is not working, or acknowledge a mismatch rather than force the campaign to continue.

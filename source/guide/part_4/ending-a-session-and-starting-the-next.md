@@ -8,9 +8,7 @@ I love cliffhangers, but I do not plan for them or try to encourage them. If a g
 
 <!-- (dl (# What I Record Afterward)) -->
 
-After a session, I keep simple notes. I record what the players did in general terms, then note the significant things the characters did specifically. I also record what affected each force, what affected the Stage, and what rewards the characters earned, including XP and other rewards.
-
-I do not need a transcript of the session. I want to preserve what changed and what is likely to matter again. Those notes help me remember the characters' actions and keep track of how the world has responded to them.
+After a session, I note what the players did, the characters' significant actions, what changed for each force and the Stage, and any rewards. I do not need a transcript—just a record of changes likely to matter again.
 
 <!-- (dl (# What I Ask the Players)) -->
 
@@ -20,6 +18,6 @@ I compare feedback across sessions and look for patterns. If I start to see one,
 
 <!-- (dl (# Turning the Session into Useful Preparation)) -->
 
-The things I record are also the material I use to prepare for the next session. What the players did, which character actions mattered, what those actions changed in the forces or the Stage, and what rewards they earned all help me decide what is worth carrying forward. I look at what happened and ask what interesting fallout might follow. I prepare to respond to the changed situation, not to predict what the characters will do next.
+Those notes feed into preparation for the next session: I ask what interesting fallout might follow and prepare to respond to the changed situation.
 
 The first four sessions are an exception. At that point, the characters may have done too little to propel the campaign and create much fallout of their own. I pay close attention to what has engaged the players and use those apparent interests to create inciting incidents that may appeal to them. As the characters' actions begin to change the situation, those actions and their effects become the main material feeding into the next session.

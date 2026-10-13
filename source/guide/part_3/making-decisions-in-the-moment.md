@@ -1,4 +1,9 @@
-<!-- (dl (section-meta 8. Making Decisions in the Moment)) -->
+<!-- (dl
+    (section-meta
+        (title 8. Making Decisions in the Moment)
+        (id making-decisions-in-the-moment)
+    )
+) -->
 
 <!-- (dl (# Choosing How to Resolve Something)) -->
 
@@ -22,14 +27,12 @@ I try to make rulings in terms of the character and the situation, and to say en
 
 If there is a conflict about a rule or ruling, I bring it to a table vote and move on. Safety is different: any player can veto content without explanation, and that veto is not put to a vote.
 
-<!-- (dl (# Consistency Without Being Trapped by Precedent)) -->
+<!-- (dl (# Correcting a Rules Call Without Rewriting the Past)) -->
 
-I want events to fit the players' view of the world because that helps them trust it. Literal consistency is less important than that appearance: a new explanation or detail can be worked in afterward if it does not break what the players understand to be true. Players often help make those connections themselves. This is separate from rules precedent. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
-
-I explain the correction and apply the rules or ruling consistently going forward. I do not take back a past success just to make the record match the rulebook. This lets me correct course without making the players feel that their earlier choices or accomplishments can be retroactively invalidated.
+If I later learn that a ruling was wrong, I do not take back what already happened or erase a past success to match the rulebook. I explain the correction and apply the rule consistently going forward; the earlier event remains part of the game, but does not necessarily set a precedent.
 
 <!-- (dl (# Correcting a Decision That Did Not Work)) -->
 
-If a decision is making play less fun, undermining a character, or creating a problem I did not intend, I can acknowledge that and change how I handle things. I do not have to defend a bad call just because I made it. I explain what I am changing, preserve what has already happened where I can, and move forward with a clearer understanding.
+If a decision makes play less fun, undermines a character, or creates a problem I did not intend, I acknowledge it, explain what I am changing, and move forward with a clearer understanding.
 
-There is one exception to leaving past events in place. If an action causes someone to raise a safety concern, that action is erased, along with its direct consequences. Safety overrides continuity, rules, and the desire to preserve what happened. I make a note of the concern without asking for an explanation, then help the affected player find another way forward if the action was theirs.
+Safety is the exception to preserving past events: when someone raises a concern, I erase the offending action and its direct consequences. I make a note without asking for an explanation, then help the affected player find another way forward if the action was theirs.

@@ -22,11 +22,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 <!-- (dl (# Establish What Changes)) -->
 
-When resolving a situation, I put on my evil GM's hat. I ask myself: **What are the worst things that could plausibly happen because of this action?** I do not invent danger just to make things harder. I look to what is already in the game: the Stage, the forces and their goals and limits, what the characters know but might be overlooking, and what they do not know yet. A consequence can also hint at something hidden, as long as it grows out of the situation rather than arriving as an arbitrary twist.
-
-Then I prune. I discard consequences that would kill interest, momentum, player agency, or fun. Starting with the worst possibilities helps me notice the stakes; it does not mean I choose the worst one. I want the result to matter without making the players feel that their choices were pointless.
-
-The characters can win and still leave the story open. Their success should stand. A consequence might add a cost, expose a new problem, change a relationship, draw attention, or reveal a danger. It should give the players something meaningful to respond to, not secretly cancel what they accomplished or force them down a predetermined path.
+I look at what plausibly changes because of the action, using the situation already established. Consequences should matter without undoing the characters' success or taking away their choices; Chapter 10 looks at how to develop and reveal that fallout.
 
 <!-- (dl (# Give the Situation Back to the Players)) -->
 

@@ -20,12 +20,4 @@ The table's fun is shared, too. I am a member of the table, and my enjoyment mat
 
 <!-- (dl (# How Authority Works at My Table)) -->
 
-My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, and I don't use it to overrule a safety veto or protect my planned story. If there is a conflict about a rule or a ruling, I bring it to a table vote and move on.
-
-For ordinary rules questions, I use this loose framework:
-
-1. **I don't know the rule:** The player can do it for now. I let them know I'll look it up for future sessions.
-2. **The character probably can't do it, but the attempt is plausible:** They can do it, perhaps with a slight increase in difficulty.
-3. **The action is too outlandish for the character:** I use “No, but.” I say no to that specific action, then discuss other ways the character could accomplish their goal.
-
-If the dice are getting in the way of the table's fun, I set them aside and play make-believe instead. Rules and systems are tools; they don't outrank the people playing.
+My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, never to overrule a safety veto or protect a planned story. If there is a conflict about a rule or ruling, I bring it to a table vote and move on. My approach to ordinary rules questions is covered in [Making Decisions in the Moment](<!-- (dl (get-path making-decisions-in-the-moment)) -->).

@@ -50,11 +50,7 @@ The fourth criterion is difficult to explain, especially when the game's existin
 
 <!-- (dl (# What I Deliberately Leave Undecided)) -->
 
-Most of what I create for the Stage never sees the light of day. That is a good thing. Material I make without the players' input is never as good as the ideas we generate together.
-
-The Stage gives me a large grab-bag to draw from when I am surprised. I can use something directly or use it to create something new. Its value is not measured by how much of it I manage to show the players. I am building understanding and possibilities, not a list of things they must encounter.
-
-I leave the developing story open. I do not prepare the characters' decisions, a required sequence of events, or an ending the players must reach. The forces and Stage help me respond coherently without needing to predict those things.
+Most of what I create for the Stage never appears directly in play. That is useful: it gives me possibilities to draw on when surprised, without turning preparation into a list of things the characters must encounter. I leave their decisions, the sequence of events, and the ending open.
 
 <!-- (dl (## Arcs and Stories)) -->
 

@@ -8,15 +8,11 @@ My biggest sign that a game has worked is what the players do when it ends. Eith
 
 <!-- (dl (## I Design Systems, Not Stories)) -->
 
-I do not craft stories so much as craft an environment that creates stories. My goal is not to write a sequence of events the players must follow. My goal is to build a world with enough pressure, conflict, and meaning that the players' choices, the forces' actions, and the Stage's tensions produce stories worth telling.
-
-The story is not a script imposed on the campaign. It is the emergent result of the system in motion.
+I build a world with enough pressure and meaning for the players' choices, the forces' actions, and the Stage's tensions to create the story in play.
 
 <!-- (dl (# What Makes a Session Feel Successful)) -->
 
-A session is successful when the players are engaged enough that they want more, or when the events keep mattering to them after the session is over. It doesn't have to follow the plan or advance a predetermined plot. The characters can surprise me, the situation can change, and the session can still feel cohesive.
-
-I use preparation to help me respond to what happens, not to decide in advance what must happen. Forces pursue their goals and react to the characters; the characters' choices affect the situation. That gives play momentum while leaving the outcome open.
+A session is successful when the players are engaged enough to want more, or when the events keep mattering to them afterward. It can feel cohesive even when the characters surprise me and change the situation.
 
 <!-- (dl (# What I Prioritize When I Can't Have Everything)) -->
 

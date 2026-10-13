@@ -26,9 +26,7 @@ Much of the campaign-creation advice I've encountered seems to lead to campaigns
 
 This guide is my attempt to capture how I do that. I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, limits, and recognizable fingerprints. I consider how the forces relate to one another and to the characters. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
 
-In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. The forces are its active agents: they want something, they have limits, and they can move the world. The characters are another set of agents entering that system and changing its behavior. The campaign is not a machine I power by telling the players what happens next. It is a network of relationships and pressures that produces consequences when the players act on it.
-
-I do not craft stories so much as craft an environment that creates stories. My goal is not to write a sequence of events that the players must follow. My goal is to make a world in which the players' choices, the forces' goals, and the Stage's tensions produce stories worth telling. The story is the emergent behavior of the system, not a script I impose on it.
+In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. Forces are its active agents, pursuing goals within their limits. The characters enter that system and change its behavior. I do not craft a sequence of events for them to follow; I build an environment in which their choices and the world's pressures produce stories.
 
 At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. A campaign works best when its parts have enough internal logic that the resulting behavior feels understandable even when it is surprising. I try to follow what the players find entertaining without deciding outcomes in advance. The aim is improvisation that stays coherent: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity or tone.
 
@@ -66,15 +64,11 @@ My biggest sign that a game has worked is what the players do when it ends. Eith
 
 ##### I Design Systems, Not Stories #####
 
-I do not craft stories so much as craft an environment that creates stories. My goal is not to write a sequence of events the players must follow. My goal is to build a world with enough pressure, conflict, and meaning that the players' choices, the forces' actions, and the Stage's tensions produce stories worth telling.
-
-The story is not a script imposed on the campaign. It is the emergent result of the system in motion.
+I build a world with enough pressure and meaning for the players' choices, the forces' actions, and the Stage's tensions to create the story in play.
 
 #### What Makes a Session Feel Successful ####
 
-A session is successful when the players are engaged enough that they want more, or when the events keep mattering to them after the session is over. It doesn't have to follow the plan or advance a predetermined plot. The characters can surprise me, the situation can change, and the session can still feel cohesive.
-
-I use preparation to help me respond to what happens, not to decide in advance what must happen. Forces pursue their goals and react to the characters; the characters' choices affect the situation. That gives play momentum while leaving the outcome open.
+A session is successful when the players are engaged enough to want more, or when the events keep mattering to them afterward. It can feel cohesive even when the characters surprise me and change the situation.
 
 #### What I Prioritize When I Can't Have Everything ####
 
@@ -110,15 +104,7 @@ The table's fun is shared, too. I am a member of the table, and my enjoyment mat
 
 #### How Authority Works at My Table ####
 
-My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, and I don't use it to overrule a safety veto or protect my planned story. If there is a conflict about a rule or a ruling, I bring it to a table vote and move on.
-
-For ordinary rules questions, I use this loose framework:
-
-1. **I don't know the rule:** The player can do it for now. I let them know I'll look it up for future sessions.
-2. **The character probably can't do it, but the attempt is plausible:** They can do it, perhaps with a slight increase in difficulty.
-3. **The action is too outlandish for the character:** I use “No, but.” I say no to that specific action, then discuss other ways the character could accomplish their goal.
-
-If the dice are getting in the way of the table's fun, I set them aside and play make-believe instead. Rules and systems are tools; they don't outrank the people playing.
+My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, never to overrule a safety veto or protect a planned story. If there is a conflict about a rule or ruling, I bring it to a table vote and move on. My approach to ordinary rules questions is covered in [Making Decisions in the Moment](#8-making-decisions-in-the-moment).
 
 ### 3. The Principles Behind My Decisions ###
 
@@ -152,25 +138,17 @@ I technically decide how forces and the world react, but I think of myself as th
 
 #### How These Principles Affect Play ####
 
-I begin with a strong initial understanding of the campaign, then use it to make decisions in the moment. I let the characters surprise me and allow their actions to redirect events. The forces give me something to react with; they are not a script for what happens next.
-
-I also prefer for encounters to arise naturally from the fallout of character actions instead of being created separately and inserted into the game. Encounters still matter, but they feel more connected when they emerge from what the characters have done. This can be harder in tactical games such as D&D, but it is still possible. For those games, I prepare spreads of enemies for different encounter types and reskin them to fit the situation that actually arises.
-
-At the table, I make rules calls with momentum and the character in mind. If I don't know a rule, I allow the action for now and look up the rule for future sessions. If an action is a plausible stretch for the character, I may allow it with a little extra difficulty. If it is too outlandish, I use “No, but” and help find another way to pursue the character's goal. If the dice or system get in the way of the table's fun, I can set them aside.
+I prefer encounters to arise from the fallout of character actions rather than being inserted as separate events. In tactical games, I prepare spreads of enemies for different encounter types and reskin them to fit the situation that actually arises.
 
 #### When Principles Conflict ####
 
-Safety is the hard boundary. Within it, the table's fun comes first. Rules, plot, prepared encounters, characters, and continuity serve the experience; they do not outrank it.
-
-I aim for the appearance of continuity because it helps the players trust the world. But if preserving literal consistency would make the game less enjoyable or undermine player choice, I can change what happened or work backward to make the new version fit. The goal is not a perfect record of facts; it is a world that still makes sense from the players' point of view.
+Safety is the hard boundary; within it, the table's fun comes first. Continuity helps players trust the world, but I will revise details rather than let literal consistency undermine player choice or enjoyment.
 
 #### Where My Approach Differs from Familiar Advice ####
 
 The advice I have the biggest problem with is advice that starts by having the GM create encounters as separate units. Encounters are important, but I find they work better when they flow naturally from the fallout of character actions. That way, the encounter belongs to the developing situation instead of interrupting it.
 
-This is more difficult in tactical games such as D&D, where encounters may need carefully composed enemy groups. I handle that by preparing enemy spreads for different kinds of encounters, then reskinning them to fit what is happening in the game. This lets me keep the tactical structure without deciding in advance exactly when or why a particular encounter will occur.
-
-More broadly, I prepare enough to improvise rather than enough to predict. The campaign can change direction, and the tools I prepare are there to help me respond while keeping the world recognizable.
+This is more difficult in tactical games such as D&D, where encounters may need carefully composed enemy groups. Preparing adaptable enemy spreads lets me keep that tactical structure without deciding in advance when or why an encounter will occur.
 
 ## Part II: Setting Up the Game ##
 
@@ -252,11 +230,7 @@ The fourth criterion is difficult to explain, especially when the game's existin
 
 #### What I Deliberately Leave Undecided ####
 
-Most of what I create for the Stage never sees the light of day. That is a good thing. Material I make without the players' input is never as good as the ideas we generate together.
-
-The Stage gives me a large grab-bag to draw from when I am surprised. I can use something directly or use it to create something new. Its value is not measured by how much of it I manage to show the players. I am building understanding and possibilities, not a list of things they must encounter.
-
-I leave the developing story open. I do not prepare the characters' decisions, a required sequence of events, or an ending the players must reach. The forces and Stage help me respond coherently without needing to predict those things.
+Most of what I create for the Stage never appears directly in play. That is useful: it gives me possibilities to draw on when surprised, without turning preparation into a list of things the characters must encounter. I leave their decisions, the sequence of events, and the ending open.
 
 ##### Arcs and Stories #####
 
@@ -366,7 +340,7 @@ Give players enough information to make characters who fit, then use their ideas
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did and ask what interesting fallout follows from it. I use that fallout as my starting point for the next session. I am not trying to predict what the characters will do next; I am getting ready to respond to what they have already changed.
+Between sessions, I prepare much less. I look at what the characters did, consider the interesting fallout, and use that changed situation as my starting point.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -374,29 +348,23 @@ I prepare the things the characters will need to spend effort on. If there is a 
 
 People need to find the level of detail and format that work best for them. I keep my notes brief, and I use Markdown for everything. I usually give each important thing its own short file. I try to keep a force to no more than two screens of information, and hope to use less.
 
-The point is not to fit a particular amount of information into a file. The notes should be short enough that I can use them, and detailed enough to help me make decisions. I do not need to write down every possibility. My notes are there to help me understand what is happening and respond when the players take the game somewhere I did not expect.
+The notes should be short enough to use and detailed enough to help me make decisions. I do not need to write down every possibility.
 
 ##### Improvising Without Looking Unprepared #####
 
-Many GMs, especially new ones, worry that improvising will make them look disorganized or unprepared. I understand that fear. The answer is not to plan every scene or plot turn in advance. It is to prepare the parts that let you make sense of what happens: the Stage, the forces and their goals, their relationships, and the consequences already in motion.
-
-That understanding gives you something solid to work from when the players do something unexpected. You can make a new detail fit what is already true, or notice a pattern and decide what in the world could explain it. The players may experience the result as a world that was fully planned, even when you are creating the connection in the moment. That is not a trick to fool them; it is a way to create a shared sense of wonder. Preparation supports the improvisation that makes the moment feel magical and memorable.
+Many GMs, especially new ones, worry that improvising will make them look unprepared. Knowing the Stage, forces, and their relationships gives you something solid to work from: you can connect a new detail to what is already true or make sense of a pattern as it emerges. Those connections can create a shared sense of wonder without requiring you to have planned them in advance.
 
 #### When Preparation Is Sufficient ####
 
-A session is ready to play when I know what interesting fallout will follow from what happened last session. I also prepare the things that will require effort from the characters, such as clues, combatants, and key NPCs.
-
-This is a practical stopping point, not a promise that I know what the session will contain. The characters may ignore a clue, avoid a fight, or connect with an NPC in a way I did not anticipate. I prepare what they might engage with; I do not prepare the choices they will make or decide in advance how those choices turn out.
+A session is ready when I understand the relevant fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
 
 #### What I Don't Prepare ####
 
-I do not prepare a required sequence of events, the characters' decisions, or an ending they have to reach. I do not need to decide exactly how the characters will encounter later conflicts. I prepare enough to understand the situation and what may follow from their actions, then leave room for the players to change it.
-
-I also do not try to prepare every possible clue, encounter, or interaction. I prepare the ones that matter to the situation and that call for effort from the characters. The rest can emerge during play, informed by the Stage, the forces, and what has already happened.
+I do not prepare a required sequence, the characters' decisions, or an ending they have to reach. I prepare only the material that matters to the current situation; other details can emerge during play.
 
 #### An Annotated Example of My Session Prep ####
 
-Here is the sort of thing I prepare before a session. The exact format changes from game to game, but the pattern stays the same: I note the fallout from the last session, identify the questions that matter, and prepare the things the characters are likely to spend effort on. I do not write a script. I write a situation.
+Here is one way I might prepare a session: note the fallout, identify useful open questions, and prepare material the characters may spend effort on.
 
 ##### Example: After the warehouse attack #####
 
@@ -422,15 +390,11 @@ Open questions
 - What happens if the characters expose the ledger before they can verify it?
 ```
 
-The value of this prep is not that the notes are complete. They are not. The point is that I have identified the pressure points. The market is unstable. People are willing to talk. There are clues worth following. There are enemies the characters might fight. There is a person with leverage and a reason to talk to them. Those are the ingredients I need to improvise from.
+The notes identify pressure points: an unstable market, people willing to talk, clues to follow, enemies to face, and a broker with leverage and a reason to negotiate.
 
 ##### Why This Works #####
 
-I write down the fallout that matters, not a timeline of events. The market is angry because of what happened last session, and that anger creates a reason for the next session to begin with tension. I prepare a small set of material things the characters might investigate, take interest in, or use. I prepare the enforcers and the broker because those are the things the characters may need to fight or negotiate with. I leave the details fluid because the players are the ones who decide which questions they ask and what they do with the answers.
-
-The open questions are the real structure. They tell me what is uncertain and what need not be decided yet. If the players ignore the ledger and pursue the shrine, the market still matters because the market itself is full of suspicion and fallout. If they talk to Ilya, she can steer them, threaten them, or offer them a bargain. If they attack the enforcers, the guild responds, and the tension in the city becomes a new problem rather than a pre-written plot beat.
-
-This is the point of prepared session notes for me: they help me understand the pressure in the room, the questions the players might ask, and the likely consequences of their choices. They do not make the session a script. They keep the campaign moving without deciding in advance what the characters will do.
+The open questions show what is uncertain and what can wait. The players might pursue the shrine, negotiate with Ilya, or attack the enforcers; each choice changes the situation differently. These notes help me respond without deciding which path they take.
 
 ## Part III: Running the Game ##
 
@@ -463,11 +427,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 #### Establish What Changes ####
 
-When resolving a situation, I put on my evil GM's hat. I ask myself: **What are the worst things that could plausibly happen because of this action?** I do not invent danger just to make things harder. I look to what is already in the game: the Stage, the forces and their goals and limits, what the characters know but might be overlooking, and what they do not know yet. A consequence can also hint at something hidden, as long as it grows out of the situation rather than arriving as an arbitrary twist.
-
-Then I prune. I discard consequences that would kill interest, momentum, player agency, or fun. Starting with the worst possibilities helps me notice the stakes; it does not mean I choose the worst one. I want the result to matter without making the players feel that their choices were pointless.
-
-The characters can win and still leave the story open. Their success should stand. A consequence might add a cost, expose a new problem, change a relationship, draw attention, or reveal a danger. It should give the players something meaningful to respond to, not secretly cancel what they accomplished or force them down a predetermined path.
+I look at what plausibly changes because of the action, using the situation already established. Consequences should matter without undoing the characters' success or taking away their choices; Chapter 10 looks at how to develop and reveal that fallout.
 
 #### Give the Situation Back to the Players ####
 
@@ -499,31 +459,27 @@ I try to make rulings in terms of the character and the situation, and to say en
 
 If there is a conflict about a rule or ruling, I bring it to a table vote and move on. Safety is different: any player can veto content without explanation, and that veto is not put to a vote.
 
-#### Consistency Without Being Trapped by Precedent ####
+#### Correcting a Rules Call Without Rewriting the Past ####
 
-I want events to fit the players' view of the world because that helps them trust it. Literal consistency is less important than that appearance: a new explanation or detail can be worked in afterward if it does not break what the players understand to be true. Players often help make those connections themselves. This is separate from rules precedent. Sometimes I make a call in the moment and later learn that the rules do not support it. What happened, happened. The character did the thing, and the consequences remain part of the game. It was a fluke; the same action is not necessarily possible again.
-
-I explain the correction and apply the rules or ruling consistently going forward. I do not take back a past success just to make the record match the rulebook. This lets me correct course without making the players feel that their earlier choices or accomplishments can be retroactively invalidated.
+If I later learn that a ruling was wrong, I do not take back what already happened or erase a past success to match the rulebook. I explain the correction and apply the rule consistently going forward; the earlier event remains part of the game, but does not necessarily set a precedent.
 
 #### Correcting a Decision That Did Not Work ####
 
-If a decision is making play less fun, undermining a character, or creating a problem I did not intend, I can acknowledge that and change how I handle things. I do not have to defend a bad call just because I made it. I explain what I am changing, preserve what has already happened where I can, and move forward with a clearer understanding.
+If a decision makes play less fun, undermines a character, or creates a problem I did not intend, I acknowledge it, explain what I am changing, and move forward with a clearer understanding.
 
-There is one exception to leaving past events in place. If an action causes someone to raise a safety concern, that action is erased, along with its direct consequences. Safety overrides continuity, rules, and the desire to preserve what happened. I make a note of the concern without asking for an explanation, then help the affected player find another way forward if the action was theirs.
+Safety is the exception to preserving past events: when someone raises a concern, I erase the offending action and its direct consequences. I make a note without asking for an explanation, then help the affected player find another way forward if the action was theirs.
 
 ### 9. Keeping Play Moving ###
 
 #### Recognizing What Deserves Attention ####
 
-I pay attention to what the players respond to. What they ask about, pursue, and keep engaging with tells me what is interesting to them. I do not give every prepared idea equal time just because I prepared it. If the players chase other Arcs, I let a less-attended Arc languish, even while its events continue in the background and its consequences remain visible. I do not treat that as a reason to force the Arc forward or resolve it for them.
-
-An Arc losing the players' attention is different from a player losing interest in the game. If I am concerned about a player's engagement—for example, if they start spending time on their phone—I talk with them privately after the session rather than treating it as a story problem. If someone says directly that they do not like a thread, I take that seriously. Preparation gives me possibilities, not an obligation to keep presenting material the players do not want.
+I notice what the players ask about and pursue, but a thread losing attention is different from a player losing interest in the game. If I am concerned about someone's engagement—for example, if they start spending time on their phone—I talk with them privately after the session rather than treating it as a story problem. If someone says they dislike a thread, I take that seriously.
 
 #### Giving Players Room Without Losing Momentum ####
 
 I do not try to maintain momentum by filling every pause or pushing the players toward a decision. I let them think, talk, ask questions, and decide what matters to their characters. Awkward silence can be useful. It gives a player space to work out what they want to do, and I may remind the rest of the table to let that space exist rather than rushing to fill it.
 
-For me, momentum comes from the situation changing in response to the players, not from hurrying them. When they are ready to act, the forces and the Stage give me material for a response. If a thread stops holding their interest, I can follow their attention elsewhere instead of forcing it forward.
+Momentum comes from the situation changing in response to the players, not from hurrying them.
 
 #### Sharing Attention Among Players ####
 
@@ -535,15 +491,11 @@ I do not have a complete formula for sharing attention. It is nuanced and change
 
 #### Handling Hesitation and Unexpected Choices ####
 
-When a player hesitates, I do not assume that the pause means something has gone wrong. I can leave room for them to think rather than immediately supplying an answer or choosing a direction for them. The other players can help by respecting that pause.
-
-When players make an unexpected choice, I follow it. I do not steer them back toward the path I expected or treat an unused prepared thread as a failure. Their choice changes the situation; I use what I know about the Stage and forces to respond.
+When players make an unexpected choice, I follow it rather than steering them back toward what I expected. Their choice changes the situation; I use what I know about the Stage and forces to respond.
 
 #### Knowing When to Move On ####
 
-I move on from a thread when the players stop engaging with it, or when its fallout reaches a natural conclusion through their actions. I do not keep a force or situation active solely because I prepared it. If the players have lost interest, I can let the thread change, fade, or resolve in whatever way seems most interesting, then give attention to what the table wants to explore.
-
-Moving on does not mean the world has to forget what happened. A thread may leave consequences behind even after it stops taking focus. I keep the parts that matter to the developing situation and let the rest go.
+When players move on from a thread, I stop foregrounding it rather than pushing it back into play. Its consequences may remain in the world; the distinction between an unresolved thread and a completed Arc matters when considering the campaign as a whole (see Chapter 12).
 
 ### 10. Bringing the World to Life ###
 
@@ -585,13 +537,7 @@ That kind of ripple makes the characters important even if the world does not kn
 
 #### Keeping the World Coherent as It Changes ####
 
-The world can change in ways I did not plan, but I want those changes to grow out of what is already happening. I use the Stage, the forces' goals and limits, their relationships, and the actions people have taken to work out what might follow. That gives me a basis for improvising without having to predict the characters' choices.
-
-Sometimes a consequence will be indirect or take time to appear. I do not need to reveal the whole chain at once. I can let the players see a new effect first, then discover its connection as they ask questions or investigate. The characters may never learn every connection, and the wider world may never recognize their part in what changed.
-
-The point is not to make the world react to every choice in a way that announces, “This was because of you.” It is to let the characters' choices matter. The world can respond, adapt, and keep moving around them, whether or not anyone understands why.
-
-I rarely need to plan a surprise. Logical fallout can surprise the players because I know more about the Stage, forces, and relationships than they do. A consequence that seems obvious to me may be unexpected to them; the difference in what we know lets ordinary cause and effect produce surprising revelations without a planned twist.
+Let consequences grow from the Stage, force goals, relationships, and actions already in play. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.
 
 ## Part IV: Beyond a Single Session ##
 
@@ -608,9 +554,7 @@ I love cliffhangers, but I do not plan for them or try to encourage them. If a g
 
 #### What I Record Afterward ####
 
-After a session, I keep simple notes. I record what the players did in general terms, then note the significant things the characters did specifically. I also record what affected each force, what affected the Stage, and what rewards the characters earned, including XP and other rewards.
-
-I do not need a transcript of the session. I want to preserve what changed and what is likely to matter again. Those notes help me remember the characters' actions and keep track of how the world has responded to them.
+After a session, I note what the players did, the characters' significant actions, what changed for each force and the Stage, and any rewards. I do not need a transcript—just a record of changes likely to matter again.
 
 #### What I Ask the Players ####
 
@@ -620,7 +564,7 @@ I compare feedback across sessions and look for patterns. If I start to see one,
 
 #### Turning the Session into Useful Preparation ####
 
-The things I record are also the material I use to prepare for the next session. What the players did, which character actions mattered, what those actions changed in the forces or the Stage, and what rewards they earned all help me decide what is worth carrying forward. I look at what happened and ask what interesting fallout might follow. I prepare to respond to the changed situation, not to predict what the characters will do next.
+Those notes feed into preparation for the next session: I ask what interesting fallout might follow and prepare to respond to the changed situation.
 
 The first four sessions are an exception. At that point, the characters may have done too little to propel the campaign and create much fallout of their own. I pay close attention to what has engaged the players and use those apparent interests to create inciting incidents that may appeal to them. As the characters' actions begin to change the situation, those actions and their effects become the main material feeding into the next session.
 
@@ -628,29 +572,19 @@ The first four sessions are an exception. At that point, the characters may have
 
 #### What Persists Between Sessions ####
 
-The campaign carries forward what the characters have done and what those actions have changed. I record their significant actions, what affected each force, what affected the Stage, and what rewards they earned. Those notes are not a plan for what must happen next. They are the current state of the campaign: material I can use to understand the situation and respond.
-
-Forces continue pursuing their goals, within the lines they will and will not cross. Their goals, resources, and other defining qualities can change as play develops. The Stage changes too. An action may affect people or parts of the world the characters never intended to reach, and those effects can become part of what the campaign is about.
+Between sessions, the campaign's current state is the record of what has changed (see Chapter 11). Forces continue pursuing their goals within their limits, and their goals, resources, and relationships can change. The Stage changes too; character actions may affect people or places far beyond their immediate targets.
 
 #### Following Player Interests ####
 
-I pay attention to what the players choose to engage with. Their questions, actions, and continued interest tell me which parts of the campaign matter to them. I follow that attention instead of insisting that they pursue every force, clue, or situation I prepared.
-
-This does not mean the world stops when the characters look elsewhere. Forces can keep pursuing their goals, and situations can change without the characters' involvement. But I do not keep presenting a thread just because I prepared it. If the players disengage, I let it rest, change, or resolve in whatever way seems most interesting. What matters is responding to the table, not protecting my unused plans.
+Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it.
 
 #### Revisiting Unresolved Situations ####
 
-An unresolved situation can remain part of the campaign. If it still matters to the characters or the world, it may return or continue to develop. Its return should come from the situation and the characters' actions, not from a requirement to finish everything that has been introduced.
-
-I distinguish between a thread that is complete and one the players have disengaged from. An Arc can end because its fallout reaches a natural conclusion through the characters' actions, or because the players stop engaging with it. Both are ways to move on during play, but they are not the same kind of ending. A disengaged thread is not a completed one, and I do not count it as closure when I consider how to end the campaign.
-
-An Arc can end while the campaign continues. New situations can grow from what the characters have done, and active forces can remain or change. The campaign does not need to conclude every unresolved story along the way.
+An unresolved situation may return if it still matters to the characters or the world; it should not return merely because it was introduced. An Arc may end when its fallout reaches a natural conclusion, or when the players disengage. The latter lets play move on, but it is not closure and does not count as a completed thread when I consider the campaign's ending.
 
 #### Changing Direction ####
 
-I do not decide in advance what the campaign has to become. The characters' choices can redirect it, change forces, alter the Stage, or make an earlier expectation irrelevant. I use what has happened and what the players care about to decide what follows. My preparation helps me improvise within a coherent world; it is not a route back to the story I first imagined.
-
-The campaign's direction can emerge from connections I did not plan. A force may turn out to matter across several stories. A character's action may set off changes far beyond the immediate situation. I let those developments reshape what the campaign is about, while preserving enough continuity for the changes to feel earned.
+The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape what the campaign is about and preserve enough continuity for them to feel earned.
 
 #### Recognizing When a Campaign Should End ####
 
@@ -660,7 +594,7 @@ I look for a point where enough completed threads can connect to the current one
 
 In one game, the players discovered that a wizard they had thought was their friend was actually an evil force. He had been active across a good number of their stories. The players fought and defeated him. He was one of three forces in the campaign, but his defeat was the point where I called the campaign over. It surprised the whole table, and they still talk about that ending when they get together.
 
-I had not waited for every thread or force to be resolved. That moment connected the wizard to what the players had experienced, gave them a major accomplishment, and felt like a place to stop. Ending the campaign did not mean explaining or tying off everything. It meant recognizing that the story had reached an ending worth remembering.
+I had not waited for every thread or force to be resolved. The wizard's defeat connected to what the players had experienced, gave them a major accomplishment, and felt like a place to stop. The campaign ended with loose ends because the moment already felt complete.
 
 ## Part V: Learning the Approach ##
 
@@ -698,7 +632,7 @@ In one campaign, I had prepared an evil wizard who had been corrupting the city 
 
 I followed that interest. The campaign became more of a “True Crime” story, and I developed Time as a force: the past appeared through reflections, and Time's goal was retribution for a single sin the wizard had committed. I had not planned for the past to become so important, and Time was not a force I had imagined before play. The players' interest showed me what in the Stage was worth developing.
 
-That was not a case of rescuing a failing campaign by making the players return to the weregators. The game was giving us a direction that interested the players, and my preparation let me build on it. I could let an unused part recede and turn a detail the players cared about into something with agency and consequences.
+The game was giving us a direction that interested the players. I let an unused part recede and developed a detail they cared about into something with agency and consequences.
 
 #### Repairing Mistakes with the Group ####
 
@@ -712,9 +646,9 @@ Safety is different from ordinary game problems. A player can veto content witho
 
 If the players and I want different kinds of games, we can talk about whether there is an experience we would all enjoy. I can change what I run, the group can choose a different game, or we can decide not to continue together. But if the only way to make the campaign work is to invalidate player choices or make someone at the table keep playing a game they do not enjoy, it may be time to stop.
 
-Ending a campaign is not proof that the GM failed. Sometimes it is the clearest way to respect what the people at the table want. In my first Fate Core campaign, I ended the game when I could not see a way to bring my preferred elements in without taking away the players' choices. The next time, I explained the kind of game I wanted up front and built a Stage that could help everyone find a place in it.
+Ending a campaign is not proof that the GM failed. Sometimes it is the clearest way to respect what the people at the table want, as my first Fate Core campaign taught me.
 
-When something is not working, I try to find out what the experience is telling me. If the players are showing me what interests them, I follow that interest. If I have made a mistake, I own it and repair what I can. If our expectations do not fit, I say so rather than forcing the game to continue. The aim is not to save every campaign or every idea; it is to make a game the people at the table can enjoy together.
+The key is to identify which kind of problem you have: follow an interest the group shares, repair a decision that is not working, or acknowledge a mismatch rather than force the campaign to continue.
 
 ### 14. My Approach in Practice ###
 
@@ -790,19 +724,15 @@ You do not need to run games exactly as I do. Some parts of this approach are im
 
 #### What Is Essential to the Approach ####
 
-The foundation is to prepare a situation that can respond to the characters. The Stage gives actions context and depth. Forces create movement within it. The characters act on that situation, and their actions change it. Those parts work through their relationships; taking one piece on its own is not the same as trying a smaller version of the approach.
-
-The Stage is especially important. Forces can pursue goals and create conflict, but without a Stage there is little for their movement to mean or connect to. The Stage does not need to cover an entire setting or campaign. It does need to be developed enough to give the characters a place to explore, details to encounter, and relationships or pressures that can produce consequences.
-
-Safety and player agency are not optional techniques to scale down or set aside. Players must be able to make meaningful choices, and safety boundaries take priority over preparation, continuity, and the story. Within those boundaries, you can adapt the rest to your table.
+The essential part is a connected situation: the Stage gives actions context, forces create movement, and the characters can change both. You can scale the scope to fit your campaign, but safety and meaningful player choice are not optional techniques to set aside.
 
 #### Build a Small but Complete System ####
 
-Starting small does not mean using only one force, or preparing a force without a Stage around it. It means building a smaller system with enough connected parts to work. You might focus on one city, one neighborhood, or one part of a larger campaign. Develop that portion of the Stage so the characters can explore it and so the forces' actions have context there.
+Starting small means building a bounded system with enough connected parts to work—not just one force without a Stage. Focus on one city, one neighborhood, or one part of a larger campaign; give the characters room to explore and the forces' actions context.
 
 Put details from the Stage into conversations, places, and rumors. You do not need to explain everything up front. Let the players encounter the material, notice what interests them, and show you where they want to look more closely. Then develop forces in relation to the Stage and to that interest.
 
-I often start by thinking about forces because their goals help me discover what the Stage needs. That is my way into the work, not a requirement that forces come first or matter more. The Stage and forces develop together. What matters is that the result is a functioning whole: a place with depth, forces with reasons to act, and room for the characters' actions to change what happens.
+I often start with forces because their goals help me discover what the Stage needs, but the two develop together. Choose whichever gives you a useful way into the work.
 
 #### Try a Short Shot ####
 
@@ -816,11 +746,7 @@ That is a rule of thumb, not a rule. Your players may enjoy making characters, o
 
 #### How to Tell Whether It Is Working ####
 
-As you try an adaptation, pay attention to what happens at the table. Do the players find things in the Stage they want to explore? Do their actions change the situation? Can you respond to their choices using what you prepared, without having to force them toward a planned sequence? Are you and the players enjoying the game?
-
-If the area feels empty, add depth to the Stage: relationships, history, people, or pressures that make the place feel inhabited and give actions consequences. If the players are interested in something you did not expect, follow that interest and see how it changes the situation. If the approach is not producing a game your group enjoys, talk about what is missing and adjust—or decide that a different style is a better fit.
-
-You do not need to copy my campaign structure, preparation ratios, opening combat, or number of forces to use the underlying idea. Start with a complete but bounded system, observe what play brings out, and adapt from there. The point is not to reproduce my habits; it is to build a way of preparing and improvising that helps your table create a game worth remembering.
+After a few sessions, ask whether the players have found something to explore, whether their actions change the situation, and whether the group enjoys the play. If the Stage feels empty, add relationships, history, or pressures; if an unexpected interest emerges, develop it. You need not copy my preparation ratios, opening combat, or number of forces. Keep what helps your table and adjust the rest.
 
 ## Appendices ##
 
