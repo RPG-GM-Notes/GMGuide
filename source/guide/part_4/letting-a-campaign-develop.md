@@ -10,6 +10,18 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it. Theme remains the lens for deciding which developments to bring forward and how to frame them; it helps me build on the players' interests without turning those interests into a required route or a predetermined answer.
 
+<!-- (dl (## Accumulating Meaning, Direction, and an Emotional Center)) -->
+
+Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, the theme, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
+
+Meaning accumulates through choices and their consequences. The theme supplies a question or idea; play gives it lived examples. What the characters protect, sacrifice, accept, or refuse gradually makes that theme personal without requiring a predetermined answer.
+
+Direction accumulates through commitments. A curiosity can become an investigation, an investigation can become a relationship or goal, and pursuing that goal changes the situation. Earlier decisions create reasons for later decisions. The direction can change, but it has a history.
+
+An emotional center accumulates through repeated involvement. A person, place, relationship, or struggle comes to matter because the players have spent time with it and changed things through it. It carries memories of what they accomplished, lost, or still hope to do.
+
+My job is to build on what has become important, not merely supply the next interesting thing. A new development can deepen an existing relationship, reveal another side of an earlier choice, or connect a current concern to an older one; it does not always need to open another thread. Some interests fade, while others become commitments. I follow the players' attention without discarding what their involvement has already made meaningful.
+
 <!-- (dl (# Revisiting Unresolved Situations)) -->
 
 An unresolved situation may return if it still matters to the characters or the world; it should not return merely because it was introduced. An Arc may end when its fallout reaches a natural conclusion, or when the players disengage. The latter lets play move on, but it is not closure and does not count as a completed thread when I consider the campaign's ending.
