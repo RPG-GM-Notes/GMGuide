@@ -2,6 +2,7 @@
     (title Appendices)
     (id appendices)
     (include
+        (Navigation ./_navigation.md)
         (Subsection ./one-page-summary.md)
         (Subsection ./quick-reference.md)
         (Subsection ./session-prep-template.md)

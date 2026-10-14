@@ -2,6 +2,7 @@
     (title Part II: Setting Up the Game)
     (id part-ii)
     (include
+        (Navigation ./_navigation.md)
         (Subsection ./finding-the-right-fit.md)
         (Subsection ./creating-a-starting-point.md)
         (Subsection ./preparing-for-play.md)

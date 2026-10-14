@@ -9,6 +9,8 @@
 * [14. My Approach in Practice](#14-my-approach-in-practice)
 * [15. Making This Style Your Own](#15-making-this-style-your-own)
 
+**Parts:** [Part I](./part-i.md#part-i-what-im-trying-to-create) · [Part II](./part-ii.md#part-ii-setting-up-the-game) · [Part III](./part-iii.md#part-iii-running-the-game) · [Part IV](./part-iv.md#part-iv-managing-sessions-and-campaigns) · **Part V** · [Appendices](./appendices.md#appendices)
+
 ## 14. My Approach in Practice ##
 
 This example follows a Mage: The Ascension 20th Anniversary Edition campaign with multiple supernatural crossovers, set in modern Baton Rouge. It shows how I reuse ideas, develop a Stage, choose starting forces, and then follow the players when their interests take the campaign somewhere I had not planned.

@@ -56,6 +56,8 @@ The examples show what these ideas have looked like in my games, not what every 
 * [2. The GM's Job—and Its Limits](#2-the-gms-joband-its-limits)
 * [3. The Principles Behind My Decisions](#3-the-principles-behind-my-decisions)
 
+**Parts:** **Part I** · [Part II](#part-ii-setting-up-the-game) · [Part III](#part-iii-running-the-game) · [Part IV](#part-iv-managing-sessions-and-campaigns) · [Part V](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 ### 1. What a Good Game Looks Like to Me ###
 
 #### What I Want Players to Experience ####
@@ -163,6 +165,8 @@ This is more difficult in tactical games such as D&D, where encounters may need 
 * [4. Finding the Right Fit](#4-finding-the-right-fit)
 * [5. Creating a Starting Point](#5-creating-a-starting-point)
 * [6. Preparing for Play](#6-preparing-for-play)
+
+**Parts:** [Part I](#part-i-what-im-trying-to-create) · **Part II** · [Part III](#part-iii-running-the-game) · [Part IV](#part-iv-managing-sessions-and-campaigns) · [Part V](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 4. Finding the Right Fit ###
 
@@ -458,6 +462,8 @@ The open questions show what is uncertain and what can wait. The players might p
 * [9. Keeping Play Moving](#9-keeping-play-moving)
 * [10. Bringing the World to Life](#10-bringing-the-world-to-life)
 
+**Parts:** [Part I](#part-i-what-im-trying-to-create) · [Part II](#part-ii-setting-up-the-game) · **Part III** · [Part IV](#part-iv-managing-sessions-and-campaigns) · [Part V](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 ### 7. My Basic Loop at the Table ###
 
 #### The Loop ####
@@ -597,6 +603,8 @@ Let consequences grow from the established situation. Effects may be indirect or
 * [11. Ending a Session and Starting the Next](#11-ending-a-session-and-starting-the-next)
 * [12. Letting a Campaign Develop](#12-letting-a-campaign-develop)
 * [13. When It Isn't Working](#13-when-it-isnt-working)
+
+**Parts:** [Part I](#part-i-what-im-trying-to-create) · [Part II](#part-ii-setting-up-the-game) · [Part III](#part-iii-running-the-game) · **Part IV** · [Part V](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 11. Ending a Session and Starting the Next ###
 
@@ -770,6 +778,8 @@ The key is to identify which kind of problem you have: follow an interest the gr
 * [14. My Approach in Practice](#14-my-approach-in-practice)
 * [15. Making This Style Your Own](#15-making-this-style-your-own)
 
+**Parts:** [Part I](#part-i-what-im-trying-to-create) · [Part II](#part-ii-setting-up-the-game) · [Part III](#part-iii-running-the-game) · [Part IV](#part-iv-managing-sessions-and-campaigns) · **Part V** · [Appendices](#appendices)
+
 ### 14. My Approach in Practice ###
 
 This example follows a Mage: The Ascension 20th Anniversary Edition campaign with multiple supernatural crossovers, set in modern Baton Rouge. It shows how I reuse ideas, develop a Stage, choose starting forces, and then follow the players when their interests take the campaign somewhere I had not planned.
@@ -927,6 +937,8 @@ After a few sessions, ask whether the players have found something to explore, w
 * [Quick Reference for Play](#quick-reference-for-play)
 * [Session Preparation Template](#session-preparation-template)
 * [Terms I Use in a Particular Way](#terms-i-use-in-a-particular-way)
+
+**Parts:** [Part I](#part-i-what-im-trying-to-create) · [Part II](#part-ii-setting-up-the-game) · [Part III](#part-iii-running-the-game) · [Part IV](#part-iv-managing-sessions-and-campaigns) · [Part V](#part-v-learning-the-approach) · **Appendices**
 
 ### A One-Page Summary ###
 

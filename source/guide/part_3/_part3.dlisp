@@ -2,6 +2,7 @@
     (title Part III: Running the Game)
     (id part-iii)
     (include
+        (Navigation ./_navigation.md)
         (Subsection ./my-basic-loop-at-the-table.md)
         (Subsection ./making-decisions-in-the-moment.md)
         (Subsection ./keeping-play-moving.md)

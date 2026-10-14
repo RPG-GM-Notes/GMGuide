@@ -10,6 +10,8 @@
 * [12. Letting a Campaign Develop](#12-letting-a-campaign-develop)
 * [13. When It Isn't Working](#13-when-it-isnt-working)
 
+**Parts:** [Part I](./part-i.md#part-i-what-im-trying-to-create) · [Part II](./part-ii.md#part-ii-setting-up-the-game) · [Part III](./part-iii.md#part-iii-running-the-game) · **Part IV** · [Part V](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
+
 ## 11. Ending a Session and Starting the Next ##
 
 ### Finding a Stopping Point ###
