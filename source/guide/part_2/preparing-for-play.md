@@ -4,7 +4,7 @@
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did and first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how that outcome can grow from the changed situation: the Stage, the Forces and their goals and limits, their relationships, and what the characters did. If I cannot ground it in what is established, I look for another thematic outcome rather than forcing the first idea. This lets the theme lead my preparation without deciding what the characters must do or what answer they should reach.
+Between sessions, I prepare much less. I review what the characters changed and prepare relevant fallout, using the process in Chapter 10 to keep it thematic and grounded in the established situation.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -20,11 +20,7 @@ Many GMs, especially new ones, worry that improvising will make them look unprep
 
 <!-- (dl (# When Preparation Is Sufficient)) -->
 
-A session is ready when I understand the relevant, thematically filtered fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
-
-<!-- (dl (# What I Don't Prepare)) -->
-
-I do not prepare a required sequence, the characters' decisions, or an ending they have to reach. I prepare only the material that matters to the current situation; other details can emerge during play.
+A session is ready when I understand the relevant fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
 
 <!-- (dl (# An Annotated Example of My Session Prep)) -->
 

@@ -8,7 +8,7 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 <!-- (dl (# Following Player Interests)) -->
 
-Over the campaign, I follow the interests that persist and let others recede. Forces keep pursuing their goals when the characters look elsewhere, but I do not keep presenting a thread just because I prepared it. I build on the interests the players choose to pursue rather than continually introducing new material.
+I develop sustained player interests rather than continually introducing new material. Forces keep pursuing their goals when the characters look elsewhere, changing the campaign state in ways I can draw on later.
 
 <!-- (dl (## Distinguishing Curiosity from Investment)) -->
 
@@ -25,11 +25,11 @@ Signs that curiosity is becoming investment include:
 
 Time spent is useful evidence, but not sufficient by itself. Players may spend a whole session investigating something because it is difficult to understand, while a brief encounter may produce immediate attachment. Investment does not require a sacrifice; caring can be evident before it costs anything. It does not require affection either: someone the players distrust, a place they want to escape, or a problem they are determined to end can become an emotional center.
 
-Curiosity is a reason to offer more; investment is a reason to build more deeply. I give the players enough to discover whether they care. If they do, I develop connections and consequences around what they have made important. If they do not, I let it remain a passing interest.
+Curiosity earns more to discover; sustained investment earns deeper development.
 
 <!-- (dl (## Accumulating Meaning, Direction, and an Emotional Center)) -->
 
-Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
+I develop invested interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world the players encounter has already been changed by their earlier choices.
 
 Meaning accumulates through choices and their consequences. The theme supplies a question or idea; the campaign's situations keep presenting it from different angles, and play gives it lived examples. What the characters protect, sacrifice, accept, or refuse gradually makes that question personal without requiring a predetermined answer.
 

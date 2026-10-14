@@ -4,9 +4,7 @@
 
 I want the game to leave people energized, engaged, and still thinking about what happened. A session does not have to follow my plans to succeed, but I pay attention when the players and I are not enjoying the game, or when the play at the table is not producing the experience we agreed to pursue.
 
-One quiet session is not enough to diagnose a problem. A player may be thinking, tired, or simply less interested in a particular thread. A thread losing the players' attention is not the same as a player losing interest in the game. I look for patterns in how people respond, and I ask the players how the game could be better. Their feedback helps me notice a problem, but I still need to understand what is behind it before choosing a change.
-
-This is especially worth remembering in the second session. In my experience, it is often the least exciting session: the opening energy has faded, the characters may not yet have generated much momentum, and the players are still learning them (see Chapter 11). One flat second session does not, by itself, mean that the GM has failed or that the campaign is not working.
+One quiet session—including the often-lower-energy second session (see Chapter 11)—is not enough to diagnose a problem. A player may be thinking, tired, or simply less interested in a particular thread. A thread losing the players' attention is not the same as a player losing interest in the game. I look for patterns in how people respond, and I ask the players how the game could be better. Their feedback helps me notice a problem, but I still need to understand what is behind it before choosing a change.
 
 Sometimes the problem is local. A ruling, encounter, or scene may be slowing play down or making a character feel ineffective. Sometimes the players are engaged with the campaign, but not with the material I expected them to care about. And sometimes the group wants a different kind of game from the one I want to run. Those are different problems; they need different responses.
 

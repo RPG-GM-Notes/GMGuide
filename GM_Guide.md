@@ -92,13 +92,13 @@ That includes making calls in the moment. I use the forces, their goals and limi
 
 #### What I Leave to the Players ####
 
-I don't try to predict what the characters will do or require them to follow a planned sequence. The players decide what their characters attempt, and those choices can change the campaign. If a character's action is vetoed for safety, I work with that player to find a different action rather than leaving them without a way forward.
+I don't try to predict what the characters will do or require them to follow a planned sequence. The players decide what their characters attempt, and those choices can change the campaign.
 
 #### What We Decide Together ####
 
 Safety is the ultimate authority at my table. As a group, we decide what can initially go into the game and when it can happen. During play, every player has veto power over content, no questions asked. This is my one hard rule.
 
-When someone uses a veto, the offending context is removed. I make a note, and after the session the only question I ask is whether I recorded it correctly so it can be added to our banned-topics list. The veto does not require explanation or discussion in the moment.
+When someone uses a veto, the offending context is removed. The practical steps I use to establish and honor this boundary are in Chapter 4.
 
 The table's fun is shared, too. I am a member of the table, and my enjoyment matters as much as any one player's. I find enjoyment in doing something well, so I'm willing to throw out the plot, characters, NPCs, or even the system if that is what the table needs. I recommend that prospective GMs figure out what makes GMing enjoyable for them and find a group that wants that kind of game. I usually ask my players to help us find our fun together. If we can't, I end the game; if one person at the table isn't having fun, it tends to tank the whole table.
 
@@ -178,7 +178,7 @@ I also tell players what topics I want to address, especially when those topics 
 
 #### Establishing Expectations, Boundaries, and Feedback ####
 
-Safety is the ultimate authority at my table. We decide together what can initially go into the game and when it can happen. Every player can veto content at any time, no questions asked. If a veto is used, I remove the offending context, make a note, and after the session ask only whether I recorded it correctly so it can be added to our banned-topics list.
+Before play, we decide together what content can go into the game and when it can happen. Every player can veto content at any time, no questions asked. If a veto is used, I remove the offending context, make a note, and after the session ask only whether I recorded it correctly so it can be added to our banned-topics list.
 
 I don't start a game with a player until we have practiced vetoing topics twice. The first practice is usually silly: I might say, “Ham is your trigger topic and bread is yours,” then describe a scene that includes one of those topics so everyone can try using a veto. I repeat the exercise with a different, real example, such as animal abuse, if it is not already on the forbidden-topics list.
 
@@ -397,7 +397,7 @@ Choose a theme, then develop a Stage and Forces whose connections can generate d
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did and first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how that outcome can grow from the changed situation: the Stage, the Forces and their goals and limits, their relationships, and what the characters did. If I cannot ground it in what is established, I look for another thematic outcome rather than forcing the first idea. This lets the theme lead my preparation without deciding what the characters must do or what answer they should reach.
+Between sessions, I prepare much less. I review what the characters changed and prepare relevant fallout, using the process in Chapter 10 to keep it thematic and grounded in the established situation.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -413,11 +413,7 @@ Many GMs, especially new ones, worry that improvising will make them look unprep
 
 #### When Preparation Is Sufficient ####
 
-A session is ready when I understand the relevant, thematically filtered fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
-
-#### What I Don't Prepare ####
-
-I do not prepare a required sequence, the characters' decisions, or an ending they have to reach. I prepare only the material that matters to the current situation; other details can emerge during play.
+A session is ready when I understand the relevant fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
 
 #### An Annotated Example of My Session Prep ####
 
@@ -648,7 +644,7 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 #### Following Player Interests ####
 
-Over the campaign, I follow the interests that persist and let others recede. Forces keep pursuing their goals when the characters look elsewhere, but I do not keep presenting a thread just because I prepared it. I build on the interests the players choose to pursue rather than continually introducing new material.
+I develop sustained player interests rather than continually introducing new material. Forces keep pursuing their goals when the characters look elsewhere, changing the campaign state in ways I can draw on later.
 
 ##### Distinguishing Curiosity from Investment #####
 
@@ -665,11 +661,11 @@ Signs that curiosity is becoming investment include:
 
 Time spent is useful evidence, but not sufficient by itself. Players may spend a whole session investigating something because it is difficult to understand, while a brief encounter may produce immediate attachment. Investment does not require a sacrifice; caring can be evident before it costs anything. It does not require affection either: someone the players distrust, a place they want to escape, or a problem they are determined to end can become an emotional center.
 
-Curiosity is a reason to offer more; investment is a reason to build more deeply. I give the players enough to discover whether they care. If they do, I develop connections and consequences around what they have made important. If they do not, I let it remain a passing interest.
+Curiosity earns more to discover; sustained investment earns deeper development.
 
 ##### Accumulating Meaning, Direction, and an Emotional Center #####
 
-Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
+I develop invested interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world the players encounter has already been changed by their earlier choices.
 
 Meaning accumulates through choices and their consequences. The theme supplies a question or idea; the campaign's situations keep presenting it from different angles, and play gives it lived examples. What the characters protect, sacrifice, accept, or refuse gradually makes that question personal without requiring a predetermined answer.
 
@@ -703,9 +699,7 @@ I had not waited for every thread or force to be resolved. The wizard's defeat c
 
 I want the game to leave people energized, engaged, and still thinking about what happened. A session does not have to follow my plans to succeed, but I pay attention when the players and I are not enjoying the game, or when the play at the table is not producing the experience we agreed to pursue.
 
-One quiet session is not enough to diagnose a problem. A player may be thinking, tired, or simply less interested in a particular thread. A thread losing the players' attention is not the same as a player losing interest in the game. I look for patterns in how people respond, and I ask the players how the game could be better. Their feedback helps me notice a problem, but I still need to understand what is behind it before choosing a change.
-
-This is especially worth remembering in the second session. In my experience, it is often the least exciting session: the opening energy has faded, the characters may not yet have generated much momentum, and the players are still learning them (see Chapter 11). One flat second session does not, by itself, mean that the GM has failed or that the campaign is not working.
+One quiet session—including the often-lower-energy second session (see Chapter 11)—is not enough to diagnose a problem. A player may be thinking, tired, or simply less interested in a particular thread. A thread losing the players' attention is not the same as a player losing interest in the game. I look for patterns in how people respond, and I ask the players how the game could be better. Their feedback helps me notice a problem, but I still need to understand what is behind it before choosing a change.
 
 Sometimes the problem is local. A ruling, encounter, or scene may be slowing play down or making a character feel ineffective. Sometimes the players are engaged with the campaign, but not with the material I expected them to care about. And sometimes the group wants a different kind of game from the one I want to run. Those are different problems; they need different responses.
 

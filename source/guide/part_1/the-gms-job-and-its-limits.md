@@ -8,13 +8,13 @@ That includes making calls in the moment. I use the forces, their goals and limi
 
 <!-- (dl (# What I Leave to the Players)) -->
 
-I don't try to predict what the characters will do or require them to follow a planned sequence. The players decide what their characters attempt, and those choices can change the campaign. If a character's action is vetoed for safety, I work with that player to find a different action rather than leaving them without a way forward.
+I don't try to predict what the characters will do or require them to follow a planned sequence. The players decide what their characters attempt, and those choices can change the campaign.
 
 <!-- (dl (# What We Decide Together)) -->
 
 Safety is the ultimate authority at my table. As a group, we decide what can initially go into the game and when it can happen. During play, every player has veto power over content, no questions asked. This is my one hard rule.
 
-When someone uses a veto, the offending context is removed. I make a note, and after the session the only question I ask is whether I recorded it correctly so it can be added to our banned-topics list. The veto does not require explanation or discussion in the moment.
+When someone uses a veto, the offending context is removed. The practical steps I use to establish and honor this boundary are in Chapter 4.
 
 The table's fun is shared, too. I am a member of the table, and my enjoyment matters as much as any one player's. I find enjoyment in doing something well, so I'm willing to throw out the plot, characters, NPCs, or even the system if that is what the table needs. I recommend that prospective GMs figure out what makes GMing enjoyable for them and find a group that wants that kind of game. I usually ask my players to help us find our fun together. If we can't, I end the game; if one person at the table isn't having fun, it tends to tank the whole table.
 

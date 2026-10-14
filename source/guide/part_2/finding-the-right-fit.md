@@ -14,7 +14,7 @@ I also tell players what topics I want to address, especially when those topics 
 
 <!-- (dl (# Establishing Expectations, Boundaries, and Feedback)) -->
 
-Safety is the ultimate authority at my table. We decide together what can initially go into the game and when it can happen. Every player can veto content at any time, no questions asked. If a veto is used, I remove the offending context, make a note, and after the session ask only whether I recorded it correctly so it can be added to our banned-topics list.
+Before play, we decide together what content can go into the game and when it can happen. Every player can veto content at any time, no questions asked. If a veto is used, I remove the offending context, make a note, and after the session ask only whether I recorded it correctly so it can be added to our banned-topics list.
 
 I don't start a game with a player until we have practiced vetoing topics twice. The first practice is usually silly: I might say, “Ham is your trigger topic and bread is yours,” then describe a scene that includes one of those topics so everyone can try using a veto. I repeat the exercise with a different, real example, such as animal abuse, if it is not already on the forbidden-topics list.
 
