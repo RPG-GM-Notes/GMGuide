@@ -273,6 +273,15 @@ The Stage may not be developed enough when I keep having to invent foundational 
 
 Another sign is that I often find myself without an answer to what the players do. I do not need to know their choices or decide outcomes in advance. I need enough context—people, relationships, history, and pressures—to make a grounded next move when they surprise me. If I cannot see what could plausibly follow from their actions, the Stage may need more development.
 
+###### When the Stage Is Overdeveloped ######
+
+I look for two signs that I have developed the Stage too much:
+
+- **I struggle to find what matters in my own material.** The volume of detail makes the Stage harder to use rather than helping me respond.
+- **Development delays play.** I keep preparing instead of starting, even though I already understand the situation well enough to run it.
+
+Unused detail is not itself a problem; it gives me possibilities to draw on. Development becomes excessive when it obstructs access to what matters or keeps the game from beginning. Attachment to prepared material is a different problem: I can resist changing or leaving out details even in a small Stage.
+
 ##### When the Stage Is Ready #####
 
 I use four criteria to decide when I have developed the Stage enough:
