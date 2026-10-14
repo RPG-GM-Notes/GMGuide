@@ -55,6 +55,14 @@ I may have too many active Forces when I can no longer keep their goals, limits,
 
 When I notice these signs, I do not need to delete Forces from the world. I can let some recede from the foreground and bring them back when the characters' actions or interests make them relevant. A useful check is: if the characters do something unexpected now, can I tell which Forces would notice, care, and act—and why? If too many seem equally urgent, or I cannot distinguish their likely responses, I should narrow my active focus.
 
+<!-- (dl (### When There Are Too Few Forces in Play)) -->
+
+There is no fixed minimum number of Forces. The question is whether enough independent actors are active to make the Stage move and give the characters meaningful situations to affect. Too few may leave one Force carrying more than its goals and limits can support. If the situation has little motion without that Force, or I have to invent pressure from outside it, the Stage may be functioning as a backdrop rather than a system. When an Arc ends, there may also be no other active goal or developing situation to catch the players' interest.
+
+Too few active fingerprints can make the campaign feel repetitive even when the characters' choices technically change events. If different situations keep unfolding through the same methods, priorities, and kinds of consequences, the world seems to answer in the same voice. Players may begin to feel bored, or that their actions do not matter, because the results all feel alike.
+
+When I notice these signs, I can add or activate another Force, or give an existing actor room to pursue an independent goal. I do not need to add more Forces simply to increase the count; I need enough distinct agency and fingerprints for the situation to produce varied, connected developments. A useful check is: if the current Arc ended or the players ignored it, what else in this part of the world would still be changing?
+
 <!-- (dl (## The Stage)) -->
 
 The Stage is the background of the campaign: its props, places, stories, and relationships. It explains why the forces I have chosen are the forces that matter here. It also needs enough life and movement that other forces can emerge. Theme filters what I put into the Stage and tints how I present it; the Stage gives the forces' actions context, while the theme gives that context meaning.
