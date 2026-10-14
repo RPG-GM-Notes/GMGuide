@@ -1,5 +1,6 @@
 (section-meta
     (title Part I: What I’m Trying to Create)
+    (id part-i)
     (include
         (Subsection ./what-a-good-game-looks-like.md)
         (Subsection ./the-gms-job-and-its-limits.md)

@@ -12,7 +12,7 @@
 
 ## Guide Contents ##
 
-- [Part I: What I’m Trying to Create](./docs/parts/part-i.md)
+- [Part I: What I’m Trying to Create](./docs/parts/part-i.md#part-i-what-im-trying-to-create)
 - [Part II: Setting Up the Game](./docs/parts/part-ii.md)
 - [Part III: Running the Game](./docs/parts/part-iii.md)
 - [Part IV: Managing Sessions and Campaigns](./docs/parts/part-iv.md)

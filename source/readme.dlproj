@@ -6,10 +6,8 @@
         )
     )
     (document
-        (part-i
-            (source ./guide/part_1/_part1.dlisp)
-            (output ../docs/parts/part-i.md)
-        )
+        (source ./guide/part_1/_part1.dlisp)
+        (output ../docs/parts/part-i.md)
     )
     (document
         (part-ii

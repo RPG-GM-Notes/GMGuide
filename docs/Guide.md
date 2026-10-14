@@ -106,7 +106,7 @@ The table's fun is shared, too. I am a member of the table, and my enjoyment mat
 
 #### How Authority Works at My Table ####
 
-My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, never to overrule a safety veto or protect a planned story. If there is a conflict about a rule or ruling, I bring it to a table vote and move on. My approach to ordinary rules questions is covered in Chapter 8.
+My authority over the forces and the world's reactions is practical, not absolute. I use it in service of the table, never to overrule a safety veto or protect a planned story. If there is a conflict about a rule or ruling, I bring it to a table vote and move on. My approach to ordinary rules questions is covered in [Making Decisions in the Moment](#8-making-decisions-in-the-moment).
 
 ### 3. The Principles Behind My Decisions ###
 
