@@ -12,7 +12,7 @@ The table's fun is the one thing I will not sacrifice. Plot, characters, NPCs, a
 
 <!-- (dl (## Theme gives the campaign meaning)) -->
 
-Theme is the question or idea the campaign keeps putting into play. I develop the Stage, Forces, their collisions, and the fallout so that, together, they let the characters encounter it from different angles. No single detail has to represent the theme; the campaign's parts create opportunities to explore it through play. The characters' choices let us see what the question means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
+Theme is the question or idea the campaign keeps putting into play. I develop the Stage, Forces, their collisions, and the fallout so that, together, they let the characters encounter it from different angles. When deciding what happens next, I first ask, “What is the most interesting outcome that can happen within the theme?” Then I work out how the established situation can bring it about. No single detail has to represent the theme; the campaign's parts create opportunities to explore it through play. The characters' choices let us see what the question means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
 
 <!-- (dl (## Prepare situations, not outcomes)) -->
 

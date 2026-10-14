@@ -6,7 +6,7 @@ Much of the campaign-creation advice I've encountered seems to lead to campaigns
 
 My approach starts with a theme: a question or idea the campaign keeps putting into play. I build a Stage of places, histories, relationships, and pressures, then add Forces—people or groups pursuing goals within their limits. Their collisions create situations and fallout the characters can engage with. Together, these parts let the campaign explore its theme from different angles without deciding what the characters must believe or how the question should be answered.
 
-I invest heavily in the initial campaign, then prepare less between sessions. That first work gives me a model of the situation, not a sequence of events. At the table, I follow what the characters do and use the established world to respond. When several outcomes could naturally follow, the theme helps me choose what to foreground; it does not authorize me to invent unsupported consequences or steer the players toward an answer. The aim is for the world to surprise us without feeling arbitrary.
+I invest heavily in the initial campaign, then prepare less between sessions. That first work gives me a model of the situation, not a sequence of events. At the table, I follow what the characters do and use the established world to respond. When deciding what happens next, my first question is, “What is the most interesting outcome that can happen within the theme?” Then I work out how that outcome can grow from the established situation. Theme leads what I look for; it does not authorize me to force an unsupported consequence or steer the players toward an answer. The aim is for the world to surprise us without feeling arbitrary.
 
 <!-- (dl (# What This Guide Will—and Won't—Teach)) -->
 

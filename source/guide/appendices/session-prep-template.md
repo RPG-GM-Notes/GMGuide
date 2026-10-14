@@ -5,11 +5,13 @@ Copy this into your own notes and adapt it. Keep it short: the goal is to unders
 ```text
 Session Prep: [Place or situation]
 
-Fallout (consider another angle on the campaign's thematic question)
-- What changed because of the characters' last actions?
-- What did each force do in response, within its goals and limits?
-- Who noticed, and what do they believe or know?
-- Which plausible consequence would offer a meaningful angle on the question without implying a preferred answer?
+Fallout (let the theme lead, then ground the outcome)
+- First ask: What is the most interesting outcome that can happen within the campaign's theme?
+- How can it grow from the characters' actions and the established Stage, forces, goals, limits, and relationships?
+- If I cannot ground it in the situation, what other thematic outcome could happen?
+- Who would act or be affected, and what do they believe or know?
+- What can the characters see now, and what can wait?
+- What further consequence follows, if any, without undoing their success?
 
 Things that require effort
 - Clues:

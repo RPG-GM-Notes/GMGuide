@@ -22,7 +22,7 @@ At the table, repeat this loop:
 4. Establish what changes.
 5. Give the situation back to the players.
 
-Use the Stage, forces, goals, limits, established events, and theme to decide what follows. When several consequences could naturally arise, choose one that offers a meaningful angle on the thematic question. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should grow from the situation and give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
+When deciding what happens next, first ask, “What is the most interesting outcome that can happen within the theme?” Then work out how it can grow from the characters' action and the established Stage, forces, goals, limits, relationships, and events. If it cannot be grounded in the situation, look for another thematic outcome rather than forcing it. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
 
 <!-- (dl (## Keep the Table's Priorities Clear)) -->
 

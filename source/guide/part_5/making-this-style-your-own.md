@@ -62,10 +62,12 @@ Ask what angle on the thematic question the collision puts into play. Do not dec
 
 Imagine the players ignoring the lead you expected them to follow and taking an action you did not prepare for. Use the Stage, force goals, relationships, established events, and theme to answer:
 
+- What is the most interesting outcome that can happen within the theme?
+- How can that outcome grow from what the characters did and what is established?
+- If you cannot ground it in the situation, what other thematic outcome could happen?
 - What changes immediately?
 - Who notices or is affected?
 - What might happen later as fallout?
-- Which plausible consequences would offer another angle on the thematic question without canceling the characters' success or suggesting a preferred answer?
 - What information can the players perceive now?
 - What should remain undecided until they act again?
 

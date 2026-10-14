@@ -4,7 +4,7 @@
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did, consider how the fallout might put the campaign's thematic question into play from another angle, and use that changed situation as my starting point. When several things could plausibly follow, the theme helps me choose what is meaningful to bring forward without implying a preferred answer.
+Between sessions, I prepare much less. I look at what the characters did and first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how that outcome can grow from the changed situation: the Stage, the Forces and their goals and limits, their relationships, and what the characters did. If I cannot ground it in what is established, I look for another thematic outcome rather than forcing the first idea. This lets the theme lead my preparation without deciding what the characters must do or what answer they should reach.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 

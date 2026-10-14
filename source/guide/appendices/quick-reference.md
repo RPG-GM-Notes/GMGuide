@@ -5,13 +5,13 @@
 1. **Present:** What is happening that the characters can perceive and act on?
 2. **Ask:** What do the players want their characters to do? Clarify their intention if needed.
 3. **Resolve:** Is the outcome clear, or is it uncertain and important? Use a rule, make a ruling, or talk it through.
-4. **Change:** What plausibly changes because of the action? Consider the Stage, force goals and limits, relationships, what has already happened, and the theme. If several consequences fit, which offers a meaningful angle on the thematic question without implying a preferred answer?
+4. **Change:** First ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then work out how it can grow from the action, the Stage, force goals and limits, relationships, and what has already happened. If you cannot ground it in the established situation, look for another thematic outcome.
 5. **Return:** Make the change visible and give the players the situation back.
 
 <!-- (dl (# When Deciding What Happens)) -->
 
 - Start from what is established; do not invent danger just to make things harder.
-- If several outcomes fit, prefer one that offers a meaningful angle on the theme and serves the table.
+- Let the theme lead: first ask what is the most interesting outcome that can happen within it, then ground that outcome in the established situation.
 - Let success stand; consequences can add costs or complications without negating the achievement.
 - If you do not know a rule, let the player try for now and check it for later.
 - If the action is a plausible stretch, consider allowing it with a small increase in difficulty.

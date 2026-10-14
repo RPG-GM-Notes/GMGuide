@@ -20,7 +20,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 <!-- (dl (# Establish What Changes)) -->
 
-I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose one that gives the characters another meaningful way to encounter the thematic question. Chapter 10 covers how to develop and reveal that fallout.
+I first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how it can grow from the action and the situation already established: the Stage, the Forces and their goals and limits, and the relationships in play. If I cannot find a grounded way for that outcome to happen, I look for another thematic possibility rather than forcing it. Theme leads what I consider; the established situation helps me make the outcome belong. Chapter 10 covers how to develop and reveal that fallout.
 
 <!-- (dl (# Give the Situation Back to the Players)) -->
 

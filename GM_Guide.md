@@ -26,7 +26,7 @@ Much of the campaign-creation advice I've encountered seems to lead to campaigns
 
 My approach starts with a theme: a question or idea the campaign keeps putting into play. I build a Stage of places, histories, relationships, and pressures, then add Forces—people or groups pursuing goals within their limits. Their collisions create situations and fallout the characters can engage with. Together, these parts let the campaign explore its theme from different angles without deciding what the characters must believe or how the question should be answered.
 
-I invest heavily in the initial campaign, then prepare less between sessions. That first work gives me a model of the situation, not a sequence of events. At the table, I follow what the characters do and use the established world to respond. When several outcomes could naturally follow, the theme helps me choose what to foreground; it does not authorize me to invent unsupported consequences or steer the players toward an answer. The aim is for the world to surprise us without feeling arbitrary.
+I invest heavily in the initial campaign, then prepare less between sessions. That first work gives me a model of the situation, not a sequence of events. At the table, I follow what the characters do and use the established world to respond. When deciding what happens next, my first question is, “What is the most interesting outcome that can happen within the theme?” Then I work out how that outcome can grow from the established situation. Theme leads what I look for; it does not authorize me to force an unsupported consequence or steer the players toward an answer. The aim is for the world to surprise us without feeling arbitrary.
 
 ### What This Guide Will—and Won't—Teach ###
 
@@ -120,7 +120,7 @@ The table's fun is the one thing I will not sacrifice. Plot, characters, NPCs, a
 
 ##### Theme gives the campaign meaning #####
 
-Theme is the question or idea the campaign keeps putting into play. I develop the Stage, Forces, their collisions, and the fallout so that, together, they let the characters encounter it from different angles. No single detail has to represent the theme; the campaign's parts create opportunities to explore it through play. The characters' choices let us see what the question means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
+Theme is the question or idea the campaign keeps putting into play. I develop the Stage, Forces, their collisions, and the fallout so that, together, they let the characters encounter it from different angles. When deciding what happens next, I first ask, “What is the most interesting outcome that can happen within the theme?” Then I work out how the established situation can bring it about. No single detail has to represent the theme; the campaign's parts create opportunities to explore it through play. The characters' choices let us see what the question means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
 
 ##### Prepare situations, not outcomes #####
 
@@ -397,7 +397,7 @@ Choose a theme, then develop a Stage and Forces whose connections can generate d
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did, consider how the fallout might put the campaign's thematic question into play from another angle, and use that changed situation as my starting point. When several things could plausibly follow, the theme helps me choose what is meaningful to bring forward without implying a preferred answer.
+Between sessions, I prepare much less. I look at what the characters did and first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how that outcome can grow from the changed situation: the Stage, the Forces and their goals and limits, their relationships, and what the characters did. If I cannot ground it in what is established, I look for another thematic outcome rather than forcing the first idea. This lets the theme lead my preparation without deciding what the characters must do or what answer they should reach.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -482,7 +482,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 #### Establish What Changes ####
 
-I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose one that gives the characters another meaningful way to encounter the thematic question. Chapter 10 covers how to develop and reveal that fallout.
+I first ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then I work out how it can grow from the action and the situation already established: the Stage, the Forces and their goals and limits, and the relationships in play. If I cannot find a grounded way for that outcome to happen, I look for another thematic possibility rather than forcing it. Theme leads what I consider; the established situation helps me make the outcome belong. Chapter 10 covers how to develop and reveal that fallout.
 
 #### Give the Situation Back to the Players ####
 
@@ -576,9 +576,11 @@ In combat, I make sure at least one NPC has a name and is called by it. A name g
 
 #### Responding to What the Characters Do ####
 
-The characters' significant actions change the situation. I look at what could plausibly follow from what they did and from the people, Forces, and relationships already in play. I expect a significant act to have at least two consequences: one often immediate, another perhaps several sessions later. Among the natural possibilities, I choose what gives the characters another meaningful angle on the campaign's question. Consequences can be beneficial, harmful, or mixed; they should deepen the situation, not punish the players or erase their success.
+The characters' significant actions change the situation. My first question is, “What is the most interesting outcome that can happen within the campaign's theme?” I start there, rather than first listing likely consequences and only afterward looking for a thematic one. Then I work out how that outcome can grow from what the characters did and from the Stage, Forces, goals, limits, and relationships already in play. If I cannot find a grounded way for it to happen, I reconsider the outcome rather than forcing it into the situation.
 
-If the characters kill the head of a local gang, the people that person hurt may thank them. At the same time, removing that leader can destabilize the underground power structure and increase gang violence. Both results follow from the same act. The characters accomplished something real, and the situation has changed in ways they may now have to deal with.
+After that, I ask what else follows. I expect a significant act to have at least two consequences: one often immediate, another perhaps several sessions later. These further effects should grow from the same changed situation, not become a quota of extra threads to maintain. Consequences can be beneficial, harmful, or mixed; they should deepen the situation, not punish the players or erase their success. The thematic outcome gives the fallout its focus, while the established world gives it a way to happen.
+
+Suppose the campaign asks, “Can a community become safe without reproducing violence?” If the characters kill the head of a local gang, one interesting outcome is that people the leader hurt thank them and offer to help make the neighborhood safer, while removing the leader destabilizes the underground power structure and increases gang violence. That puts the question back into play through a real change: the characters have helped people, and the power vacuum creates a new pressure around what safety will mean. Both results grow from the same act; neither erases what the characters accomplished or dictates what they should do next.
 
 #### Making Consequences Visible ####
 
@@ -902,10 +904,12 @@ Ask what angle on the thematic question the collision puts into play. Do not dec
 
 Imagine the players ignoring the lead you expected them to follow and taking an action you did not prepare for. Use the Stage, force goals, relationships, established events, and theme to answer:
 
+- What is the most interesting outcome that can happen within the theme?
+- How can that outcome grow from what the characters did and what is established?
+- If you cannot ground it in the situation, what other thematic outcome could happen?
 - What changes immediately?
 - Who notices or is affected?
 - What might happen later as fallout?
-- Which plausible consequences would offer another angle on the thematic question without canceling the characters' success or suggesting a preferred answer?
 - What information can the players perceive now?
 - What should remain undecided until they act again?
 
@@ -952,7 +956,7 @@ At the table, repeat this loop:
 4. Establish what changes.
 5. Give the situation back to the players.
 
-Use the Stage, forces, goals, limits, established events, and theme to decide what follows. When several consequences could naturally arise, choose one that offers a meaningful angle on the thematic question. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should grow from the situation and give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
+When deciding what happens next, first ask, “What is the most interesting outcome that can happen within the theme?” Then work out how it can grow from the characters' action and the established Stage, forces, goals, limits, relationships, and events. If it cannot be grounded in the situation, look for another thematic outcome rather than forcing it. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
 
 ##### Keep the Table's Priorities Clear #####
 
@@ -975,13 +979,13 @@ This preparation helps improvisation feel coherent. Players may experience the w
 1. **Present:** What is happening that the characters can perceive and act on?
 2. **Ask:** What do the players want their characters to do? Clarify their intention if needed.
 3. **Resolve:** Is the outcome clear, or is it uncertain and important? Use a rule, make a ruling, or talk it through.
-4. **Change:** What plausibly changes because of the action? Consider the Stage, force goals and limits, relationships, what has already happened, and the theme. If several consequences fit, which offers a meaningful angle on the thematic question without implying a preferred answer?
+4. **Change:** First ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then work out how it can grow from the action, the Stage, force goals and limits, relationships, and what has already happened. If you cannot ground it in the established situation, look for another thematic outcome.
 5. **Return:** Make the change visible and give the players the situation back.
 
 #### When Deciding What Happens ####
 
 - Start from what is established; do not invent danger just to make things harder.
-- If several outcomes fit, prefer one that offers a meaningful angle on the theme and serves the table.
+- Let the theme lead: first ask what is the most interesting outcome that can happen within it, then ground that outcome in the established situation.
 - Let success stand; consequences can add costs or complications without negating the achievement.
 - If you do not know a rule, let the player try for now and check it for later.
 - If the action is a plausible stretch, consider allowing it with a small increase in difficulty.
@@ -1004,11 +1008,13 @@ Copy this into your own notes and adapt it. Keep it short: the goal is to unders
 ```text
 Session Prep: [Place or situation]
 
-Fallout (consider another angle on the campaign's thematic question)
-- What changed because of the characters' last actions?
-- What did each force do in response, within its goals and limits?
-- Who noticed, and what do they believe or know?
-- Which plausible consequence would offer a meaningful angle on the question without implying a preferred answer?
+Fallout (let the theme lead, then ground the outcome)
+- First ask: What is the most interesting outcome that can happen within the campaign's theme?
+- How can it grow from the characters' actions and the established Stage, forces, goals, limits, and relationships?
+- If I cannot ground it in the situation, what other thematic outcome could happen?
+- Who would act or be affected, and what do they believe or know?
+- What can the characters see now, and what can wait?
+- What further consequence follows, if any, without undoing their success?
 
 Things that require effort
 - Clues:
