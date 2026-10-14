@@ -4,11 +4,11 @@ You do not need to run games exactly as I do. Some parts of this approach are im
 
 <!-- (dl (# What Is Essential to the Approach)) -->
 
-The essential parts are a theme and a connected situation: the theme gives the campaign a subject for moral and deeper exploration, the Stage gives actions context, forces create movement, and the characters can change both. Theme guides what the GM creates and which plausible developments to foreground, but it does not prescribe the characters' choices or the answer to the theme's question. You can scale the scope to fit your campaign, but safety and meaningful player choice are not optional techniques to set aside.
+The essential parts are a theme and a connected situation. The theme gives the campaign a question or idea to keep putting into play; the Stage, forces, their collisions, and the fallout create opportunities for the characters to encounter it from different angles. No single detail has to represent the theme; the campaign's parts create it together. The characters can change that situation and explore what the question means to them. Theme does not prescribe their choices or the answer. You can scale the scope to fit your campaign, but safety and meaningful player choice are not optional techniques to set aside.
 
 <!-- (dl (# Build a Small but Complete System)) -->
 
-Starting small means building a bounded system with enough connected parts to work—not just one force without a Stage. Begin with a theme, then focus on one city, one neighborhood, or one part of a larger campaign. Give the characters room to explore, the forces' actions context, and the theme a range of ways to appear without dictating what it means.
+Starting small means building a bounded system with enough connected parts to work—not just one force without a Stage. Begin with a theme, then focus on one city, one neighborhood, or one part of a larger campaign. Give the characters room to explore, the forces' actions context, and the thematic question different ways to arise without dictating what it means.
 
 Put details from the Stage into conversations, places, and rumors. You do not need to explain everything up front. Let the players encounter the material, notice what interests them, and show you where they want to look more closely. Then develop forces in relation to the Stage and to that interest.
 
@@ -30,16 +30,16 @@ These exercises are ways to practice the approach. They are not tests with one c
 
 <!-- (dl (## Build a Small Stage)) -->
 
-Choose a theme, such as a question you want the campaign to explore. Then choose a bounded place, such as one neighborhood or one part of a city. Develop a small Stage that includes:
+Choose a theme: a question or idea you want the campaign to keep putting into play. Then choose a bounded place, such as one neighborhood or one part of a city. Develop a small Stage that includes:
 
 - A few places the characters could visit.
 - People or groups with relationships to one another.
 - A piece of local history that affects the present.
 - A current pressure or change people can notice.
 - Details that could surface through ordinary conversation or rumor.
-- Pressures, histories, and relationships that give the theme different meanings or put it into tension.
+- Pressures, histories, and relationships that, together, bring the thematic question into play from different angles.
 
-Ask how the pieces affect one another and how they express or complicate the theme. If the Stage feels like a list of unrelated ideas, add or change connections until it feels like a place where events can have consequences and the theme can emerge through play.
+Ask how the pieces affect one another and how, together, they give the theme different meanings or put its question under pressure. No individual detail has to stand for the theme. If the Stage feels like a list of unrelated ideas, add or change connections until it feels like a place where events can have consequences and the question can emerge through play.
 
 <!-- (dl (## Find Forces in the Stage)) -->
 
@@ -50,13 +50,13 @@ Look at the Stage you made and identify people or groups who want something. For
 - What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
 - What recognizable signature shapes the way it acts: its methods, habits, priorities, or way of treating people.
 
-Consider how the force's goals and methods bring the theme into focus, complicate it, or offer a different perspective. Use its signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
+Consider what angle on the thematic question the force's goals and methods might bring into play, and how its actions might complicate or challenge other angles. A Force need not represent a position on the question; the campaign's different people, pressures, and collisions create the exploration together. Use its signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
 <!-- (dl (## Make a Collision, Leave the Outcome Open)) -->
 
 Choose two forces and identify a goal or action that brings them into contact. Write down what caused the conflict and what the characters might perceive if they encounter its fallout.
 
-Ask how the collision puts the theme into play. Do not decide what the characters will do or how the conflict must end. Instead, list a few plausible responses the forces might make to different kinds of interference, guided by their goals, limits, and the theme.
+Ask what angle on the thematic question the collision puts into play. Do not decide what the characters will do or how the conflict must end. Instead, list a few plausible responses the forces might make to different kinds of interference, guided by their goals and limits. Those responses should create opportunities to explore the question, not imply the answer.
 
 <!-- (dl (## Practice an Unexpected Choice)) -->
 
@@ -65,7 +65,7 @@ Imagine the players ignoring the lead you expected them to follow and taking an 
 - What changes immediately?
 - Who notices or is affected?
 - What might happen later as fallout?
-- Which plausible consequences would best deepen or complicate the theme without canceling the characters' success?
+- Which plausible consequences would offer another angle on the thematic question without canceling the characters' success or suggesting a preferred answer?
 - What information can the players perceive now?
 - What should remain undecided until they act again?
 
@@ -73,7 +73,7 @@ Then present the changed situation and invite the players to choose what happens
 
 <!-- (dl (## Follow the Players' Interest)) -->
 
-During a session or a practice scene, notice what the players ask about, pursue, or find emotionally engaging. Choose one of those details and develop a plausible connection to the Stage or a force that also speaks to or complicates the theme. Add to what the players made important without taking their choices away or requiring them to pursue your new idea.
+During a session or a practice scene, notice what the players ask about, pursue, or find emotionally engaging. Choose one of those details and develop a plausible connection to the Stage or a force that gives them another way to encounter the thematic question. Add to what the players made important without taking their choices away or requiring them to pursue your new idea.
 
 Afterward, ask whether the new connection made the situation richer and more coherent, or whether it felt imposed. Use that response to decide what to adjust.
 

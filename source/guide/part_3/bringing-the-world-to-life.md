@@ -4,7 +4,7 @@
 
 I try to give at least two concrete details for each scene and for every NPC or group of NPCs. I describe enough of the background for people to understand the situation, then let their minds fill in the rest. The details do not need to be elaborate. They need to give the players something specific to picture and act on.
 
-The theme helps me decide which details to foreground and how to frame them. Two scenes can contain the same facts but feel very different depending on what the description emphasizes. I use that emphasis to let the theme be felt in the world, not only stated in conversation.
+The theme helps me decide which details to foreground and how to frame them. Two scenes can contain the same facts but feel very different depending on what the description emphasizes. Individual details do not need to represent the theme; the details across the campaign work together to make its question felt in the world, not only stated in conversation.
 
 For example:
 
@@ -24,9 +24,9 @@ In combat, I make sure at least one NPC has a name and is called by it. A name g
 
 <!-- (dl (# Responding to What the Characters Do)) -->
 
-The characters' significant actions change the situation. I do not decide in advance what those actions must lead to; I look at what could plausibly follow from what the characters actually did and from the people, forces, and relationships already in the game. Then I use the theme to choose which of those natural possibilities would make the most meaningful fallout for this campaign.
+The characters' significant actions change the situation. I do not decide in advance what those actions must lead to; I look at what could plausibly follow from what the characters actually did and from the people, forces, and relationships already in the game. Then I use the theme to choose which of those natural possibilities offers a meaningful angle on the campaign's question.
 
-I expect every significant act to have at least two consequences, and sometimes more. I do this to help the players feel that their characters matter: their actions can keep changing the world beyond the moment in which they happened. One consequence is usually fairly immediate; another may surface several sessions later as the wider situation adjusts. Theme helps me filter those consequences, not manufacture a moral verdict or make every success costly. Consequences do not have to balance each other; they can point in different directions, or they can all be beneficial or harmful. They are not a way to take back a success or punish the characters for acting. They let the world respond to what the characters have done in a way that deepens what the campaign is about.
+I expect every significant act to have at least two consequences, and sometimes more. I do this to help the players feel that their characters matter: their actions can keep changing the world beyond the moment in which they happened. One consequence is usually fairly immediate; another may surface several sessions later as the wider situation adjusts. Theme helps me choose which plausible consequences to bring forward, not manufacture a moral verdict or make every success costly. A consequence can give the characters a new way to encounter the thematic question, but it should invite a response rather than imply the right answer. Consequences do not have to balance each other; they can point in different directions, or they can all be beneficial or harmful. They are not a way to take back a success or punish the characters for acting. They let the world respond to what the characters have done in a way that deepens what the campaign is about.
 
 If the characters kill the head of a local gang, the people that person hurt may thank them. At the same time, removing that leader can destabilize the underground power structure and increase gang violence. Both results follow from the same act. The characters accomplished something real, and the situation has changed in ways they may now have to deal with.
 
@@ -40,4 +40,4 @@ That kind of ripple makes the characters important even if the world does not kn
 
 <!-- (dl (# Keeping the World Coherent as It Changes)) -->
 
-Let consequences grow from the Stage, force goals, relationships, and actions already in play. Among the consequences that naturally fit, prefer those that give the theme depth or put its question under new pressure. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.
+Let consequences grow from the Stage, force goals, relationships, and actions already in play. Among the consequences that naturally fit, prefer those that offer another angle on the thematic question or put it under new pressure, without implying a preferred answer. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.

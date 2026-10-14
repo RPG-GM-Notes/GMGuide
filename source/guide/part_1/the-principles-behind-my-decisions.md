@@ -12,13 +12,13 @@ The table's fun is the one thing I will not sacrifice. Plot, characters, NPCs, a
 
 <!-- (dl (## Theme gives the campaign meaning)) -->
 
-Theme is the lens I use across the whole campaign. It shapes what I create, what I emphasize, and how I interpret the changes that follow from play. Theme is also what lets this approach explore moral issues and deeper meanings: the Stage and forces put an idea under pressure, and the characters' choices let us see what that idea means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
+Theme is the question or idea the campaign keeps putting into play. I develop the Stage, Forces, their collisions, and the fallout so that, together, they let the characters encounter it from different angles. No single detail has to represent the theme; the campaign's parts create opportunities to explore it through play. The characters' choices let us see what the question means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
 
 <!-- (dl (## Prepare situations, not outcomes)) -->
 
 I put substantial effort into the initial campaign concepts, especially the forces: what they want, what they will and will not do, and how their actions can be recognized. I use this preparation to understand the situation, not to predict what the characters will do or dictate what must happen.
 
-Theme guides that preparation. It filters and tints the Stage, the forces and their goals, their fingerprints, and the conflicts their actions create. It does not prescribe what the characters must do or believe.
+Theme guides that preparation by giving it a question to explore. I use it to shape the Stage, the forces and their goals, their fingerprints, and the conflicts their actions create, so their details work together to raise that question in play. It does not prescribe what the characters must do or believe.
 
 <!-- (dl (## Let play change the situation)) -->
 

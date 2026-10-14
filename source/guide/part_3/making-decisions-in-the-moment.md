@@ -15,7 +15,7 @@ Rules are useful tools, not authorities that outrank the people playing. If a ru
 
 I do not need to know everything before making a decision. I use what is established: the Stage, the forces and their goals and limits, what the characters know, and what has already happened. If something important is unclear, I can ask the players what they mean, talk through the uncertainty, or make a provisional ruling so play can continue.
 
-When I have to fill a gap, I want the answer to belong to the world we have established and to the campaign's theme. If several answers fit, I use the theme to help choose the one that makes the situation more meaningful. Theme is not permission to invent an unsupported consequence or to force the players toward a particular moral answer. If I later discover that I misunderstood a rule or a fact, I can correct how I handle it from then on without erasing the events that have already happened.
+When I have to fill a gap, I want the answer to belong to the world we have established and to the campaign's theme. If several answers fit, I use the theme to help choose one that brings the thematic question into play in a meaningful way. Theme is not permission to invent an unsupported consequence or to force the players toward a particular moral answer. If I later discover that I misunderstood a rule or a fact, I can correct how I handle it from then on without erasing the events that have already happened.
 
 <!-- (dl (# Making Rulings Players Can Understand)) -->
 

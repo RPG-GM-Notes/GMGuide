@@ -22,7 +22,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 <!-- (dl (# Establish What Changes)) -->
 
-I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose the one that best brings the theme into focus. Consequences should still grow from the action and the situation; theme does not give me license to force an outcome, undo the characters' success, or take away their choices. Chapter 10 looks at how to develop and reveal that fallout.
+I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose one that gives the characters another meaningful way to encounter the thematic question. Consequences should still grow from the action and the situation; theme does not give me license to force an outcome, imply a preferred answer, undo the characters' success, or take away their choices. Chapter 10 looks at how to develop and reveal that fallout.
 
 <!-- (dl (# Give the Situation Back to the Players)) -->
 
