@@ -1,8 +1,8 @@
 (documents
     (document
-        (readme
+        (guide
             (source ./guide/_main.md)
-            (output ../readme.md)
+            (output ../docs/Guide.md)
         )
     )
 )

@@ -1,0 +1,44 @@
+(documents
+    (document
+        (readme
+            (source ./guide/_readme.md)
+            (output ../readme.md)
+        )
+    )
+    (document
+        (part-i
+            (source ./guide/part_1/_part1.dlisp)
+            (output ../docs/parts/part-i.md)
+        )
+    )
+    (document
+        (part-ii
+            (source ./guide/part_2/_part2.dlisp)
+            (output ../docs/parts/part-ii.md)
+        )
+    )
+    (document
+        (part-iii
+            (source ./guide/part_3/_part3.dlisp)
+            (output ../docs/parts/part-iii.md)
+        )
+    )
+    (document
+        (part-iv
+            (source ./guide/part_4/_part4.dlisp)
+            (output ../docs/parts/part-iv.md)
+        )
+    )
+    (document
+        (part-v
+            (source ./guide/part_5/_part5.dlisp)
+            (output ../docs/parts/part-v.md)
+        )
+    )
+    (document
+        (appendices
+            (source ./guide/appendices/_appendices.dlisp)
+            (output ../docs/parts/appendices.md)
+        )
+    )
+)
