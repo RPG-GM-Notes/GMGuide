@@ -22,15 +22,11 @@
 
 ### Why I'm Writing This ###
 
-Much of the campaign-creation advice I've encountered seems to lead to campaigns that feel dead to me: either the game is pushed along a predetermined track, or the GM is left stranded when the characters do something nobody could have predicted. I don't want to predict what the characters will do. I want enough understanding of the situation to make decisions in real time that feel like they belong in the same world and story—and to give those events meaning through a theme.
+Much of the campaign-creation advice I've encountered seems to lead to campaigns that feel dead to me: either the game is pushed along a predetermined track, or the GM is left stranded when the characters do something nobody could have predicted. I want enough understanding of the situation to respond in real time without predicting what the characters will do.
 
-This guide is my attempt to capture how I do that. I begin with a theme: a question or idea I want the campaign to keep putting into play. I build the Stage, the forces, their goals and fingerprints, the situations that arise, and the fallout of character actions so the characters can encounter that question from different angles. No single detail has to represent the theme; the campaign's details create it together. The theme gives events something to be about and invites the players to explore what it means to their characters, without deciding what they must believe or how the question should be answered.
+My approach starts with a theme: a question or idea the campaign keeps putting into play. I build a Stage of places, histories, relationships, and pressures, then add Forces—people or groups pursuing goals within their limits. Their collisions create situations and fallout the characters can engage with. Together, these parts let the campaign explore its theme from different angles without deciding what the characters must believe or how the question should be answered.
 
-I prepare heavily at the beginning, spending about 70% of that preparation building the Stage and about 20% building the forces: a small number of people or groups with goals, power greater than the characters in the relevant arena, limits, and recognizable fingerprints. A Force is not necessarily an antagonist; it may help the characters, work at cross-purposes with them, or pursue its own concerns without regard for them. I consider how the forces relate to one another and to the characters, and how their connections make the theme present from different angles. I prepare much less after play begins. That initial work gives me a model of the situation, not a sequence of events I expect the players to follow.
-
-In that sense, a campaign is a system. The Stage is its environment: the places, histories, relationships, and pressures that give action meaning. Forces are its active agents, pursuing goals within their limits. Together, the Stage and Forces create a world that repeatedly raises the campaign's thematic question in different ways. The characters enter that system and change its behavior; their choices explore what the question means to them. I do not craft a sequence of events for them to follow; I build an environment in which their choices and the world's pressures produce stories that explore the theme.
-
-At the table, I use that model to improvise. The forces pursue their goals; the characters interfere, cooperate, or do something I never anticipated; and the situation changes in response. When several outcomes could naturally follow, the theme helps me choose an angle that brings the question into play in a meaningful way. The result still needs to grow from the established situation and the characters' actions; it should invite a response, not steer the players toward an answer. I try to follow what the players find entertaining without deciding outcomes or moral conclusions in advance. The aim is improvisation that stays coherent and meaningful: the world can surprise us without feeling arbitrary, and the story can change without losing its continuity, theme, or tone.
+I invest heavily in the initial campaign, then prepare less between sessions. That first work gives me a model of the situation, not a sequence of events. At the table, I follow what the characters do and use the established world to respond. When several outcomes could naturally follow, the theme helps me choose what to foreground; it does not authorize me to invent unsupported consequences or steer the players toward an answer. The aim is for the world to surprise us without feeling arbitrary.
 
 ### What This Guide Will—and Won't—Teach ###
 
@@ -48,7 +44,7 @@ This approach may suit a GM who enjoys responding to players more than steering 
 
 Skim the guide first to get a sense of the whole approach, then read more deeply wherever a chapter is useful to you. You don't need to adopt every rule of thumb. As you read, consider why I use each one, what it is meant to accomplish, and what might need to change for your group.
 
-If you are new to the approach, the parts follow a progression: Part I explains the experience and principles I aim for; Part II develops the theme, Stage, forces, and starting situation; Part III covers play at the table; Part IV covers ending sessions, developing a campaign, and responding when something is not working; and Part V offers a campaign example and ways to adapt the approach. The core is a connected, thematically meaningful situation that supports safety, meaningful player choices, and responsive play. Details such as starting with three forces, my preparation ratios, and opening with combat are my preferences and rules of thumb, not requirements.
+If you are new to the approach, the parts follow a progression: Part I explains my aims and principles; Part II develops the starting situation and preparation; Part III covers play at the table; Part IV covers sessions, campaigns, and problems; and Part V offers an example and ways to adapt the approach. Details such as starting with three forces, my preparation ratios, and opening with combat are preferences and rules of thumb, not requirements.
 
 The examples show what these ideas have looked like in my games, not what every campaign should look like. I always begin with combat created by the collision of forces' actions. The characters may be caught in the fallout rather than fighting those forces directly. That is one way I put the campaign in motion; the larger principle is to create a situation with energy and connections, then let play determine what happens next.
 
@@ -192,19 +188,15 @@ The practices help make vetoing an available action before a real boundary is te
 
 #### What I Need to Know Before Play Begins ####
 
-I think of campaign creation as building a physics engine. I create a situation with forces that can move the world, then let the characters enter it and change what happens. I need to understand that situation well enough to respond when the players surprise me. I do not need to know what story they will produce.
-
-Three constructs help me do this: forces, the Stage, and Arcs. Forces pursue goals. The Stage gives those forces a world to act in. Collisions between their actions start Arcs, whose events develop through play.
+I think of campaign creation as building a physics engine: create a situation with Forces that can move the world, then let the characters enter and change what happens. I need to understand the situation well enough to respond to surprises, not know what story the players will produce. The Stage gives Forces a world to act in; collisions between them start Arcs that develop through play.
 
 ##### Begin with a Theme #####
 
-Before I develop the campaign, I decide what it is about. I call that its theme. A theme may be a question, such as “Can you hunt monsters without becoming one?”, or an idea I want to explore. A question is useful because it opens up possibilities rather than supplying an answer. The theme is the question the campaign keeps putting into play; the campaign's situations give the players opportunities to explore what it means to their characters.
+Before I develop the campaign, I decide what it is about. I call that its theme: a question, such as “Can you hunt monsters without becoming one?”, or an idea I want to explore. A question opens up possibilities rather than supplying an answer; the campaign's situations give players chances to explore what it means to their characters.
 
 What makes a theme good for this approach is not how clever or open-ended its wording sounds, but whether this GM and these players can keep interacting with it. A fruitful theme keeps giving the GM ways to create situations around it and gives the players ways to explore it through their characters' choices. It does not run out after one dilemma or one obvious answer; the changing campaign can bring it forward from new angles. “Good versus evil” may feel settled and offer little to a particular group, but for a group that wants to question what good and evil mean, it can sustain rich play. The right theme depends on what the people at the table find meaningful to explore.
 
-Theme is not a label I attach after creation or only a lens for my decisions. It gives direction to campaign creation: I develop the Stage, forces, their goals and fingerprints, their collisions, and the fallout so that, together, they raise the thematic question from different angles. At the table, the characters' choices let the players explore the question and what it means to them. Theme makes this approach more than a way to produce coherent events; it gives those events moral and deeper meaning.
-
-No single detail has to represent the theme, and I do not make every Force a symbol or representative of one side of a moral argument. The details matter together: their relationships, pressures, and consequences make the theme present throughout the world. I use the theme to guide my choices, but I build different, sometimes conflicting ways to encounter the question rather than a situation with one intended answer. The players decide what their characters make of those pressures. The theme gives the campaign something to explore, not a conclusion the players must reach.
+Theme is not a label I attach after creation. It guides how I develop the Stage, Forces, their goals and fingerprints, their collisions, and their fallout, so the whole situation raises the question from different angles. No single detail needs to represent the theme, and no Force needs to stand for one side of an argument. I create varied pressures for the characters to encounter; the players decide what those pressures mean and how to respond.
 
 In a Mage: The Ascension game, my theme was “Can you hunt monsters without becoming one?” I populated the city with a monstrous but not evil Sabbat pack and bishop, a cold and calculating Nosferatu Camarilla prince, a cold war between the two, two different vampire Anarch groups, a werewolf civil war, and a history of vampires mysteriously losing key leaders. No one detail was the theme. Together, they gave “monster” more than one meaning and made the question part of the city rather than a speech the characters had to hear.
 
@@ -225,9 +217,9 @@ The comparison is specific to the arena where the Force pursues its goal; it doe
 
 A fingerprint is the Force's signature in the way it acts: its characteristic methods, habits, priorities, or way of treating people. I borrow the idea from children's cartoons, where a hero or villain has a signature way of doing things that makes them recognizable—even in disguise. I use a Force's fingerprint to make its actions feel as if they come from that particular actor and belong in the same world. When I decide what the Force does, I let its signature shape the action, rather than merely adding a clue or calling card afterward. The players may then connect separate events, recognize a disguised Force, or learn which fingerprints they trust or fear. Those are valuable effects, but the fingerprint's first job is to make the Force's behavior feel coherent and distinctive. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
-Theme helps me decide which goals, methods, and fingerprints will make a Force matter in this campaign. A Force's actions can put the thematic question under pressure from one angle; its relationships and collisions with other Forces can bring out another. I do not make every Force a mouthpiece or reduce it to a moral category. The theme emerges from the living world these actors create together, as people pursue their own goals within their limits.
+The theme helps me choose goals, methods, and fingerprints that matter in this campaign. A Force can bring one pressure to bear; its relationships and collisions with others can bring out another. I do not make Forces into mouthpieces for a moral position.
 
-A fingerprint I prepare is a starting point, not something I must force into play. As I play a Force in actual situations, its behavior may solidify differently than I expected. It may develop a signature I never planned, or the signature I planned may never show up. When that happens, I accept what has emerged, record it in the Force's notes, and move on. I use that signature to guide future actions rather than making the Force perform an unused idea. The fingerprint serves the appearance of verisimilitude; what the Force actually does in play matters more than what I intended before we started.
+A prepared fingerprint is provisional. If a different signature emerges in play, I record and use that pattern rather than forcing the original idea into later scenes.
 
 Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. A fingerprint can make a known Force's behavior distinctive, or give the players a way to recognize it when its identity is concealed.
 
@@ -397,11 +389,7 @@ The connection made the starting decision plausible for the characters. The comb
 
 #### Trying This Approach ####
 
-Begin by deciding the theme. A force, a question, or a piece of the setting may be what inspires it, but articulate the theme before developing the campaign. Then use it to guide the Stage and forces as they grow together, until you understand why those forces matter and can envision a living world around them. Do not treat every idea you generate as something that must appear in play.
-
-Look for distinct collisions between the forces' ways of pursuing their goals, and consider what angle on the theme each situation could bring into play. Prepare the forces, goals, cause of conflict, and combatants. For the opening, choose a location and an outcome that does not kill the new characters, and make sure the starting premise is something the players can accept. The collision should offer a meaningful encounter with the thematic question, not settle it or steer the characters toward a particular answer.
-
-Give players enough information to make characters who fit, then use their ideas to deepen the Stage. Keep later collisions flexible enough to happen where play takes you. The starting point should give you something to respond with, not something you have to make the players follow.
+Choose a theme, then develop a Stage and Forces whose connections can generate distinct collisions. Prepare enough for a usable starting situation, including an opening the players can accept, but leave later locations and outcomes open. Share the context players need to make fitting characters, then use their ideas to enrich the Stage.
 
 ### 6. Preparing for Play ###
 
@@ -486,9 +474,7 @@ If the characters have questions, I answer from what they know, what they can di
 
 #### Find Out What the Players Want to Do ####
 
-I let the players decide what their characters attempt. I do not assume they will follow a prepared lead, take a particular side, or respond in the way I expected. If I am unsure what a player means, I ask what the character is trying to accomplish or how they intend to approach it. That gives me a better basis for deciding what happens without taking the choice away from them.
-
-The players' choices can redirect the situation. The forces and the Stage give me material to respond with, but they do not dictate what the characters must do or what the story must become.
+I let the players decide what their characters attempt. If I am unsure what a player means, I ask what the character is trying to accomplish or how they intend to approach it. That gives me a better basis for deciding what happens.
 
 #### Decide What Needs Resolution ####
 
@@ -496,7 +482,7 @@ Once I understand the intention, I decide whether anything needs to be resolved.
 
 #### Establish What Changes ####
 
-I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose one that gives the characters another meaningful way to encounter the thematic question. Consequences should still grow from the action and the situation; theme does not give me license to force an outcome, imply a preferred answer, undo the characters' success, or take away their choices. Chapter 10 looks at how to develop and reveal that fallout.
+I look at what plausibly changes because of the action, using the situation already established and the campaign's theme. When several consequences could naturally follow, I choose one that gives the characters another meaningful way to encounter the thematic question. Chapter 10 covers how to develop and reveal that fallout.
 
 #### Give the Situation Back to the Players ####
 
@@ -514,9 +500,7 @@ Rules are useful tools, not authorities that outrank the people playing. If a ru
 
 #### Handling Uncertainty and Missing Information ####
 
-I do not need to know everything before making a decision. I use what is established: the Stage, the forces and their goals and limits, what the characters know, and what has already happened. If something important is unclear, I can ask the players what they mean, talk through the uncertainty, or make a provisional ruling so play can continue.
-
-When I have to fill a gap, I want the answer to belong to the world we have established and to the campaign's theme. If several answers fit, I use the theme to help choose one that brings the thematic question into play in a meaningful way. Theme is not permission to invent an unsupported consequence or to force the players toward a particular moral answer. If I later discover that I misunderstood a rule or a fact, I can correct how I handle it from then on without erasing the events that have already happened.
+I do not need to know everything before making a decision. I use what is established: the Stage, the forces and their goals and limits, what the characters know, and what has already happened. If something important is unclear, I can ask the players what they mean, talk through the uncertainty, or make a provisional ruling so play can continue. If several answers fit, I choose the one that best fits the established situation. I can correct a mistaken rule or fact going forward without erasing what already happened.
 
 #### Making Rulings Players Can Understand ####
 
@@ -572,7 +556,7 @@ When players move on from a thread, I stop foregrounding it rather than pushing 
 
 I try to give at least two concrete details for each scene and for every NPC or group of NPCs. I describe enough of the background for people to understand the situation, then let their minds fill in the rest. The details do not need to be elaborate. They need to give the players something specific to picture and act on.
 
-The theme helps me decide which details to foreground and how to frame them. Two scenes can contain the same facts but feel very different depending on what the description emphasizes. Individual details do not need to represent the theme; the details across the campaign work together to make its question felt in the world, not only stated in conversation.
+The theme helps me decide which details to foreground and how to frame them. Two scenes can contain the same facts but feel different depending on what the description emphasizes.
 
 For example:
 
@@ -592,23 +576,21 @@ In combat, I make sure at least one NPC has a name and is called by it. A name g
 
 #### Responding to What the Characters Do ####
 
-The characters' significant actions change the situation. I do not decide in advance what those actions must lead to; I look at what could plausibly follow from what the characters actually did and from the people, forces, and relationships already in the game. Then I use the theme to choose which of those natural possibilities offers a meaningful angle on the campaign's question.
-
-I expect every significant act to have at least two consequences, and sometimes more. I do this to help the players feel that their characters matter: their actions can keep changing the world beyond the moment in which they happened. One consequence is usually fairly immediate; another may surface several sessions later as the wider situation adjusts. Theme helps me choose which plausible consequences to bring forward, not manufacture a moral verdict or make every success costly. A consequence can give the characters a new way to encounter the thematic question, but it should invite a response rather than imply the right answer. Consequences do not have to balance each other; they can point in different directions, or they can all be beneficial or harmful. They are not a way to take back a success or punish the characters for acting. They let the world respond to what the characters have done in a way that deepens what the campaign is about.
+The characters' significant actions change the situation. I look at what could plausibly follow from what they did and from the people, Forces, and relationships already in play. I expect a significant act to have at least two consequences: one often immediate, another perhaps several sessions later. Among the natural possibilities, I choose what gives the characters another meaningful angle on the campaign's question. Consequences can be beneficial, harmful, or mixed; they should deepen the situation, not punish the players or erase their success.
 
 If the characters kill the head of a local gang, the people that person hurt may thank them. At the same time, removing that leader can destabilize the underground power structure and increase gang violence. Both results follow from the same act. The characters accomplished something real, and the situation has changed in ways they may now have to deal with.
 
 #### Making Consequences Visible ####
 
-I want the players to encounter the effects of their choices, even when those effects are not immediately obvious. Consequences do not have to arrive as an NPC explaining what the characters caused. They can show up in changed circumstances, other people's behavior, or details of ordinary life.
+I want the players to encounter the effects of their choices, even when those effects are not immediately obvious. Consequences can show up in changed circumstances, other people's behavior, or details of ordinary life—not only through an NPC explaining what the characters caused.
 
 In the earlier campaign that inspired the example in Chapter 14, the characters were trying to find the cause of a massacre that had happened twenty years earlier. The Mokolé were openly buying land, and their goals collided with the Vampires' interests, setting off a real-estate war. Land prices soared and housing costs rose so sharply that the news began reporting on apartments where large numbers of people were sharing rooms.
 
-That kind of ripple makes the characters important even if the world does not know why things are happening. The people in those apartments do not need to know that the characters' investigation helped cause the changes. The characters' actions still reach beyond the people they meet directly, and a news report can make that larger effect visible without stopping to explain every link in the chain. The realization that an action from two games ago helped drive up housing costs can give the players a sense of awe at their characters' reach. In another game, stopping an evil corporation meant that its factory site eventually became a park. A consequence can be a lasting improvement, not just a new problem.
+That kind of ripple makes the characters important even if the world does not know why things are happening. A news report can reveal the larger effect without explaining every link in the chain. In another game, stopping an evil corporation meant that its factory site eventually became a park. Fallout can be a lasting improvement, not just a new problem.
 
 #### Keeping the World Coherent as It Changes ####
 
-Let consequences grow from the Stage, force goals, relationships, and actions already in play. Among the consequences that naturally fit, prefer those that offer another angle on the thematic question or put it under new pressure, without implying a preferred answer. They may be indirect or take time to appear; reveal an effect first and let the players discover its connection if they investigate. The characters do not need to learn every link for their choices to matter.
+Let consequences grow from the established situation. Effects may be indirect or take time to appear; show what changed and let the players discover its connection if they investigate.
 
 ## Part IV: Managing Sessions and Campaigns ##
 
@@ -646,7 +628,7 @@ I compare feedback across sessions and look for patterns. If I start to see one,
 
 #### Turning the Session into Useful Preparation ####
 
-Those notes feed into preparation for the next session: I ask what interesting fallout might follow and prepare to respond to the changed situation.
+Those notes feed into the next session's preparation (see Chapter 6). I use them to understand what changed and what the characters may need to engage with, not to plan what they will do.
 
 The first four sessions are an exception. At that point, the characters may have done too little to propel the campaign and create much fallout of their own. I pay close attention to what has engaged the players and use those apparent interests to create inciting incidents that may appeal to them. As the characters' actions begin to change the situation, those actions and their effects become the main material feeding into the next session.
 
@@ -664,7 +646,7 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 #### Following Player Interests ####
 
-Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it. The theme's question remains present through the situations the campaign creates, but it does not require the players to pursue a particular thread. I use the theme to build on their interests and offer new angles for exploration without steering them toward a predetermined answer.
+Over the campaign, I follow the interests that persist and let others recede. Forces keep pursuing their goals when the characters look elsewhere, but I do not keep presenting a thread just because I prepared it. I build on the interests the players choose to pursue rather than continually introducing new material.
 
 ##### Distinguishing Curiosity from Investment #####
 
@@ -685,7 +667,7 @@ Curiosity is a reason to offer more; investment is a reason to build more deeply
 
 ##### Accumulating Meaning, Direction, and an Emotional Center #####
 
-Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, the theme, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
+Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
 
 Meaning accumulates through choices and their consequences. The theme supplies a question or idea; the campaign's situations keep presenting it from different angles, and play gives it lived examples. What the characters protect, sacrifice, accept, or refuse gradually makes that question personal without requiring a predetermined answer.
 
@@ -701,7 +683,7 @@ An unresolved situation may return if it still matters to the characters or the 
 
 #### Changing Direction ####
 
-The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape the angles from which the theme is explored, and may refine my understanding of the question as play reveals what matters to the group. I preserve enough continuity for those developments to feel earned, while leaving the moral meaning and conclusions open to the players.
+The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape the campaign and refine my understanding of what matters to the group, while preserving enough continuity for them to feel earned.
 
 #### Recognizing When a Campaign Should End ####
 
@@ -854,11 +836,7 @@ I did not discourage them from killing gang leaders, steer them toward another f
 
 #### What This Example Shows Me ####
 
-The campaign did not unfold from a plot I had prepared. The Stage gave me history, relationships, pressures, and possible forces to draw on. The starting forces created a collision, but the players' choices determined which part of the situation became central. I adjusted the Stage when I saw a gap in it, and I added forces when events at the table made them useful.
-
-The gang leaders were not meant to die as part of a sequence. Their deaths mattered because the players caused them. The hit man did not replace that agency; he helped explain why the situation had begun to feel patterned. Chekhov's Gun gave the hit man's actions a larger purpose, and the players decided what relationship they wanted with her.
-
-For me, the success of this approach was not that I anticipated every turn. I did not. It was that I had enough of a world to build on what the players found interesting, and enough trust in their choices to follow rather than redirect them. The result felt deeper because the campaign's connections grew in response to play, not because I had secretly planned them all in advance.
+The campaign did not unfold from a prepared plot. The Stage gave me history, relationships, and pressures to draw on; the players decided which parts mattered. When their choices created a pattern I had not planned, I added a force that made sense of it without taking their actions away. The campaign felt connected not because I anticipated every turn, but because I built on what the players found interesting.
 
 ### 15. Making This Style Your Own ###
 
@@ -866,7 +844,7 @@ You do not need to run games exactly as I do. Some parts of this approach are im
 
 #### What Is Essential to the Approach ####
 
-The essential parts are a theme and a connected situation. The theme gives the campaign a question or idea to keep putting into play; the Stage, forces, their collisions, and the fallout create opportunities for the characters to encounter it from different angles. No single detail has to represent the theme; the campaign's parts create it together. The characters can change that situation and explore what the question means to them. Theme does not prescribe their choices or the answer. You can scale the scope to fit your campaign, but safety and meaningful player choice are not optional techniques to set aside.
+The core is a theme and a connected situation: the Stage, forces, their collisions, and fallout create opportunities for characters to engage with the question through their choices. Scale that system to fit your campaign, but do not treat safety or meaningful player choice as optional.
 
 #### Build a Small but Complete System ####
 
@@ -1003,20 +981,19 @@ This preparation helps improvisation feel coherent. Players may experience the w
 #### When Deciding What Happens ####
 
 - Start from what is established; do not invent danger just to make things harder.
-- Let the theme's question guide which plausible consequences you foreground, offering another angle to explore without suggesting a preferred answer. It does not authorize unsupported outcomes.
-- Consider the worst plausible consequences, then discard those that undermine interest, momentum, safety, agency, or fun.
-- Let success stand. A consequence can add a cost, reveal a problem, change a relationship, or draw attention without negating the achievement.
+- If several outcomes fit, prefer one that offers a meaningful angle on the theme and serves the table.
+- Let success stand; consequences can add costs or complications without negating the achievement.
 - If you do not know a rule, let the player try for now and check it for later.
 - If the action is a plausible stretch, consider allowing it with a small increase in difficulty.
 - If it is too outlandish, say no to that action and help find another way to pursue the character's goal.
 - If a ruling or technique is not working, acknowledge it and correct course.
-- A safety veto is immediate and unconditional; remove the offending context and its direct consequences.
+- A safety veto is immediate and unconditional; remove the offending context.
 
 #### Keep the Situation Alive ####
 
 - Notice what the players ask about, pursue, and return to.
 - Follow their interest; do not protect unused preparation.
-- Keep creating opportunities to encounter the thematic question from different angles; let play deepen or complicate what it means to the characters.
+- Build on what they have made important.
 - Forces and the Stage can change in response to play.
 - Preserve what matters, let go of what no longer serves the game, and start the loop again.
 

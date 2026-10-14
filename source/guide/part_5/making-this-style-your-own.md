@@ -4,7 +4,7 @@ You do not need to run games exactly as I do. Some parts of this approach are im
 
 <!-- (dl (# What Is Essential to the Approach)) -->
 
-The essential parts are a theme and a connected situation. The theme gives the campaign a question or idea to keep putting into play; the Stage, forces, their collisions, and the fallout create opportunities for the characters to encounter it from different angles. No single detail has to represent the theme; the campaign's parts create it together. The characters can change that situation and explore what the question means to them. Theme does not prescribe their choices or the answer. You can scale the scope to fit your campaign, but safety and meaningful player choice are not optional techniques to set aside.
+The core is a theme and a connected situation: the Stage, forces, their collisions, and fallout create opportunities for characters to engage with the question through their choices. Scale that system to fit your campaign, but do not treat safety or meaningful player choice as optional.
 
 <!-- (dl (# Build a Small but Complete System)) -->
 

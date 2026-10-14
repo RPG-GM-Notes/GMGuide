@@ -62,8 +62,4 @@ I did not discourage them from killing gang leaders, steer them toward another f
 
 <!-- (dl (# What This Example Shows Me)) -->
 
-The campaign did not unfold from a plot I had prepared. The Stage gave me history, relationships, pressures, and possible forces to draw on. The starting forces created a collision, but the players' choices determined which part of the situation became central. I adjusted the Stage when I saw a gap in it, and I added forces when events at the table made them useful.
-
-The gang leaders were not meant to die as part of a sequence. Their deaths mattered because the players caused them. The hit man did not replace that agency; he helped explain why the situation had begun to feel patterned. Chekhov's Gun gave the hit man's actions a larger purpose, and the players decided what relationship they wanted with her.
-
-For me, the success of this approach was not that I anticipated every turn. I did not. It was that I had enough of a world to build on what the players found interesting, and enough trust in their choices to follow rather than redirect them. The result felt deeper because the campaign's connections grew in response to play, not because I had secretly planned them all in advance.
+The campaign did not unfold from a prepared plot. The Stage gave me history, relationships, and pressures to draw on; the players decided which parts mattered. When their choices created a pattern I had not planned, I added a force that made sense of it without taking their actions away. The campaign felt connected not because I anticipated every turn, but because I built on what the players found interesting.

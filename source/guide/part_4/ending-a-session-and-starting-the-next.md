@@ -28,7 +28,7 @@ I compare feedback across sessions and look for patterns. If I start to see one,
 
 <!-- (dl (# Turning the Session into Useful Preparation)) -->
 
-Those notes feed into preparation for the next session: I ask what interesting fallout might follow and prepare to respond to the changed situation.
+Those notes feed into the next session's preparation (see Chapter 6). I use them to understand what changed and what the characters may need to engage with, not to plan what they will do.
 
 The first four sessions are an exception. At that point, the characters may have done too little to propel the campaign and create much fallout of their own. I pay close attention to what has engaged the players and use those apparent interests to create inciting incidents that may appeal to them. As the characters' actions begin to change the situation, those actions and their effects become the main material feeding into the next session.
 

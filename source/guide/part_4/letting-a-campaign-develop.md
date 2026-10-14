@@ -8,7 +8,7 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 <!-- (dl (# Following Player Interests)) -->
 
-Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it. The theme's question remains present through the situations the campaign creates, but it does not require the players to pursue a particular thread. I use the theme to build on their interests and offer new angles for exploration without steering them toward a predetermined answer.
+Over the campaign, I follow the interests that persist and let others recede. Forces keep pursuing their goals when the characters look elsewhere, but I do not keep presenting a thread just because I prepared it. I build on the interests the players choose to pursue rather than continually introducing new material.
 
 <!-- (dl (## Distinguishing Curiosity from Investment)) -->
 
@@ -29,7 +29,7 @@ Curiosity is a reason to offer more; investment is a reason to build more deeply
 
 <!-- (dl (## Accumulating Meaning, Direction, and an Emotional Center)) -->
 
-Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, the theme, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
+Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
 
 Meaning accumulates through choices and their consequences. The theme supplies a question or idea; the campaign's situations keep presenting it from different angles, and play gives it lived examples. What the characters protect, sacrifice, accept, or refuse gradually makes that question personal without requiring a predetermined answer.
 
@@ -45,7 +45,7 @@ An unresolved situation may return if it still matters to the characters or the 
 
 <!-- (dl (# Changing Direction)) -->
 
-The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape the angles from which the theme is explored, and may refine my understanding of the question as play reveals what matters to the group. I preserve enough continuity for those developments to feel earned, while leaving the moral meaning and conclusions open to the players.
+The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape the campaign and refine my understanding of what matters to the group, while preserving enough continuity for them to feel earned.
 
 <!-- (dl (# Recognizing When a Campaign Should End)) -->
 
