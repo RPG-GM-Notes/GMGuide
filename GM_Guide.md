@@ -723,6 +723,28 @@ This is especially worth remembering in the second session. In my experience, it
 
 Sometimes the problem is local. A ruling, encounter, or scene may be slowing play down or making a character feel ineffective. Sometimes the players are engaged with the campaign, but not with the material I expected them to care about. And sometimes the group wants a different kind of game from the one I want to run. Those are different problems; they need different responses.
 
+#### When Players Feel Lost Without Direction ####
+
+Freedom to choose does not mean the players must invent their own reason to act. Arcs are the main tool for interaction in this approach. When the players feel lost without direction, they may never have picked up an Arc, lost track of it during play, or reached its end without another meaningful situation becoming apparent.
+
+An inciting incident can happen in the fiction without landing for the players. I may understand that an Arc has begun, while they do not recognize that something meaningful happened for them to engage with. A developed Stage and active Forces do not give the players direction unless enough of the situation is understandable and actionable.
+
+My response has two parts:
+
+1. **Determine what kind of lost they are.** Do they not understand what is happening, lack a reason to care, care but see no way to act, or need a clearer shared goal? I ask and clarify rather than assuming that another complication will help.
+2. **Give them a clear, unmistakable inciting incident with easy-to-find interaction points.** What I learn from the first step tells me what the incident needs to make clear. Something meaningful happens, and the players can readily see ways to respond. I make engagement available without requiring a particular response or outcome.
+
+Several things can leave players without an Arc they know how to engage with:
+
+- My understanding of the situation has not become usable understanding for them; they see names, events, or clues without enough connections to choose.
+- The opening created activity but no reason to continue, or its inciting incident did not land.
+- I mistook curiosity for investment and developed something they wanted explained but did not want to pursue.
+- Too many competing possibilities make it difficult to distinguish what matters.
+- An Arc ended without another meaningful situation emerging.
+- The group expects more supplied direction than I have offered.
+
+Individual check-ins can help the players turn their characters' intentions into a shared plan (see Chapter 9). In the early sessions, I may also need to supply more of the initial fuel before their actions generate enough fallout to propel play (see Chapter 11). More background or more Forces will not necessarily help if the players still cannot find an Arc to interact with. I can make opportunities explicit while leaving choices and outcomes open.
+
 #### Distinguishing a Technique Problem from a Mismatch ####
 
 When something is not working, I try to determine whether the game needs a different technique or whether we want different experiences. I can change how I present a situation, follow a different thread, or let go of a prepared idea. But I cannot make a genuine mismatch disappear by pushing the players toward my preferred style.
