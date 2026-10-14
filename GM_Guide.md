@@ -267,6 +267,12 @@ In the campaign with the Nephondi High Mage, he was the initial force. I needed 
 
 This connected work is where most of my initial development goes. I may produce dozens of ideas for possible forces, but that is a side effect. I only need three to begin.
 
+###### When the Stage Is Not Developed Enough ######
+
+The Stage may not be developed enough when I keep having to invent foundational details during play instead of drawing on what I have established. I may also struggle to picture ordinary life there: not just the campaign's central conflict, but what people do and how the place feels when that conflict is not in the foreground.
+
+Another sign is that I often find myself without an answer to what the players do. I do not need to know their choices or decide outcomes in advance. I need enough context—people, relationships, history, and pressures—to make a grounded next move when they surprise me. If I cannot see what could plausibly follow from their actions, the Stage may need more development.
+
 ##### When the Stage Is Ready #####
 
 I use four criteria to decide when I have developed the Stage enough:
