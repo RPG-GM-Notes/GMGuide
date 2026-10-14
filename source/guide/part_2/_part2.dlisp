@@ -1,5 +1,6 @@
 (section-meta
     (title Part II: Setting Up the Game)
+    (id part-ii)
     (include
         (Subsection ./finding-the-right-fit.md)
         (Subsection ./creating-a-starting-point.md)

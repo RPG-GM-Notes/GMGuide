@@ -13,11 +13,11 @@
 ## Guide Contents ##
 
 - [Part I: What I’m Trying to Create](./docs/parts/part-i.md#part-i-what-im-trying-to-create)
-- [Part II: Setting Up the Game](./docs/parts/part-ii.md)
-- [Part III: Running the Game](./docs/parts/part-iii.md)
-- [Part IV: Managing Sessions and Campaigns](./docs/parts/part-iv.md)
-- [Part V: Learning the Approach](./docs/parts/part-v.md)
-- [Appendices](./docs/parts/appendices.md)
+- [Part II: Setting Up the Game](./docs/parts/part-ii.md#part-ii-setting-up-the-game)
+- [Part III: Running the Game](./docs/parts/part-iii.md#part-iii-running-the-game)
+- [Part IV: Managing Sessions and Campaigns](./docs/parts/part-iv.md#part-iv-managing-sessions-and-campaigns)
+- [Part V: Learning the Approach](./docs/parts/part-v.md#part-v-learning-the-approach)
+- [Appendices](./docs/parts/appendices.md#appendices)
 
 ## Introduction: Why This Guide Exists ##
 

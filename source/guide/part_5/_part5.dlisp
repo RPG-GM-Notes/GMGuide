@@ -1,5 +1,6 @@
 (section-meta
     (title Part V: Learning the Approach)
+    (id part-v)
     (include
         (Subsection ./my-approach-in-practice.md)
         (Subsection ./making-this-style-your-own.md)

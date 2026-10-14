@@ -1,5 +1,6 @@
 (section-meta
     (title Appendices)
+    (id appendices)
     (include
         (Subsection ./one-page-summary.md)
         (Subsection ./quick-reference.md)

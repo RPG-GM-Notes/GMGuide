@@ -1,5 +1,6 @@
 (section-meta
     (title Part IV: Managing Sessions and Campaigns)
+    (id part-iv)
     (include
         (Subsection ./ending-a-session-and-starting-the-next.md)
         (Subsection ./letting-a-campaign-develop.md)

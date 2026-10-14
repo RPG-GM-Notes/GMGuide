@@ -1,5 +1,6 @@
 (section-meta
     (title Part III: Running the Game)
+    (id part-iii)
     (include
         (Subsection ./my-basic-loop-at-the-table.md)
         (Subsection ./making-decisions-in-the-moment.md)
