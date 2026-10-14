@@ -8,7 +8,7 @@
 
 **Fingerprint:** A Force's recognizable signature in how it acts: its methods, habits, priorities, or way of treating people. The GM uses it to make the Force's behavior feel distinctive and coherent, not merely to leave a clue. Players may use that signature to connect events, recognize a disguised Force, and learn which patterns they trust or fear. A prepared fingerprint is provisional: if a different signature emerges in play, accept it, record it, and use it going forward rather than forcing the original plan.
 
-**Theme:** The question or idea the campaign keeps putting into play. The Stage, Forces, their collisions, and the fallout create opportunities for characters to encounter it from different angles; no single detail has to represent it. Through their choices, players explore what the question means to their characters. Theme invites that exploration without prescribing what the characters should choose or what answer they should reach.
+**Theme:** The question or idea the campaign keeps putting into play. A fruitful theme is one this GM and these players can keep interacting with: it continues to give the GM situations to create and players choices through which to explore it. The Stage, Forces, their collisions, and the fallout create opportunities to encounter it from different angles; no single detail has to represent it. Theme invites exploration without prescribing what the characters should choose or what answer they should reach.
 
 **Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
 

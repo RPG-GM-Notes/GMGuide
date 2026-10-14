@@ -2,7 +2,7 @@
 
 <!-- (dl (# The Approach)) -->
 
-Begin with a theme: a question or idea the campaign will keep putting into play. Prepare a living situation that lets the table encounter it from different angles—not a story the players must follow. The Stage, Forces, their collisions, and the fallout create opportunities for the characters to explore what the question means to them. No single detail has to represent the theme; the campaign's parts create it together, without deciding the answer for the players.
+Begin with a theme: a question or idea the campaign will keep putting into play. A fruitful theme is one this GM and these players can keep interacting with, finding new situations and choices through which to explore it. Prepare a living situation that lets the table encounter it from different angles—not a story the players must follow. The Stage, Forces, their collisions, and the fallout create opportunities for the characters to explore what the question means to them. No single detail has to represent the theme; the campaign's parts create it together, without deciding the answer for the players.
 
 <!-- (dl (## Build a Small, Connected World)) -->
 

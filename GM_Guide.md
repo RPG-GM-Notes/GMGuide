@@ -200,6 +200,8 @@ Three constructs help me do this: forces, the Stage, and Arcs. Forces pursue goa
 
 Before I develop the campaign, I decide what it is about. I call that its theme. A theme may be a question, such as “Can you hunt monsters without becoming one?”, or an idea I want to explore. A question is useful because it opens up possibilities rather than supplying an answer. The theme is the question the campaign keeps putting into play; the campaign's situations give the players opportunities to explore what it means to their characters.
 
+What makes a theme good for this approach is not how clever or open-ended its wording sounds, but whether this GM and these players can keep interacting with it. A fruitful theme keeps giving the GM ways to create situations around it and gives the players ways to explore it through their characters' choices. It does not run out after one dilemma or one obvious answer; the changing campaign can bring it forward from new angles. “Good versus evil” may feel settled and offer little to a particular group, but for a group that wants to question what good and evil mean, it can sustain rich play. The right theme depends on what the people at the table find meaningful to explore.
+
 Theme is not a label I attach after creation or only a lens for my decisions. It gives direction to campaign creation: I develop the Stage, forces, their goals and fingerprints, their collisions, and the fallout so that, together, they raise the thematic question from different angles. At the table, the characters' choices let the players explore the question and what it means to them. Theme makes this approach more than a way to produce coherent events; it gives those events moral and deeper meaning.
 
 No single detail has to represent the theme, and I do not make every Force a symbol or representative of one side of a moral argument. The details matter together: their relationships, pressures, and consequences make the theme present throughout the world. I use the theme to guide my choices, but I build different, sometimes conflicting ways to encounter the question rather than a situation with one intended answer. The players decide what their characters make of those pressures. The theme gives the campaign something to explore, not a conclusion the players must reach.
@@ -952,7 +954,7 @@ After a few sessions, ask whether the players have found something to explore, w
 
 #### The Approach ####
 
-Begin with a theme: a question or idea the campaign will keep putting into play. Prepare a living situation that lets the table encounter it from different angles—not a story the players must follow. The Stage, Forces, their collisions, and the fallout create opportunities for the characters to explore what the question means to them. No single detail has to represent the theme; the campaign's parts create it together, without deciding the answer for the players.
+Begin with a theme: a question or idea the campaign will keep putting into play. A fruitful theme is one this GM and these players can keep interacting with, finding new situations and choices through which to explore it. Prepare a living situation that lets the table encounter it from different angles—not a story the players must follow. The Stage, Forces, their collisions, and the fallout create opportunities for the characters to explore what the question means to them. No single detail has to represent the theme; the campaign's parts create it together, without deciding the answer for the players.
 
 ##### Build a Small, Connected World #####
 
@@ -1058,7 +1060,7 @@ After the session
 
 **Fingerprint:** A Force's recognizable signature in how it acts: its methods, habits, priorities, or way of treating people. The GM uses it to make the Force's behavior feel distinctive and coherent, not merely to leave a clue. Players may use that signature to connect events, recognize a disguised Force, and learn which patterns they trust or fear. A prepared fingerprint is provisional: if a different signature emerges in play, accept it, record it, and use it going forward rather than forcing the original plan.
 
-**Theme:** The question or idea the campaign keeps putting into play. The Stage, Forces, their collisions, and the fallout create opportunities for characters to encounter it from different angles; no single detail has to represent it. Through their choices, players explore what the question means to their characters. Theme invites that exploration without prescribing what the characters should choose or what answer they should reach.
+**Theme:** The question or idea the campaign keeps putting into play. A fruitful theme is one this GM and these players can keep interacting with: it continues to give the GM situations to create and players choices through which to explore it. The Stage, Forces, their collisions, and the fallout create opportunities to encounter it from different angles; no single detail has to represent it. Theme invites exploration without prescribing what the characters should choose or what answer they should reach.
 
 **Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
 
