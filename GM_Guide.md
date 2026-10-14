@@ -626,6 +626,16 @@ I love cliffhangers, but I do not plan for them or try to encourage them. If a g
 
 After a session, I note what the players did, the characters' significant actions, what changed for each force and the Stage, and any rewards. I do not need a transcript—just a record of changes likely to matter again.
 
+##### Keeping Fallout Manageable #####
+
+My record keeping is proportional to the time the players spend involved with something, not to the number of consequences I can imagine. If fallout becomes a minor note, I let it remain a minor note. It may eventually vanish from memory without needing a formal resolution. If the players spend more time engaging with it, I develop and record more of it.
+
+Fallout becomes bloated when I treat every plausible consequence as something I must create, track, and eventually show. Expecting multiple consequences from a significant action is not a requirement to maintain a separate thread for each one. I do not need to follow every ripple recursively, give every affected actor an ongoing response, or keep updating an effect after it has served its purpose.
+
+A consequence can become a fact without becoming a thread. If an abandoned factory becomes a park, that is lasting fallout; it does not require a park-management subplot. A change to a Force's influence or relationships can go into that Force's notes rather than becoming a separate chain of obligations. I ask what I need to retain to respond well in future play, not how much more I could calculate.
+
+Remaining true in the world is different from remaining active in my records. If the players return to a minor consequence, I can develop it then, drawing on what they remember and what is established. Fallout creates possibilities for play; player involvement determines how much of it becomes maintained material.
+
 #### What I Ask the Players ####
 
 After every session, I ask the players, “How could this be better?” I listen and record their advice, but I do not take each suggestion at face value or immediately treat it as an instruction to change something.
