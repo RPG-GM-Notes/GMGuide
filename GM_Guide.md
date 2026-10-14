@@ -237,6 +237,14 @@ As a rule of thumb, I start with three forces. I give them goals that do not dir
 
 For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for how their actions might intersect, whether that produces conflict, cooperation, or no immediate connection.
 
+###### When There Are Too Many Forces in Play ######
+
+There is no fixed maximum number of Forces. The problem is not how many people or groups exist in the world, but how many I need to actively track and bring into play at once. A Stage can contain many possible actors while only a few are currently pursuing goals that matter to the characters.
+
+I may have too many active Forces when I can no longer keep their goals, limits, and fingerprints distinct; when I have to force connections just to use them; or when their competing developments crowd out the situations the players are trying to engage with. The players may also be hearing about more actors and conflicts than they can make sense of, while Arcs multiply faster than they can follow. More preparation in that state can leave me with more notes but less confidence about what would plausibly happen next.
+
+When I notice these signs, I do not need to delete Forces from the world. I can let some recede from the foreground and bring them back when the characters' actions or interests make them relevant. A useful check is: if the characters do something unexpected now, can I tell which Forces would notice, care, and act—and why? If too many seem equally urgent, or I cannot distinguish their likely responses, I should narrow my active focus.
+
 ##### The Stage #####
 
 The Stage is the background of the campaign: its props, places, stories, and relationships. It explains why the forces I have chosen are the forces that matter here. It also needs enough life and movement that other forces can emerge. Theme filters what I put into the Stage and tints how I present it; the Stage gives the forces' actions context, while the theme gives that context meaning.
