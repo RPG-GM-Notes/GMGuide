@@ -10,9 +10,15 @@ The table decides what content is acceptable, and every player can veto content 
 
 The table's fun is the one thing I will not sacrifice. Plot, characters, NPCs, and even the game system are all things I can change or discard if they get in the way. I am part of the table, too, so I look for a kind of play we can enjoy together.
 
+<!-- (dl (## Theme gives the campaign meaning)) -->
+
+Theme is the lens I use across the whole campaign. It shapes what I create, what I emphasize, and how I interpret the changes that follow from play. Theme is also what lets this approach explore moral issues and deeper meanings: the Stage and forces put an idea under pressure, and the characters' choices let us see what that idea means to them. I do not use theme to dictate a lesson or decide the answer. Safety, the table's fun, and the players' freedom to choose remain essential.
+
 <!-- (dl (## Prepare situations, not outcomes)) -->
 
 I put substantial effort into the initial campaign concepts, especially the forces: what they want, what they will and will not do, and how their actions can be recognized. I use this preparation to understand the situation, not to predict what the characters will do or dictate what must happen.
+
+Theme guides that preparation. It filters and tints the Stage, the forces and their goals, their fingerprints, and the conflicts their actions create. It does not prescribe what the characters must do or believe.
 
 <!-- (dl (## Let play change the situation)) -->
 
@@ -20,7 +26,7 @@ The characters' actions matter. Forces pursue their goals, react to interference
 
 <!-- (dl (## Preserve the Appearance of Continuity)) -->
 
-Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world, so that changes do not break that understanding. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
+Continuity is not important for its own sake; what matters is its appearance. I want events and character actions to fit the players' understanding of the world and its theme, so that changes do not break that understanding or make the campaign's meaning feel arbitrary. I can engineer an explanation backward when needed. Often the players will make those connections for me, filling in how a new development fits what they already know.
 
 There is a kind of magic in this. Players can experience the world as solid and complete, and the GM as an extraordinary planner, even when the GM is improvising. The goal is not to fool the players about what was prepared in advance. Like a magician creating a moment of wonder, I want us to share an experience that feels magical and memorable. The preparation gives me enough understanding to respond coherently; play supplies the unexpected connections.
 

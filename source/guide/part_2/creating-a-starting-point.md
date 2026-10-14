@@ -6,6 +6,18 @@ I think of campaign creation as building a physics engine. I create a situation 
 
 Three constructs help me do this: forces, the Stage, and Arcs. Forces pursue goals. The Stage gives those forces a world to act in. Collisions between their actions start Arcs, whose events develop through play.
 
+<!-- (dl (## Begin with a Theme)) -->
+
+Before I develop the campaign, I decide what it is about. I call that its theme. A theme may be a question, such as “Can you hunt monsters without becoming one?”, or an idea I want to explore. A question is useful because it opens up possibilities rather than supplying an answer.
+
+Theme is not a label I attach after creation. It is the lens I use to choose and develop everything else: what belongs in the Stage, which forces matter, what they want and how they act, which collisions start Arcs, what I describe, and which plausible consequences I bring forward. Theme makes this approach more than a way to produce coherent events; it gives those events moral and deeper meaning.
+
+The theme does not need to appear in every detail, and I do not make every Force a symbol or representative of one side of a moral argument. Instead, I use it to filter choices and create a situation with different, sometimes conflicting expressions of the theme. The players decide what their characters make of those pressures. The theme gives the campaign something to explore, not a conclusion the players must reach.
+
+In a Mage: The Ascension game, my theme was “Can you hunt monsters without becoming one?” I populated the city with a monstrous but not evil Sabbat pack and bishop, a cold and calculating Nosferatu Camarilla prince, a cold war between the two, two different vampire Anarch groups, a werewolf civil war, and a history of vampires mysteriously losing key leaders. Those details gave “monster” more than one meaning and made the question part of the city rather than a speech the characters had to hear.
+
+The starting forces were an Anarch leader who wanted vampires revealed to the world so it would become a world where only the strong survive; a prince in danger of being removed by the Camarilla because he had only become prince after his predecessor disappeared; and an overworked, understaffed police force fighting to prevent further defunding. The starting collision came from the Anarchs wanting to forcibly recruit a police detective while the Sabbat wanted to kill him. The detective smelled something fishy and sent the characters to investigate. They found themselves between two overwhelming vampire forces, neither interested in fighting them. The opening put them in contact with the theme without deciding what they would do or what they would conclude about the monsters around them.
+
 <!-- (dl (## Forces)) -->
 
 At its core, a Force is a person or group with a goal and more power than the characters in the arena where it pursues that goal, giving it the ability to move the world. A Force is not the same thing as an antagonist: "Force" describes an actor's capacity to affect the situation, while "antagonist" describes its relationship to the characters or their aims. A Force might help the characters, oppose them, or pursue goals that have little to do with them. That relationship can also change over the course of a campaign.
@@ -21,6 +33,8 @@ The comparison is specific to the arena where the Force pursues its goal; it doe
 
 A fingerprint is the Force's signature in the way it acts: its characteristic methods, habits, priorities, or way of treating people. I borrow the idea from children's cartoons, where a hero or villain has a signature way of doing things that makes them recognizable—even in disguise. I use a Force's fingerprint to make its actions feel as if they come from that particular actor and belong in the same world. When I decide what the Force does, I let its signature shape the action, rather than merely adding a clue or calling card afterward. The players may then connect separate events, recognize a disguised Force, or learn which fingerprints they trust or fear. Those are valuable effects, but the fingerprint's first job is to make the Force's behavior feel coherent and distinctive. A force can be an individual or a group; I can treat a group as one character for its shared goal while still treating its members as individuals.
 
+Theme helps me decide which goals, methods, and fingerprints will make a Force matter in this campaign. It can shape how a Force embodies, challenges, complicates, or contradicts the theme. I do not make every Force a mouthpiece or reduce it to a moral category; the aim is a living world where the theme appears through people with their own goals and limits.
+
 A fingerprint I prepare is a starting point, not something I must force into play. As I play a Force in actual situations, its behavior may solidify differently than I expected. It may develop a signature I never planned, or the signature I planned may never show up. When that happens, I accept what has emerged, record it in the Force's notes, and move on. I use that signature to guide future actions rather than making the Force perform an unused idea. The fingerprint serves the appearance of verisimilitude; what the Force actually does in play matters more than what I intended before we started.
 
 Being a force does not mean being mysterious or hidden. A force may be publicly known and pursue its goals openly, or conceal its identity or intentions. A fingerprint can make a known Force's behavior distinctive, or give the players a way to recognize it when its identity is concealed.
@@ -35,7 +49,7 @@ For my purposes, directly opposing goals simplify two forces down to a single fo
 
 <!-- (dl (## The Stage)) -->
 
-The Stage is the background of the campaign: its props, places, stories, and relationships. It explains why the forces I have chosen are the forces that matter here. It also needs enough life and movement that other forces can emerge.
+The Stage is the background of the campaign: its props, places, stories, and relationships. It explains why the forces I have chosen are the forces that matter here. It also needs enough life and movement that other forces can emerge. Theme filters what I put into the Stage and tints how I present it; the Stage gives the forces' actions context, while the theme gives that context meaning.
 
 Most games already have a canon that describes a populated world. That is usually my starting place, not something I need to replace. My Stage describes some portion of that world and adds enough depth that it feels alive.
 
@@ -160,8 +174,8 @@ The connection made the starting decision plausible for the characters. The comb
 
 <!-- (dl (# Trying This Approach)) -->
 
-Begin with a theme, a force, or a piece of the setting that interests you. Develop the Stage and forces together until you understand why those forces matter and can envision a living world around them. Do not treat every idea you generate as something that must appear in play.
+Begin by deciding the theme. A force, a question, or a piece of the setting may be what inspires it, but articulate the theme before developing the campaign. Then use it to guide the Stage and forces as they grow together, until you understand why those forces matter and can envision a living world around them. Do not treat every idea you generate as something that must appear in play.
 
-Look for distinct collisions between the forces' ways of pursuing their goals. Prepare the forces, goals, cause of conflict, and combatants. For the opening, choose a location and an outcome that does not kill the new characters, and make sure the starting premise is something the players can accept.
+Look for distinct collisions between the forces' ways of pursuing their goals, and consider how each can put the theme into play. Prepare the forces, goals, cause of conflict, and combatants. For the opening, choose a location and an outcome that does not kill the new characters, and make sure the starting premise is something the players can accept. The collision should invite thematic choices, not settle the theme's question in advance.
 
 Give players enough information to make characters who fit, then use their ideas to deepen the Stage. Keep later collisions flexible enough to happen where play takes you. The starting point should give you something to respond with, not something you have to make the players follow.

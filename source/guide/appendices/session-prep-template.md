@@ -5,10 +5,11 @@ Copy this into your own notes and adapt it. Keep it short: the goal is to unders
 ```text
 Session Prep: [Place or situation]
 
-Fallout
+Fallout (consider the campaign's theme)
 - What changed because of the characters' last actions?
 - What did each force do in response, within its goals and limits?
 - Who noticed, and what do they believe or know?
+- Which plausible consequence would best deepen or complicate the theme?
 
 Things that require effort
 - Clues:

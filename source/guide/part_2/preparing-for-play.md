@@ -4,7 +4,7 @@
 
 Preparing a campaign and preparing for a session are different kinds of work. Before play begins, I spend about 70% of my initial preparation building the Stage and about 20% building the forces. That work gives me an understanding of the world and the people or groups acting in it. It is not a schedule of events for the characters to follow.
 
-Between sessions, I prepare much less. I look at what the characters did, consider the interesting fallout, and use that changed situation as my starting point.
+Between sessions, I prepare much less. I look at what the characters did, consider the interesting fallout through the campaign's theme, and use that changed situation as my starting point. When several things could plausibly follow, the theme helps me choose what is most meaningful to bring forward.
 
 I prepare the things the characters will need to spend effort on. If there is a clue for them to pursue, I prepare it. If there are combatants for them to defeat, I prepare them. If there is a key character they may try to build a relationship with, I prepare that character. The players decide what to do with these things and what comes of their efforts.
 
@@ -20,7 +20,7 @@ Many GMs, especially new ones, worry that improvising will make them look unprep
 
 <!-- (dl (# When Preparation Is Sufficient)) -->
 
-A session is ready when I understand the relevant fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
+A session is ready when I understand the relevant, thematically filtered fallout and have prepared the material characters may need to work for: clues, combatants, or key NPCs. That is a stopping point for preparation, not a prediction of what the session will contain.
 
 <!-- (dl (# What I Don't Prepare)) -->
 

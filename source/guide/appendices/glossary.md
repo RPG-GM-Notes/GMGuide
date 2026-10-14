@@ -8,6 +8,8 @@
 
 **Fingerprint:** A Force's recognizable signature in how it acts: its methods, habits, priorities, or way of treating people. The GM uses it to make the Force's behavior feel distinctive and coherent, not merely to leave a clue. Players may use that signature to connect events, recognize a disguised Force, and learn which patterns they trust or fear. A prepared fingerprint is provisional: if a different signature emerges in play, accept it, record it, and use it going forward rather than forcing the original plan.
 
+**Theme:** The question or idea the campaign explores. It is the lens used to create and present the Stage, Forces, their goals and actions, and the fallout of character choices. Theme gives the campaign a way to explore moral issues and deeper meanings without prescribing what the characters should choose or what answer they should reach.
+
 **Short Shot:** A campaign intended to last five or fewer sessions. In the author's experience, it benefits from a driving goal and may be less free-form than a long campaign. These are guidelines, not requirements.
 
 **Stage:** The developed background of a campaign: its places, people, stories, relationships, and pressures. It gives forces a world to act in and gives the characters' choices context and consequences.

@@ -8,7 +8,7 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 <!-- (dl (# Following Player Interests)) -->
 
-Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it.
+Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it. Theme remains the lens for deciding which developments to bring forward and how to frame them; it helps me build on the players' interests without turning those interests into a required route or a predetermined answer.
 
 <!-- (dl (# Revisiting Unresolved Situations)) -->
 
@@ -16,7 +16,7 @@ An unresolved situation may return if it still matters to the characters or the 
 
 <!-- (dl (# Changing Direction)) -->
 
-The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape what the campaign is about and preserve enough continuity for them to feel earned.
+The campaign's direction can emerge from connections I did not plan: a force may matter across several Arcs, or a character's action may set off changes far beyond the immediate situation. I let those developments reshape how the theme is explored, and may refine my understanding of the theme as play reveals what matters to the group. I preserve enough continuity for those developments to feel earned, while leaving the moral meaning and conclusions open to the players.
 
 <!-- (dl (# Recognizing When a Campaign Should End)) -->
 
