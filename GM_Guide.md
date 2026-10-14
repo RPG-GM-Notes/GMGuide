@@ -664,6 +664,23 @@ I also update a Force's notes when play reveals a fingerprint different from the
 
 Over the campaign, I follow the interests that persist and let others recede. The world does not stop when the characters look elsewhere: forces keep pursuing their goals, but I do not keep presenting a thread just because I prepared it. Theme remains the lens for deciding which developments to bring forward and how to frame them; it helps me build on the players' interests without turning those interests into a required route or a predetermined answer.
 
+##### Distinguishing Curiosity from Investment #####
+
+Curiosity says, "I want to know more." Players may ask about someone, investigate an odd detail, or follow a lead to see what is there. That earns an answer and room to explore, not an assumption that this interest is now central to the campaign.
+
+Investment says, "What happens here matters to me." The players begin wanting something for or from a person, place, or situation, and their involvement influences their decisions. I infer that commitment from play rather than deciding in advance what they should care about.
+
+Signs that curiosity is becoming investment include:
+
+- **Returning without prompting.** The players bring it up again or choose to go back when other options are available.
+- **Taking initiative.** They form their own goal rather than only responding to information I offer.
+- **Giving it priority.** They devote time, resources, or effort to it, or let it affect how they approach another problem.
+- **Caring about the outcome.** They want someone protected, something changed, a relationship maintained, or a wrong answered—not merely a mystery explained.
+
+Time spent is useful evidence, but not sufficient by itself. Players may spend a whole session investigating something because it is difficult to understand, while a brief encounter may produce immediate attachment. Investment does not require a sacrifice; caring can be evident before it costs anything. It does not require affection either: someone the players distrust, a place they want to escape, or a problem they are determined to end can become an emotional center.
+
+Curiosity is a reason to offer more; investment is a reason to build more deeply. I give the players enough to discover whether they care. If they do, I develop connections and consequences around what they have made important. If they do not, I let it remain a passing interest.
+
 ##### Accumulating Meaning, Direction, and an Emotional Center #####
 
 Following what catches the players' eye does not mean resetting the campaign around every new curiosity. I develop their interests in relation to the Stage, the Forces, the theme, and what has already happened. Exploration becomes cumulative because the world they encounter has already been changed by their earlier choices.
