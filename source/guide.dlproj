@@ -1,7 +1,7 @@
 (documents
     (document
         (guide
-            (source ./guide/_main.dlisp)
+            (source ./guide/_main.md)
             (output ../GM_Guide.md)
         )
         (readme

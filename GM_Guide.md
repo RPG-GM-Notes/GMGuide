@@ -8,6 +8,8 @@
 
 ### A guide to help you run reactive non-linear campaigns ###
 
+**License:** Unless otherwise noted, original material in this guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Third-party material and trademarks are not included in this license.
+
 ## Table of Contents ##
 
 1. [Introduction: Why This Guide Exists](#introduction-why-this-guide-exists)
