@@ -10,7 +10,7 @@
 
 **License:** Unless otherwise noted, original material in this guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Third-party material and trademarks are not included in this license.
 
-**Read the full guide:** [Force Based Gamemastering](https://raw.githubusercontent.com/RPG-GM-Notes/GMGuide/refs/heads/main/docs/Guide.md)
+**Read the full guide:** <a href="https://raw.githubusercontent.com/RPG-GM-Notes/GMGuide/refs/heads/main/docs/Guide.md"download>Force Based Gamemastering</a>
 
 ## Guide Contents ##
 
