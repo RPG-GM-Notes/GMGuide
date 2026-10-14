@@ -10,6 +10,8 @@
 
 **License:** Unless otherwise noted, original material in this guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Third-party material and trademarks are not included in this license.
 
+**Read the full guide by downloading it:** [Force Based Gamemastering](./docs/Guide.md?raw=1)
+
 ## Guide Contents ##
 
 - [Part I: What I’m Trying to Create](./docs/parts/part-i.md#part-i-what-im-trying-to-create)
