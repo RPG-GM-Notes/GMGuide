@@ -50,6 +50,26 @@ Knowing that a veto is allowed is different from feeling able to use it in a fas
 
 The purpose is to rehearse the procedure, not to test anyone's limits or require personal disclosure. I want using the escape valve to take as little effort as possible when a real moment calls for it.
 
+#### When Practice Feels Infantilizing ####
+
+Some players may find this practice patronizing, especially the silly example. They are adults who understand what "stop" means, and being asked to demonstrate it can feel as though I doubt their competence or am treating them like children. That is a concern worth taking seriously, not evidence that they disregard safety or consent.
+
+Understanding the rule is not what we are practicing. A player can understand it perfectly and still hesitate to interrupt a scene everyone else seems to enjoy, abandon something the GM has prepared, or act on a reaction they cannot yet explain. Experience does not make someone immune to those pressures. Practice gives them a chance to see that using the veto really does stop the content without requiring a defense. It gives them evidence of how this table responds, rather than only my promise about how it will respond.
+
+The rest of us are practicing too. I rehearse stopping and removing the context; everyone else rehearses accepting the interruption without debating it, demanding reasons, or making the person responsible for restoring the mood. The player using the veto is not performing for my approval. We are rehearsing a shared procedure in which that player's decision is sufficient.
+
+Many people have experienced the same reason for rehearsal in workplace safety drills, especially in jobs with specialized safety concerns. Competent adults practice so that an unexpected, stressful moment is not their first attempt at using the procedure, and so everyone knows how to respond when someone signals a problem. The comparison is about why we rehearse, not about equating a game with a hazardous workplace. A drill can itself be patronizing or perfunctory; the analogy does not excuse that here.
+
+That distinction matters. Infantilization would mean treating players as incapable of understanding or managing their own experience and substituting my judgment for theirs. The veto does the opposite: I cannot know their experience for them, so they retain the authority to stop content even when I do not understand why. Practice is meant to make that authority usable, not to assess their maturity.
+
+A worthwhile purpose does not excuse a patronizing presentation. I explain the reason before the exercise, keep it brief, and take part myself rather than adopting the role of a teacher testing students. If the silly example feels demeaning, we can choose a straightforward, low-stakes example instead. The silliness is not the point; rehearsing both the veto and the table's response is.
+
+I might introduce it this way:
+
+> We are not practicing because I think you do not understand the word "stop." We are practicing so you can see what happens when you use it, and so all of us, including me, rehearse responding without making you explain yourself. I do not want the first time we try this together to be a moment when someone actually needs it.
+
+If someone objects, I ask what about the exercise feels patronizing and discuss its format rather than treating the objection as proof that they need instruction. I still require practice before play at my table, but I do not need to insist on a particular performance or joke to accomplish it. The aim is to establish a trustworthy response together, not to demand that players prove they can follow directions.
+
 ## 5. Creating a Starting Point ##
 
 ### What I Need to Know Before Play Begins ###
