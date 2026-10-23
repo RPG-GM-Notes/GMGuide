@@ -6,12 +6,12 @@
 
 # Appendices #
 
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · **Appendices**
+
 * [A One-Page Summary](#a-one-page-summary)
 * [Quick Reference for Play](#quick-reference-for-play)
 * [Session Preparation Template](#session-preparation-template)
 * [Terms I Use in a Particular Way](#terms-i-use-in-a-particular-way)
-
-**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · **Appendices**
 
 ## A One-Page Summary ##
 

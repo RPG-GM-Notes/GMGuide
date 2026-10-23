@@ -52,11 +52,11 @@ The examples show what these ideas have looked like in my games, not what every 
 
 ## Part I: What I’m Trying to Create ##
 
+**Parts:** **I — What I’m Trying to Create** · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 * [1. What a Good Game Looks Like to Me](#1-what-a-good-game-looks-like-to-me)
 * [2. The GM's Job—and Its Limits](#2-the-gms-joband-its-limits)
 * [3. The Principles Behind My Decisions](#3-the-principles-behind-my-decisions)
-
-**Parts:** **I — What I’m Trying to Create** · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 1. What a Good Game Looks Like to Me ###
 
@@ -164,11 +164,11 @@ This is more difficult in tactical games such as D&D, where encounters may need 
 
 ## Part II: Setting Up the Game ##
 
+**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · **II — Setting Up the Game** · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 * [4. Finding the Right Fit](#4-finding-the-right-fit)
 * [5. Creating a Starting Point](#5-creating-a-starting-point)
 * [6. Preparing for Play](#6-preparing-for-play)
-
-**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · **II — Setting Up the Game** · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 4. Finding the Right Fit ###
 
@@ -501,12 +501,12 @@ The open questions show what is uncertain and what can wait. The players might p
 
 ## Part III: Running the Game ##
 
+**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 * [7. My Basic Loop at the Table](#7-my-basic-loop-at-the-table)
 * [8. Making Decisions in the Moment](#8-making-decisions-in-the-moment)
 * [9. Keeping Play Moving](#9-keeping-play-moving)
 * [10. Bringing the World to Life](#10-bringing-the-world-to-life)
-
-**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 7. My Basic Loop at the Table ###
 
@@ -650,11 +650,11 @@ Let consequences grow from the established situation. Effects may be indirect or
 
 ## Part IV: Managing Sessions and Campaigns ##
 
+**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · **IV — Managing Sessions and Campaigns** · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
+
 * [11. Ending a Session and Starting the Next](#11-ending-a-session-and-starting-the-next)
 * [12. Letting a Campaign Develop](#12-letting-a-campaign-develop)
 * [13. When It Isn't Working](#13-when-it-isnt-working)
-
-**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · **IV — Managing Sessions and Campaigns** · [V — Learning the Approach](#part-v-learning-the-approach) · [Appendices](#appendices)
 
 ### 11. Ending a Session and Starting the Next ###
 
@@ -825,10 +825,10 @@ The key is to identify which kind of problem you have: follow an interest the gr
 
 ## Part V: Learning the Approach ##
 
+**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · **V — Learning the Approach** · [Appendices](#appendices)
+
 * [14. My Approach in Practice](#14-my-approach-in-practice)
 * [15. Making This Style Your Own](#15-making-this-style-your-own)
-
-**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · **V — Learning the Approach** · [Appendices](#appendices)
 
 ### 14. My Approach in Practice ###
 
@@ -983,12 +983,12 @@ After a few sessions, ask whether the players have found something to explore, w
 
 ## Appendices ##
 
+**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · **Appendices**
+
 * [A One-Page Summary](#a-one-page-summary)
 * [Quick Reference for Play](#quick-reference-for-play)
 * [Session Preparation Template](#session-preparation-template)
 * [Terms I Use in a Particular Way](#terms-i-use-in-a-particular-way)
-
-**Parts:** [I — What I’m Trying to Create](#part-i-what-im-trying-to-create) · [II — Setting Up the Game](#part-ii-setting-up-the-game) · [III — Running the Game](#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](#part-v-learning-the-approach) · **Appendices**
 
 ### A One-Page Summary ###
 

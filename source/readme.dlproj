@@ -6,27 +6,27 @@
         )
     )
     (document
-        (source ./guide/part_1/_part1.dlisp)
+        (source ./guide/part_1/_part1.md)
         (output ../docs/parts/part-i.md)
     )
     (document
-        (source ./guide/part_2/_part2.dlisp)
+        (source ./guide/part_2/_part2.md)
         (output ../docs/parts/part-ii.md)
     )
     (document
-        (source ./guide/part_3/_part3.dlisp)
+        (source ./guide/part_3/_part3.md)
         (output ../docs/parts/part-iii.md)
     )
     (document
-        (source ./guide/part_4/_part4.dlisp)
+        (source ./guide/part_4/_part4.md)
         (output ../docs/parts/part-iv.md)
     )
     (document
-        (source ./guide/part_5/_part5.dlisp)
+        (source ./guide/part_5/_part5.md)
         (output ../docs/parts/part-v.md)
     )
     (document
-        (source ./guide/appendices/_appendices.dlisp)
+        (source ./guide/appendices/_appendices.md)
         (output ../docs/parts/appendices.md)
     )
 )

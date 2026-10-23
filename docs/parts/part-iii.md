@@ -6,12 +6,12 @@
 
 # Part III: Running the Game #
 
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
+
 * [7. My Basic Loop at the Table](#7-my-basic-loop-at-the-table)
 * [8. Making Decisions in the Moment](#8-making-decisions-in-the-moment)
 * [9. Keeping Play Moving](#9-keeping-play-moving)
 * [10. Bringing the World to Life](#10-bringing-the-world-to-life)
-
-**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
 
 ## 7. My Basic Loop at the Table ##
 

@@ -6,10 +6,10 @@
 
 # Part V: Learning the Approach #
 
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · **V — Learning the Approach** · [Appendices](./appendices.md#appendices)
+
 * [14. My Approach in Practice](#14-my-approach-in-practice)
 * [15. Making This Style Your Own](#15-making-this-style-your-own)
-
-**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · **V — Learning the Approach** · [Appendices](./appendices.md#appendices)
 
 ## 14. My Approach in Practice ##
 

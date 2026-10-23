@@ -3,12 +3,12 @@
     (subtitle A guide to help you run reactive non-linear campaigns)
     (include
         (Subsection ./introduction.md)
-        (Subsection ./part_1/_part1.dlisp)
-        (Subsection ./part_2/_part2.dlisp)
-        (Subsection ./part_3/_part3.dlisp)
-        (Subsection ./part_4/_part4.dlisp)
-        (Subsection ./part_5/_part5.dlisp)
-        (Subsection ./appendices/_appendices.dlisp)
+        (Subsection ./part_1/_part1.md)
+        (Subsection ./part_2/_part2.md)
+        (Subsection ./part_3/_part3.md)
+        (Subsection ./part_4/_part4.md)
+        (Subsection ./part_5/_part5.md)
+        (Subsection ./appendices/_appendices.md)
     )
 )
 

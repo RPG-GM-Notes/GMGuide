@@ -1,1 +1,0 @@
-**Parts:** [I — What I’m Trying to Create](<!-- (dl (get-path part-i)) -->) · [II — Setting Up the Game](<!-- (dl (get-path part-ii)) -->) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](<!-- (dl (get-path part-iv)) -->) · [V — Learning the Approach](<!-- (dl (get-path part-v)) -->) · [Appendices](<!-- (dl (get-path appendices)) -->)
