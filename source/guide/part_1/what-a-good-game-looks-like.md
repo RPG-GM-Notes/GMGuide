@@ -8,6 +8,8 @@ My biggest sign that a game has worked is what the players do when it ends. Eith
 
 <!-- (dl (## I Design Systems, Not Stories)) -->
 
+In this guide, a **Force** is a person or group with a goal and enough power in a relevant arena to affect the situation. Chapter 5 develops the full criteria, including the limits and fingerprint that help make a Force useful in play.
+
 I build a world with enough pressure and meaning for the players' choices, the forces' actions, and the Stage's tensions to create the story in play.
 
 <!-- (dl (# What Makes a Session Feel Successful)) -->
