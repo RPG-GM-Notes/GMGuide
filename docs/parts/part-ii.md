@@ -10,7 +10,7 @@
 * [5. Creating a Starting Point](#5-creating-a-starting-point)
 * [6. Preparing for Play](#6-preparing-for-play)
 
-**Parts:** [Part I](./part-i.md#part-i-what-im-trying-to-create) · **Part II** · [Part III](./part-iii.md#part-iii-running-the-game) · [Part IV](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [Part V](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · **II — Setting Up the Game** · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
 
 ## 4. Finding the Right Fit ##
 

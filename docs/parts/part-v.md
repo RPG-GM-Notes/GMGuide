@@ -9,7 +9,7 @@
 * [14. My Approach in Practice](#14-my-approach-in-practice)
 * [15. Making This Style Your Own](#15-making-this-style-your-own)
 
-**Parts:** [Part I](./part-i.md#part-i-what-im-trying-to-create) · [Part II](./part-ii.md#part-ii-setting-up-the-game) · [Part III](./part-iii.md#part-iii-running-the-game) · [Part IV](./part-iv.md#part-iv-managing-sessions-and-campaigns) · **Part V** · [Appendices](./appendices.md#appendices)
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · **V — Learning the Approach** · [Appendices](./appendices.md#appendices)
 
 ## 14. My Approach in Practice ##
 

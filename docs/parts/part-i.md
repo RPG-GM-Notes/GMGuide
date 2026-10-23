@@ -10,7 +10,7 @@
 * [2. The GM's Job—and Its Limits](#2-the-gms-joband-its-limits)
 * [3. The Principles Behind My Decisions](#3-the-principles-behind-my-decisions)
 
-**Parts:** **Part I** · [Part II](./part-ii.md#part-ii-setting-up-the-game) · [Part III](./part-iii.md#part-iii-running-the-game) · [Part IV](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [Part V](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
+**Parts:** **I — What I’m Trying to Create** · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · [III — Running the Game](./part-iii.md#part-iii-running-the-game) · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
 
 ## 1. What a Good Game Looks Like to Me ##
 

@@ -11,7 +11,7 @@
 * [9. Keeping Play Moving](#9-keeping-play-moving)
 * [10. Bringing the World to Life](#10-bringing-the-world-to-life)
 
-**Parts:** [Part I](./part-i.md#part-i-what-im-trying-to-create) · [Part II](./part-ii.md#part-ii-setting-up-the-game) · **Part III** · [Part IV](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [Part V](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
+**Parts:** [I — What I’m Trying to Create](./part-i.md#part-i-what-im-trying-to-create) · [II — Setting Up the Game](./part-ii.md#part-ii-setting-up-the-game) · **III — Running the Game** · [IV — Managing Sessions and Campaigns](./part-iv.md#part-iv-managing-sessions-and-campaigns) · [V — Learning the Approach](./part-v.md#part-v-learning-the-approach) · [Appendices](./appendices.md#appendices)
 
 ## 7. My Basic Loop at the Table ##
 
