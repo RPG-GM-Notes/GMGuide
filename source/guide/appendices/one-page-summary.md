@@ -24,6 +24,8 @@ At the table, repeat this loop:
 
 When deciding what happens next, first ask, “What is the most interesting outcome that can happen within the theme?” Then work out how it can grow from the characters' action and the established Stage, forces, goals, limits, relationships, and events. If it cannot be grounded in the situation, look for another thematic outcome rather than forcing it. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
 
+The Rule of Interesting is a separate test for whether to roll: only roll when failure will make the current story more interesting. I learned the idea from the original *7th Sea*. If the characters lose a combat, that failure should lead to a more interesting situation, not automatically to character death; this subrule comes from *Fate Core*.
+
 <!-- (dl (## Keep the Table's Priorities Clear)) -->
 
 - **Safety is the hard boundary.** A player's veto is not debated or put to a vote.

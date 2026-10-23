@@ -193,6 +193,12 @@ When I intend the opening to be a victory, I make the combat well below the char
 
 This is a specific decision about the first fight, not a predetermined outcome for the Arc. The characters' responses and the events that follow remain open.
 
+<!-- (dl (## When Combat Ends in Failure)) -->
+
+The opening fight is a special case, but the principle applies to combat more broadly: **failure in combat should always lead to a more interesting situation.** I take this subrule from *Fate Core*. It applies to losing a combat, not to an individual failed roll.
+
+A character's death can be the right outcome, but it is not automatically the most interesting one. Capture, for example, may give the characters new problems and choices to face. I look for a loss that changes the situation in a way the table can engage with, rather than defaulting to death.
+
 <!-- (dl (## Letting Questions Bring Out the Background)) -->
 
 Once the combat is over, the players start asking questions. Now I can give them the opening explanation because they are seeking it instead of waiting for me to finish talking.

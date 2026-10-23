@@ -16,7 +16,7 @@ I let the players decide what their characters attempt. If I am unsure what a pl
 
 <!-- (dl (# Decide What Needs Resolution)) -->
 
-Once I understand the intention, I decide whether anything needs to be resolved. Some actions are clear from the situation and need no roll or extended discussion. When the outcome is uncertain and matters, I use the relevant rules, make a ruling, or talk through the situation with the players. How I choose between those approaches, and how I handle a difficult ruling, belongs to the next chapter.
+Once I understand the intention, I decide whether anything needs to be resolved. Some actions are clear from the situation and need no roll or extended discussion. When the outcome is uncertain, I ask whether failure would make the current story more interesting; I roll only if it would. Otherwise, I resolve the action without a roll. I can use a ruling or talk through the situation with the players when that helps. How I choose between these approaches, and how I handle a difficult ruling, belongs to the next chapter.
 
 <!-- (dl (# Establish What Changes)) -->
 

@@ -423,6 +423,12 @@ When I intend the opening to be a victory, I make the combat well below the char
 
 This is a specific decision about the first fight, not a predetermined outcome for the Arc. The characters' responses and the events that follow remain open.
 
+##### When Combat Ends in Failure #####
+
+The opening fight is a special case, but the principle applies to combat more broadly: **failure in combat should always lead to a more interesting situation.** I take this subrule from *Fate Core*. It applies to losing a combat, not to an individual failed roll.
+
+A character's death can be the right outcome, but it is not automatically the most interesting one. Capture, for example, may give the characters new problems and choices to face. I look for a loss that changes the situation in a way the table can engage with, rather than defaulting to death.
+
 ##### Letting Questions Bring Out the Background #####
 
 Once the combat is over, the players start asking questions. Now I can give them the opening explanation because they are seeking it instead of waiting for me to finish talking.
@@ -520,7 +526,7 @@ I let the players decide what their characters attempt. If I am unsure what a pl
 
 #### Decide What Needs Resolution ####
 
-Once I understand the intention, I decide whether anything needs to be resolved. Some actions are clear from the situation and need no roll or extended discussion. When the outcome is uncertain and matters, I use the relevant rules, make a ruling, or talk through the situation with the players. How I choose between those approaches, and how I handle a difficult ruling, belongs to the next chapter.
+Once I understand the intention, I decide whether anything needs to be resolved. Some actions are clear from the situation and need no roll or extended discussion. When the outcome is uncertain, I ask whether failure would make the current story more interesting; I roll only if it would. Otherwise, I resolve the action without a roll. I can use a ruling or talk through the situation with the players when that helps. How I choose between these approaches, and how I handle a difficult ruling, belongs to the next chapter.
 
 #### Establish What Changes ####
 
@@ -536,7 +542,13 @@ Their next choice begins the loop again. The forces react to what the characters
 
 #### Choosing How to Resolve Something ####
 
-When a character tries something, I first decide whether the outcome needs resolving at all. If it is clear from the situation, I say what happens and keep play moving. If the outcome is uncertain and matters, I use the rules, make a ruling, or talk it through with the players. I choose the approach that helps us understand what happens without letting the process get in the way of the game.
+When a character tries something, I first decide whether the outcome needs resolving at all. If it is clear from the situation, I say what happens and keep play moving. If it is uncertain and matters, I choose how to resolve it: use the rules, make a ruling, or talk it through with the players. I choose the approach that helps us understand what happens without letting the process get in the way of the game.
+
+##### The Rule of Interesting #####
+
+Before I roll, I ask whether failure would make the current story more interesting. **Only roll the dice when failure will cause the current story to be more interesting.** I call this the Rule of Interesting. I learned the idea from the original *7th Sea*, though it did not call it that; this wording is mine. If failure would not make the story more interesting, I resolve the action without a roll. Uncertainty alone is not a reason to roll.
+
+This is different from asking what the most interesting outcome within the theme might be. That question helps me decide what happens; the Rule of Interesting helps me decide whether to roll.
 
 Rules are useful tools, not authorities that outrank the people playing. If a rule supports the moment, I use it. If I do not know the rule, I let the player attempt the action for now and tell them I will check it for future sessions. If the dice or system are getting in the way of the table's fun, I set them aside and play make-believe instead.
 
@@ -1004,6 +1016,8 @@ At the table, repeat this loop:
 
 When deciding what happens next, first ask, “What is the most interesting outcome that can happen within the theme?” Then work out how it can grow from the characters' action and the established Stage, forces, goals, limits, relationships, and events. If it cannot be grounded in the situation, look for another thematic outcome rather than forcing it. Let the players' choices stand. Follow what interests them; do not force them toward a prepared thread or a moral conclusion. Consequences should give the players something meaningful to respond to, not secretly cancel their success or imply a preferred answer.
 
+The Rule of Interesting is a separate test for whether to roll: only roll when failure will make the current story more interesting. I learned the idea from the original *7th Sea*. If the characters lose a combat, that failure should lead to a more interesting situation, not automatically to character death; this subrule comes from *Fate Core*.
+
 ##### Keep the Table's Priorities Clear #####
 
 - **Safety is the hard boundary.** A player's veto is not debated or put to a vote.
@@ -1024,7 +1038,7 @@ This preparation helps improvisation feel coherent. Players may experience the w
 
 1. **Present:** What is happening that the characters can perceive and act on?
 2. **Ask:** What do the players want their characters to do? Clarify their intention if needed.
-3. **Resolve:** Is the outcome clear, or is it uncertain and important? Use a rule, make a ruling, or talk it through.
+3. **Resolve:** Is the outcome clear? If it is uncertain, only roll when failure would make the current story more interesting (the Rule of Interesting, from the original *7th Sea*). Otherwise, resolve without a roll; make a ruling or talk it through when useful.
 4. **Change:** First ask, “What is the most interesting outcome that can happen within the campaign's theme?” Then work out how it can grow from the action, the Stage, force goals and limits, relationships, and what has already happened. If you cannot ground it in the established situation, look for another thematic outcome.
 5. **Return:** Make the change visible and give the players the situation back.
 
@@ -1033,6 +1047,7 @@ This preparation helps improvisation feel coherent. Players may experience the w
 - Start from what is established; do not invent danger just to make things harder.
 - Let the theme lead: first ask what is the most interesting outcome that can happen within it, then ground that outcome in the established situation.
 - Let success stand; consequences can add costs or complications without negating the achievement.
+- If the characters lose a combat, make that failure lead to a more interesting situation; it does not have to mean character death. (A subrule from *Fate Core*.)
 - If you do not know a rule, let the player try for now and check it for later.
 - If the action is a plausible stretch, consider allowing it with a small increase in difficulty.
 - If it is too outlandish, say no to that action and help find another way to pursue the character's goal.

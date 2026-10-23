@@ -7,7 +7,13 @@
 
 <!-- (dl (# Choosing How to Resolve Something)) -->
 
-When a character tries something, I first decide whether the outcome needs resolving at all. If it is clear from the situation, I say what happens and keep play moving. If the outcome is uncertain and matters, I use the rules, make a ruling, or talk it through with the players. I choose the approach that helps us understand what happens without letting the process get in the way of the game.
+When a character tries something, I first decide whether the outcome needs resolving at all. If it is clear from the situation, I say what happens and keep play moving. If it is uncertain and matters, I choose how to resolve it: use the rules, make a ruling, or talk it through with the players. I choose the approach that helps us understand what happens without letting the process get in the way of the game.
+
+<!-- (dl (## The Rule of Interesting)) -->
+
+Before I roll, I ask whether failure would make the current story more interesting. **Only roll the dice when failure will cause the current story to be more interesting.** I call this the Rule of Interesting. I learned the idea from the original *7th Sea*, though it did not call it that; this wording is mine. If failure would not make the story more interesting, I resolve the action without a roll. Uncertainty alone is not a reason to roll.
+
+This is different from asking what the most interesting outcome within the theme might be. That question helps me decide what happens; the Rule of Interesting helps me decide whether to roll.
 
 Rules are useful tools, not authorities that outrank the people playing. If a rule supports the moment, I use it. If I do not know the rule, I let the player attempt the action for now and tell them I will check it for future sessions. If the dice or system are getting in the way of the table's fun, I set them aside and play make-believe instead.
 
