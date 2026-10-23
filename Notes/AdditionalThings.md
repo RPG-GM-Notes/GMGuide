@@ -1,3 +1,3 @@
 - [X] Revisit early force definiton.
-- [ ] Talk about why the veto is needed
+- [X] Talk about why the veto is needed
 - [ ] Talk about the rule of interesting

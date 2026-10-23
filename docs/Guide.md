@@ -188,9 +188,25 @@ I also tell players what topics I want to address, especially when those topics 
 
 Before play, we decide together what content can go into the game and when it can happen. Every player can veto content at any time, no questions asked. If a veto is used, I remove the offending context, make a note, and after the session ask only whether I recorded it correctly so it can be added to our banned-topics list.
 
+##### Why the Veto Is Needed #####
+
+The veto protects a player's agency and consent during play. Agreeing to join a game, or agreeing beforehand that a topic is acceptable, does not mean agreeing to endure every way that topic might unfold. The player has the final say over whether they continue engaging with content that affects them.
+
+Nobody can be completely self-aware all the time. A player may discover a boundary only when something in play affects them. They may not understand their reaction yet, much less be able to explain it. They do not need to have identified or announced that boundary beforehand for it to matter.
+
+Things happen quickly at the table, and we sometimes respond by instinct. An interaction or improvised detail can accidentally trigger someone even when everyone is acting with care. The veto is not a judgment that the GM was careless or that a player failed to disclose something. Nobody has to have failed for it to be needed.
+
+It is an escape valve: a way out of that moment and back toward normalcy at the table. An agreed list of banned topics is useful, but it cannot anticipate everything that might affect someone. The veto remains available when a reaction surprises everyone, including the person experiencing it.
+
+"Stop this" is sufficient. The player does not need to understand their reaction, disclose personal experiences, provide proof, defend a boundary, or negotiate for permission. A veto is not debated or put to a vote. I remove the offending context and its direct consequences. If the veto concerns an action by a player character, I work with that player to find another action the character can take. The fiction can change; the person should not have to endure the moment for the game to continue.
+
+##### Why We Practice Before Play #####
+
 I don't start a game with a player until we have practiced vetoing topics twice. The first practice is usually silly: I might say, “Ham is your trigger topic and bread is yours,” then describe a scene that includes one of those topics so everyone can try using a veto. I repeat the exercise with a different, real example, such as animal abuse, if it is not already on the forbidden-topics list.
 
-The practices help make vetoing an available action before a real boundary is tested in play. A veto does not require explanation. If the veto concerns an action by a player character, I work with that player to find another action the character can take.
+Knowing that a veto is allowed is different from feeling able to use it in a fast-moving or emotionally intense moment. Practice makes it a familiar, available action before someone discovers they need it. Each player gets to rehearse using the veto and experience the table honoring it. I also get to practice stopping and removing the context promptly, without asking for an explanation or turning it into a discussion.
+
+The purpose is to rehearse the procedure, not to test anyone's limits or require personal disclosure. I want using the escape valve to take as little effort as possible when a real moment calls for it.
 
 ### 5. Creating a Starting Point ###
 
