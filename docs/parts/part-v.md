@@ -122,12 +122,16 @@ Ask how the pieces affect one another and how, together, they give the theme dif
 
 #### Find Forces in the Stage ####
 
-Look at the Stage you made and identify people or groups who want something. For each possible force, write:
+Look at the Stage you made and identify people or groups who want something. For each possible force, explore the following questions and note what you discover. These are useful things to understand, not a required order of creation:
 
 - What it wants.
 - What it will and will not do.
 - What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
 - What recognizable signature shapes the way it acts: its methods, habits, priorities, or way of treating people.
+
+Test whether their pursuit can create active conflict. What do they initiate without waiting for someone to bring them a problem, and whose interests or plans might that disturb? An interesting character with a passive goal may work better as a supporting character, or need a different goal to become a Force.
+
+If it helps, imagine this person taking that initiative or responding to a specific request or setback. What do they notice, what do they want, and what will they refuse? Use the behavior to test your understanding, not to plan a scene that must happen.
 
 Consider what angle on the thematic question the force's goals and methods might bring into play, and how its actions might complicate or challenge other angles. A Force need not represent a position on the question; the campaign's different people, pressures, and collisions create the exploration together. Use its signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 

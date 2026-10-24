@@ -277,6 +277,20 @@ As a rule of thumb, I start with three forces. I give them goals that do not dir
 
 For my purposes, directly opposing goals simplify two forces down to a single force: everything they do interacts. Separate goals give me more possibilities for how their actions might intersect, whether that produces conflict, cooperation, or no immediate connection.
 
+###### How I Develop a Force ######
+
+The qualities above describe what makes a Force useful to me; they are not necessarily the order in which I create one. I often begin with something that interests me: a role, a relationship, a contradiction, or a gap in the Stage. I let the idea remain partly defined while I explore what it might support. It may become a Force, or remain a supporting character.
+
+Rather than asking what else to add, I ask what the idea means. What does this person want? Why does their way of pursuing it make sense to them? What would they refuse to do, even if it helped? Their answers suggest relationships and pressures in the Stage, and those connections help me understand them in turn.
+
+I distinguish what someone wants from how they pursue it. An occupation or tactic does not necessarily tell me their goal. A painful experience can matter without explaining every later choice, and a sincere conviction does not have to be correct. I want to understand the person's reasons without making one fact explain everything about them.
+
+One of my biggest tests is: **Can this character create active conflict?** An interesting person can still have a goal too passive to make them a useful Force. I ask what they initiate in pursuit of that goal, rather than only how they respond when someone brings them a problem. Whose interests, obligations, or plans might their actions disturb? This does not require aggression, villainy, or directly opposing goals. It requires a pursuit that can create collisions. If I cannot see how they would generate conflict, I reconsider their goal or let them remain a supporting character.
+
+I test that understanding by imagining a specific request, setback, or disagreement. What would they notice, attempt, or refuse? If their response feels generic or unlike the person I had in mind, I reconsider the idea rather than adding more traits. This is a way to explore behavior, not to script a future scene.
+
+This is how I think through a character, not a process you need to reproduce. Borrow whichever questions help. I stop when I understand enough to respond to surprises in play; I do not need an answer to every question or a campaign purpose for every interest they have.
+
 ###### When There Are Too Many Forces in Play ######
 
 There is no fixed maximum number of Forces. The problem is not how many people or groups exist in the world, but how many I need to actively track and bring into play at once. A Stage can contain many possible actors while only a few are currently pursuing goals that matter to the characters.
@@ -943,12 +957,16 @@ Ask how the pieces affect one another and how, together, they give the theme dif
 
 ##### Find Forces in the Stage #####
 
-Look at the Stage you made and identify people or groups who want something. For each possible force, write:
+Look at the Stage you made and identify people or groups who want something. For each possible force, explore the following questions and note what you discover. These are useful things to understand, not a required order of creation:
 
 - What it wants.
 - What it will and will not do.
 - What makes it more powerful than the characters in the arena where it pursues its goal. This might be authority, resources, expertise, public trust, social reach, or something else—not necessarily combat power or power in every arena.
 - What recognizable signature shapes the way it acts: its methods, habits, priorities, or way of treating people.
+
+Test whether their pursuit can create active conflict. What do they initiate without waiting for someone to bring them a problem, and whose interests or plans might that disturb? An interesting character with a passive goal may work better as a supporting character, or need a different goal to become a Force.
+
+If it helps, imagine this person taking that initiative or responding to a specific request or setback. What do they notice, what do they want, and what will they refuse? Use the behavior to test your understanding, not to plan a scene that must happen.
 
 Consider what angle on the thematic question the force's goals and methods might bring into play, and how its actions might complicate or challenge other angles. A Force need not represent a position on the question; the campaign's different people, pressures, and collisions create the exploration together. Use its signature to guide what the force does, rather than treating it only as a clue to add after the fact. The players may recognize a pattern, even through a disguise, and come to trust or fear it; those effects grow from the consistency of the force's actions. Consider how the force's actions might intersect with the characters and other forces without assuming it is an antagonist or that its goals must be opposed. Remember that a group can be one force while its members remain distinct individuals.
 
