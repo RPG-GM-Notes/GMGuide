@@ -10,6 +10,8 @@
 
 **License:** Unless otherwise noted, original material in this guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Third-party material and trademarks are not included in this license.
 
+**Document Version:** 1.0.0
+
 **Read the full guide:** <a href="https://github.com/RPG-GM-Notes/GMGuide/releases/latest/download/Guide.md">Download Force Based Gamemastering</a>
 
 <!-- (dl (# Guide Contents)) -->
